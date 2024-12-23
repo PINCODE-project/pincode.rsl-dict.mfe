@@ -1,0 +1,69 @@
+{
+  "name": "pincode.rsl-dictionary.mfe",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@tanstack/react-virtual": "^3.11.2",
+    "@testing-library/react": "^16.1.0",
+    "@trivago/prettier-plugin-sort-imports": "^5.2.0",
+    "@types/react-router-dom": "^5.3.3",
+    "axios": "^1.7.9",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "copy-webpack-plugin": "^12.0.2",
+    "cra-template-typescript": "1.2.0",
+    "effector": "^23.2.3",
+    "effector-react": "^23.3.0",
+    "fuse.js": "^7.0.0",
+    "html-webpack-plugin": "^5.6.3",
+    "lucide-react": "^0.468.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.0.2",
+    "react-scripts": "5.0.1",
+    "sass": "^1.83.0",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.7.2"
+  },
+  "scripts": {
+    "start": "webpack serve --mode development --progress --hot --config ./webpack.config.dev.js",
+    "build": "webpack --mode production --config ./webpack.config.production.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.16.0",
+    "@module-federation/native-federation-typescript": "^0.6.0",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.2",
+    "@typescript-eslint/eslint-plugin": "^8.14.0",
+    "@typescript-eslint/parser": "^8.14.0",
+    "eslint": "^9.16.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-simple-import-sort": "^12.1.1",
+    "globals": "^15.13.0",
+    "prettier": "^3.4.2",
+    "typescript-eslint": "^8.18.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
