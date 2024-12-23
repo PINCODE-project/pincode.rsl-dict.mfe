@@ -4166,7 +4166,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "15517": {
         "id": 15517,
-        "text": "/ 10 милилитров",
+        "text": "10 милилитров",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351528.mp4"
         ]
@@ -4573,7 +4573,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Миллион / 1000000",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6846.mp4",
-			"https://storage.yandexcloud.net/signs-signs/313442.mp4"
+			"https://storage.yandexcloud.net/signs-signs/313442.mp4",
+			"https://storage.yandexcloud.net/signs-signs/316289.mp4",
+			"https://storage.yandexcloud.net/signs-signs/100542.mp4"
         ]
     },
     "688": {
@@ -51453,13 +51455,6 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/100737.mp4"
         ]
     },
-    "9462": {
-        "id": 9462,
-        "text": "миллион",
-        "gifSource": [
-            "https://storage.yandexcloud.net/signs-signs/100542.mp4"
-        ]
-    },
     "9464": {
         "id": 9464,
         "text": "мимика",
@@ -75069,7 +75064,8 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Миллиард / 1000000000",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296947.mp4",
-			"https://storage.yandexcloud.net/signs-signs/316288.mp4"
+			"https://storage.yandexcloud.net/signs-signs/316288.mp4",
+			"https://storage.yandexcloud.net/signs-signs/296948.mp4"
         ]
     },
     "15368": {
@@ -83256,13 +83252,6 @@ export let dictionaryData: DictionaryEntry = {
         "text": "барбекью",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296726.mp4"
-        ]
-    },
-    "21300": {
-        "id": 21300,
-        "text": "миллиард ",
-        "gifSource": [
-            "https://storage.yandexcloud.net/signs-signs/296948.mp4"
         ]
     },
     "21301": {
@@ -91745,13 +91734,6 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сотый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317413.mp4"
-        ]
-    },
-    "24191": {
-        "id": 24191,
-        "text": "миллионный",
-        "gifSource": [
-            "https://storage.yandexcloud.net/signs-signs/316289.mp4"
         ]
     },
     "24202": {
