@@ -12,6 +12,7 @@ const copyPluginPatterns = {
         { from: "./public/logo512.png" },
         { from: "./public/manifest.json" },
         { from: "./public/favicon.ico" },
+        { from: "./public/_redirects" },
         { from: "./src/assets" },
         // { from: "./src/assets/fonts", to: "fonts" },
         // { from: "./src/assets/vendor", to: "js" },
