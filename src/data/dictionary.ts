@@ -2652,8 +2652,7 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100550.mp4",
             "https://storage.yandexcloud.net/signs-signs/4362.mp4"
-        ],
-        "recognitionText": ["автобус"]
+        ]
     },
     "445": {
         "id": 445,
@@ -3954,11 +3953,340 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/6327.mp4"
         ]
     },
+    "640": {
+        "id": 640,
+        "text": "2",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6343.mp4"
+        ]
+    },
+    "641": {
+        "id": 641,
+        "text": "3",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6355.mp4"
+        ]
+    },
+    "642": {
+        "id": 642,
+        "text": "4",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6358.mp4"
+        ]
+    },
+    "643": {
+        "id": 643,
+        "text": "5",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6375.mp4"
+        ]
+    },
+    "644": {
+        "id": 644,
+        "text": "6",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6388.mp4"
+        ]
+    },
+    "645": {
+        "id": 645,
+        "text": "7",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6389.mp4"
+        ]
+    },
+    "646": {
+        "id": 646,
+        "text": "8",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6408.mp4"
+        ]
+    },
+    "647": {
+        "id": 647,
+        "text": "9",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6420.mp4"
+        ]
+    },
     "648": {
         "id": 648,
         "text": "десять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6423.mp4"
+        ]
+    },
+    "649": {
+        "id": 649,
+        "text": "11",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6439.mp4"
+        ]
+    },
+    "650": {
+        "id": 650,
+        "text": "12",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6452.mp4"
+        ]
+    },
+    "651": {
+        "id": 651,
+        "text": "13",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6453.mp4"
+        ]
+    },
+    "652": {
+        "id": 652,
+        "text": "14",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6472.mp4"
+        ]
+    },
+    "653": {
+        "id": 653,
+        "text": "15",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6484.mp4"
+        ]
+    },
+    "654": {
+        "id": 654,
+        "text": "16",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6487.mp4"
+        ]
+    },
+    "655": {
+        "id": 655,
+        "text": "17",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6504.mp4"
+        ]
+    },
+    "656": {
+        "id": 656,
+        "text": "18",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6518.mp4"
+        ]
+    },
+    "657": {
+        "id": 657,
+        "text": "19",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6519.mp4"
+        ]
+    },
+    "658": {
+        "id": 658,
+        "text": "20",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6538.mp4"
+        ]
+    },
+    "659": {
+        "id": 659,
+        "text": "21",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6550.mp4"
+        ]
+    },
+    "660": {
+        "id": 660,
+        "text": "22",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6553.mp4"
+        ]
+    },
+    "661": {
+        "id": 661,
+        "text": "23",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6570.mp4"
+        ]
+    },
+    "662": {
+        "id": 662,
+        "text": "24",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6584.mp4"
+        ]
+    },
+    "663": {
+        "id": 663,
+        "text": "25",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6585.mp4"
+        ]
+    },
+    "664": {
+        "id": 664,
+        "text": "26",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6605.mp4"
+        ]
+    },
+    "665": {
+        "id": 665,
+        "text": "27",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6615.mp4"
+        ]
+    },
+    "666": {
+        "id": 666,
+        "text": "28",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6620.mp4"
+        ]
+    },
+    "667": {
+        "id": 667,
+        "text": "29",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6636.mp4"
+        ]
+    },
+    "668": {
+        "id": 668,
+        "text": "30",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6650.mp4"
+        ]
+    },
+    "669": {
+        "id": 669,
+        "text": "40",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6651.mp4"
+        ]
+    },
+    "670": {
+        "id": 670,
+        "text": "50",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6670.mp4"
+        ]
+    },
+    "671": {
+        "id": 671,
+        "text": "60",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6680.mp4"
+        ]
+    },
+    "672": {
+        "id": 672,
+        "text": "61",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6685.mp4"
+        ]
+    },
+    "673": {
+        "id": 673,
+        "text": "62",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6701.mp4"
+        ]
+    },
+    "674": {
+        "id": 674,
+        "text": "63",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6715.mp4"
+        ]
+    },
+    "675": {
+        "id": 675,
+        "text": "64",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6716.mp4"
+        ]
+    },
+    "676": {
+        "id": 676,
+        "text": "65",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6736.mp4"
+        ]
+    },
+    "677": {
+        "id": 677,
+        "text": "66",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6746.mp4"
+        ]
+    },
+    "678": {
+        "id": 678,
+        "text": "67",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6751.mp4"
+        ]
+    },
+    "679": {
+        "id": 679,
+        "text": "68",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6767.mp4"
+        ]
+    },
+    "680": {
+        "id": 680,
+        "text": "69",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6781.mp4"
+        ]
+    },
+    "681": {
+        "id": 681,
+        "text": "70",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6782.mp4"
+        ]
+    },
+    "682": {
+        "id": 682,
+        "text": "80",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6801.mp4"
+        ]
+    },
+    "683": {
+        "id": 683,
+        "text": "90",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6813.mp4"
+        ]
+    },
+    "684": {
+        "id": 684,
+        "text": "100",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6814.mp4"
+        ]
+    },
+    "685": {
+        "id": 685,
+        "text": "500",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6834.mp4"
+        ]
+    },
+    "686": {
+        "id": 686,
+        "text": "1000",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6844.mp4"
+        ]
+    },
+    "687": {
+        "id": 687,
+        "text": "1000000",
+        "gifSource": [
+            "https://storage.yandexcloud.net/signs-signs/6846.mp4"
         ]
     },
     "688": {
@@ -8019,8 +8347,7 @@ export let dictionaryData: DictionaryEntry = {
         "text": "август",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13186.mp4"
-        ],
-        "recognitionText": ["август"]
+        ]
     },
     "1334": {
         "id": 1334,
@@ -11498,8 +11825,7 @@ export let dictionaryData: DictionaryEntry = {
         "text": "агрессия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18589.mp4"
-        ],
-         "recognitionText": ["агрессия"]
+        ]
     },
     "1871": {
         "id": 1871,
@@ -58664,8 +58990,7 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Пока",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100036.mp4"
-        ],
-        "recognitionText": ["пока", "до свидание"]
+        ]
     },
     "10858": {
         "id": 10858,
@@ -72718,8 +73043,7 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Спасибо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176094.mp4"
-        ],
-        "recognitionText": ["спасибо"]
+        ]
     },
     "14609": {
         "id": 14609,
