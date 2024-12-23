@@ -5,6 +5,24 @@ const CopyPlugin = require("copy-webpack-plugin");
 const TerserPlugin = require("terser-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const { outputConfig, copyPluginPatterns, scssConfig, entryConfig, terserPluginConfig } = require("./env.config");
+const {ModuleFederationPlugin} = require("webpack").container;
+
+const deps = require("./package.json").dependencies;
+
+const federationConfig = {
+    name: "rsl_bootstrap",
+    filename: "remoteEntry.js",
+    remotes: {
+        ui: "ui@https://pincode-ui.netlify.app/remoteEntry.js",
+    },
+    shared: {
+        react: { requiredVersion: deps.react, singleton: true },
+        'react-dom': { requiredVersion: deps['react-dom'], singleton: true },
+    },
+    // exposes: {
+    //     "./AccountsSummary": "./src/components/AccountsSummary",
+    // },
+};
 
 module.exports = (env, options) => {
     return {
@@ -20,8 +38,13 @@ module.exports = (env, options) => {
                 {
                     test: /\.scss$/,
                     use: [
-                        MiniCssExtractPlugin.loader,
-                        "css-loader",
+                        "style-loader",
+                        {
+                            loader: 'css-loader',
+                            options: {
+                                url: false,
+                            },
+                        },
                         {
                             loader: "postcss-loader",
                             options: {
@@ -58,7 +81,20 @@ module.exports = (env, options) => {
                 },
             ],
         },
-        resolve: { extensions: [".tsx", ".ts", ".js"] },
+        resolve: {
+            extensions: [".tsx", ".ts", ".js"],
+            alias: {
+                '@/*': path.resolve(__dirname, './src/'),
+                '@/pages': path.resolve(__dirname, './src/pages'),
+                '@/components': path.resolve(__dirname, './src/components'),
+                '@/lib': path.resolve(__dirname, './src/lib'),
+                '@/hooks': path.resolve(__dirname, './src/hooks'),
+                '@/data': path.resolve(__dirname, './src/data'),
+                '@/store': path.resolve(__dirname, './src/store'),
+                '@/router': path.resolve(__dirname, './src/router'),
+                '@/assets': path.resolve(__dirname, './src/assets'),
+            }
+        },
         output: {
             filename: "js/[name].bundle.js",
             path: path.resolve(__dirname, outputConfig.destPath),
@@ -75,10 +111,11 @@ module.exports = (env, options) => {
             new CopyPlugin(copyPluginPatterns),
             new MiniCssExtractPlugin({ filename: scssConfig.destFileName }),
             new HtmlWebpackPlugin({
-                template: "./src/index.html",
+                template: "./public/index.html",
                 inject: true,
                 minify: false,
             }),
+            new ModuleFederationPlugin(federationConfig),
         ],
     };
 };
