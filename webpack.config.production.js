@@ -5,7 +5,6 @@ const CopyPlugin = require("copy-webpack-plugin");
 const TerserPlugin = require("terser-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const { outputConfig, copyPluginPatterns, scssConfig, entryConfig, terserPluginConfig } = require("./env.config");
-const {NativeFederationTypeScriptHost} = require("@module-federation/native-federation-typescript/dist/webpack");
 const {ModuleFederationPlugin} = require("webpack").container;
 
 const deps = require("./package.json").dependencies;
@@ -115,9 +114,6 @@ module.exports = (env, options) => {
                 template: "./public/index.html",
                 inject: true,
                 minify: false,
-            }),
-            NativeFederationTypeScriptHost({
-                moduleFederationConfig: federationConfig,
             }),
             new ModuleFederationPlugin(federationConfig),
         ],
