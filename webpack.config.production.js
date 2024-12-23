@@ -98,7 +98,7 @@ module.exports = (env, options) => {
         output: {
             filename: "js/[name].bundle.js",
             path: path.resolve(__dirname, outputConfig.destPath),
-            publicPath: "",
+            publicPath: "https://rsl-dict.netlify.app/",
         },
         optimization: {
             minimizer: [new TerserPlugin(terserPluginConfig)],
