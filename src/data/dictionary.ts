@@ -2652,7 +2652,8 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100550.mp4",
             "https://storage.yandexcloud.net/signs-signs/4362.mp4"
-        ]
+        ],
+        "recognitionText": ["автобус"]
     },
     "445": {
         "id": 445,
@@ -8018,7 +8019,8 @@ export let dictionaryData: DictionaryEntry = {
         "text": "август",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13186.mp4"
-        ]
+        ],
+        "recognitionText": ["август"]
     },
     "1334": {
         "id": 1334,
@@ -11496,7 +11498,8 @@ export let dictionaryData: DictionaryEntry = {
         "text": "агрессия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18589.mp4"
-        ]
+        ],
+         "recognitionText": ["агрессия"]
     },
     "1871": {
         "id": 1871,
@@ -58661,7 +58664,8 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Пока",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100036.mp4"
-        ]
+        ],
+        "recognitionText": ["пока", "до свидание"]
     },
     "10858": {
         "id": 10858,
@@ -72714,7 +72718,8 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Спасибо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176094.mp4"
-        ]
+        ],
+        "recognitionText": ["спасибо"]
     },
     "14609": {
         "id": 14609,

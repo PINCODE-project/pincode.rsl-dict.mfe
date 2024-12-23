@@ -15,8 +15,8 @@ export default function MainPage() {
                 <div className="flex gap-3 items-center justify-between">
                     <CardContent>
                         <ul className="my-6 ml-6 list-disc [&>li]:mt-2">
-                            <li>Более 42 тысяч жестов</li>
-                            <li>Тренируйтесь с нашей ИИ моделью</li>
+                            <li>Более 14 тысяч жестов</li>
+                            <li>Тренируйтесь с ИИ моделью</li>
                             <li>Основан на базе видео жестов популярного сервиса</li>
                         </ul>
                     </CardContent>

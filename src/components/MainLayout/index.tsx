@@ -10,12 +10,12 @@ export default function MainLayout() {
 
     return (
         <div className="w-full flex h-full gap-8">
+            <Outlet/>
             <Sidebar
                 onSelectWord={(entry) => navigate(MainRouter.DictionaryPage(`${entry.id}`))}
                 isOpen={isSidebarOpen}
                 onClose={() => setIsOpenSidebar(false)}
             />
-            <Outlet/>
         </div>
     )
 }

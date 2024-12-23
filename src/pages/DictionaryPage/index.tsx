@@ -41,7 +41,7 @@ export default function DictionaryPage() {
 
             <CardFooter>
                 <p className="text-sm text-muted-foreground">
-                    * Артикуляция на видео может не соответствовать жесту для слов, имеющих несколько значений.
+                    * Произношение может не соответствовать выбранному слову для жестов, имеющих несколько значений.
                 </p>
             </CardFooter>
         </Card>
