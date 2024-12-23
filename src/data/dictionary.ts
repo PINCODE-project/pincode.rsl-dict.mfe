@@ -3948,343 +3948,343 @@ export let dictionaryData: DictionaryEntry = {
     },
     "639": {
         "id": 639,
-        "text": "один",
+        "text": "Один / 1",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6327.mp4"
         ]
     },
     "640": {
         "id": 640,
-        "text": "2",
+        "text": "Два / 2",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6343.mp4"
         ]
     },
     "641": {
         "id": 641,
-        "text": "3",
+        "text": "Три / 3",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6355.mp4"
         ]
     },
     "642": {
         "id": 642,
-        "text": "4",
+        "text": "Четыре / 4",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6358.mp4"
         ]
     },
     "643": {
         "id": 643,
-        "text": "5",
+        "text": "Пять / 5",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6375.mp4"
         ]
     },
     "644": {
         "id": 644,
-        "text": "6",
+        "text": "Шесть / 6",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6388.mp4"
         ]
     },
     "645": {
         "id": 645,
-        "text": "7",
+        "text": "Семь / 7",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6389.mp4"
         ]
     },
     "646": {
         "id": 646,
-        "text": "8",
+        "text": "Восемь / 8",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6408.mp4"
         ]
     },
     "647": {
         "id": 647,
-        "text": "9",
+        "text": "Девять / 9",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6420.mp4"
         ]
     },
     "648": {
         "id": 648,
-        "text": "десять",
+        "text": "Десять / 10",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6423.mp4"
         ]
     },
     "649": {
         "id": 649,
-        "text": "11",
+        "text": "Одиннадцать / 11",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6439.mp4"
         ]
     },
     "650": {
         "id": 650,
-        "text": "12",
+        "text": "Двенадцать / 12",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6452.mp4"
         ]
     },
     "651": {
         "id": 651,
-        "text": "13",
+        "text": "Тринадцать / 13",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6453.mp4"
         ]
     },
     "652": {
         "id": 652,
-        "text": "14",
+        "text": "Четырнадцать / 14",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6472.mp4"
         ]
     },
     "653": {
         "id": 653,
-        "text": "15",
+        "text": "Пятнадцать / 15",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6484.mp4"
         ]
     },
     "654": {
         "id": 654,
-        "text": "16",
+        "text": "Шестнадцать / 16",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6487.mp4"
         ]
     },
     "655": {
         "id": 655,
-        "text": "17",
+        "text": "Семнадцать /17",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6504.mp4"
         ]
     },
     "656": {
         "id": 656,
-        "text": "18",
+        "text": "Восемнадцать / 18",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6518.mp4"
         ]
     },
     "657": {
         "id": 657,
-        "text": "19",
+        "text": "Девятнадцать / 19",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6519.mp4"
         ]
     },
     "658": {
         "id": 658,
-        "text": "20",
+        "text": "Двадцать / 20",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6538.mp4"
         ]
     },
     "659": {
         "id": 659,
-        "text": "21",
+        "text": "Двадцать один / 21",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6550.mp4"
         ]
     },
     "660": {
         "id": 660,
-        "text": "22",
+        "text": "Двадцать два / 22",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6553.mp4"
         ]
     },
     "661": {
         "id": 661,
-        "text": "23",
+        "text": "Двадцать три / 23",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6570.mp4"
         ]
     },
     "662": {
         "id": 662,
-        "text": "24",
+        "text": "Двадцать четыре / 24",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6584.mp4"
         ]
     },
     "663": {
         "id": 663,
-        "text": "25",
+        "text": "Двадцать пять / 25",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6585.mp4"
         ]
     },
     "664": {
         "id": 664,
-        "text": "26",
+        "text": "Двадцать шесть / 26",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6605.mp4"
         ]
     },
     "665": {
         "id": 665,
-        "text": "27",
+        "text": "Двадцать семь / 27",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6615.mp4"
         ]
     },
     "666": {
         "id": 666,
-        "text": "28",
+        "text": "Двадцать восемь / 28",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6620.mp4"
         ]
     },
     "667": {
         "id": 667,
-        "text": "29",
+        "text": "Двадцать девять / 29",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6636.mp4"
         ]
     },
     "668": {
         "id": 668,
-        "text": "30",
+        "text": "Тридцать / 30",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6650.mp4"
         ]
     },
     "669": {
         "id": 669,
-        "text": "40",
+        "text": "Сорок / 40",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6651.mp4"
         ]
     },
     "670": {
         "id": 670,
-        "text": "50",
+        "text": "Пятьдесят / 50",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6670.mp4"
         ]
     },
     "671": {
         "id": 671,
-        "text": "60",
+        "text": "Шестьдесят / 60",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6680.mp4"
         ]
     },
     "672": {
         "id": 672,
-        "text": "61",
+        "text": "Шестьдесят один / 61",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6685.mp4"
         ]
     },
     "673": {
         "id": 673,
-        "text": "62",
+        "text": "Шестьдесят два / 62",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6701.mp4"
         ]
     },
     "674": {
         "id": 674,
-        "text": "63",
+        "text": "Шестьдесят три / 63",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6715.mp4"
         ]
     },
     "675": {
         "id": 675,
-        "text": "64",
+        "text": "Шестьдесят четыре / 64",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6716.mp4"
         ]
     },
     "676": {
         "id": 676,
-        "text": "65",
+        "text": "Шестьдесят пять / 65",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6736.mp4"
         ]
     },
     "677": {
         "id": 677,
-        "text": "66",
+        "text": "Шестьдесят шесть / 66",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6746.mp4"
         ]
     },
     "678": {
         "id": 678,
-        "text": "67",
+        "text": "Шестьдесят семь / 67",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6751.mp4"
         ]
     },
     "679": {
         "id": 679,
-        "text": "68",
+        "text": "Шестьдесят восемь / 68",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6767.mp4"
         ]
     },
     "680": {
         "id": 680,
-        "text": "69",
+        "text": "Шестьдесят девять / 69",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6781.mp4"
         ]
     },
     "681": {
         "id": 681,
-        "text": "70",
+        "text": "Семьдесят / 70",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6782.mp4"
         ]
     },
     "682": {
         "id": 682,
-        "text": "80",
+        "text": "Восемьдесят / 80",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6801.mp4"
         ]
     },
     "683": {
         "id": 683,
-        "text": "90",
+        "text": "Девяносто / 90",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6813.mp4"
         ]
     },
     "684": {
         "id": 684,
-        "text": "100",
+        "text": "Сто / 100",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6814.mp4"
         ]
     },
     "685": {
         "id": 685,
-        "text": "500",
+        "text": "Пятьсот / 500",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6834.mp4"
         ]
     },
     "686": {
         "id": 686,
-        "text": "1000",
+        "text": "Тысяча / 1000",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6844.mp4"
         ]
     },
     "687": {
         "id": 687,
-        "text": "1000000",
+        "text": "Миллион / 1000000",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6846.mp4"
         ]
