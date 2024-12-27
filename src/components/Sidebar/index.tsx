@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { memo, useEffect, useMemo, useRef, useState } from 'react';
 import { useVirtualizer } from '@tanstack/react-virtual';
 import { useDebouncedCallback } from '@/hooks/use-debounce';
 import { Input } from 'ui/Input';
@@ -9,7 +9,8 @@ import { Card } from 'ui/Card';
 import { dictionaryData, Sign } from '@/data/dictionary';
 import { cn } from "@/lib/utils";
 import styles from "./styles.module.scss";
-import Fuse from 'fuse.js'; // Импортируем библиотеку fuse.js
+import Fuse from 'fuse.js';
+import { useIsMobile } from "@/hooks/use-mobile";
 
 interface SidebarProps {
     onSelectWord: (word: Sign) => void;
@@ -18,6 +19,7 @@ interface SidebarProps {
 }
 
 export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
+    const isMobile = useIsMobile();
     const [searchTerm, setSearchTerm] = useState('');
     const alphabet = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ'.split('');
     const numbers = '0123456789'.split('');
@@ -25,9 +27,8 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
 
     const debouncedSetSearchTerm = useDebouncedCallback(
         (value: string) => setSearchTerm(value),
-        300
+        0
     );
-
 
     const filteredWords = useMemo(() => {
         const words: { id: string; text: string; entry: Sign }[] = [];
@@ -38,9 +39,9 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
                     const trimmedWord = word.trim();
                     words.push({
                         id: `${entry.id}-${index}`,
-                    text: `${trimmedWord[0]!.toUpperCase()}${trimmedWord.slice(1)}`,
-                    entry,
-                });
+                        text: `${trimmedWord[0]!.toUpperCase()}${trimmedWord.slice(1)}`,
+                        entry,
+                    });
                 }
             });
         });
@@ -58,7 +59,11 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
 
     const filteredAndSearchWords = useMemo(() => {
         if (searchTerm === '') {
-            return filteredWords;
+            return filteredWords.length ? filteredWords : Object.values(dictionaryData).map(entry => ({
+                id: entry.id,
+                text: entry.text.split(';')[0]!.trim(),
+                entry,
+            }));
         }
         return fuse.search(searchTerm).map(result => result.item);
     }, [searchTerm, fuse, filteredWords]);
@@ -77,7 +82,44 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
         }
     }, [searchTerm, virtualizer]);
 
+    useEffect(() => {
+        virtualizer.measure();
+    }, [isOpen]);
+
     const sidebarKey = isOpen ? 'open' : 'closed';
+
+    const VirtualRow = memo(({ word, virtualRow, onSelectWord, onClose }: any) => (
+        <div
+            ref={(el) => {
+                if (el) {
+                    virtualizer.measureElement(el);
+                }
+            }}
+
+            key={word.id}
+            style={{
+                position: 'absolute',
+                top: 0,
+                left: 0,
+                width: '100%',
+                transform: `translateY(${virtualRow.start}px)`,
+            }}
+            data-index={virtualRow.index}
+        >
+            <Button
+                variant="ghost"
+                className="justify-start w-full h-auto text-wrap"
+                onClick={() => {
+                    onSelectWord(word.entry);
+                    onClose();
+                }}
+                style={{ textAlign: "start" }}
+            >
+                {word.text}
+            </Button>
+        </div>
+    ));
+
 
     const sidebarContent = (
         <div className="h-full flex flex-col p-2 gap-4">
@@ -85,6 +127,7 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
                 type="search"
                 placeholder="Поиск..."
                 onChange={(e) => debouncedSetSearchTerm(e.target.value)}
+                value={searchTerm}
                 className="mb-4"
             />
             <div className="flex-1 flex overflow-hidden">
@@ -102,32 +145,13 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
                         {virtualizer.getVirtualItems().map((virtualRow) => {
                             const word = filteredAndSearchWords[virtualRow.index];
                             return (
-                                <div
+                                <VirtualRow
                                     key={word!.id}
-                                    ref={(el) => {
-                                        if (el) virtualizer.measureElement(el)
-                                    }}
-                                    style={{
-                                        position: 'absolute',
-                                        top: 0,
-                                        left: 0,
-                                        width: '100%',
-                                        transform: `translateY(${virtualRow.start}px)`,
-                                    }}
-                                    data-index={virtualRow.index}
-                                >
-                                    <Button
-                                        variant="ghost"
-                                        className="justify-start w-full h-auto text-wrap"
-                                        onClick={() => {
-                                            onSelectWord(word!.entry);
-                                            onClose();
-                                        }}
-                                        style={{textAlign: "start"}}
-                                    >
-                                        {word!.text}
-                                    </Button>
-                                </div>
+                                    word={word!}
+                                    virtualRow={virtualRow}
+                                    onSelectWord={onSelectWord}
+                                    onClose={onClose}
+                                />
                             );
                         })}
                     </div>
@@ -164,15 +188,22 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
 
     return (
         <>
-            <Card key={sidebarKey} className="hidden md:block h-full bg-card border-r p-4 w-[300px]">
-                {sidebarContent}
-            </Card>
-            <Sheet open={isOpen} onOpenChange={onClose}>
-                {/*@ts-ignore*/}
-                <SheetContent key={sidebarKey} side="left" className="w-[300px] sm:w-[400px]">
+            {
+                !isMobile &&
+                <Card key={sidebarKey} className="h-full bg-card border-r p-4 w-[300px]">
                     {sidebarContent}
-                </SheetContent>
-            </Sheet>
+                </Card>
+            }
+
+            {
+                isMobile &&
+                <Sheet open={isOpen} onOpenChange={onClose}>
+                    {/*@ts-ignore*/}
+                    <SheetContent key={sidebarKey} side="left" className="w-[300px] sm:w-[400px]">
+                        {sidebarContent}
+                    </SheetContent>
+                </Sheet>
+            }
         </>
     );
 }

@@ -19530,7 +19530,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "3117": {
         "id": 3117,
-        "text": "Давид хороший парень.",
+        "text": "Давид хороший парень",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/29159.mp4"
         ]
@@ -22803,7 +22803,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "3658": {
         "id": 3658,
-        "text": "Он - идиот.",
+        "text": "Он - идиот",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/33236.mp4"
         ]
@@ -22979,7 +22979,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "3683": {
         "id": 3683,
-        "text": "Дай мне еще один шанс.",
+        "text": "Дай мне еще один шанс",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/44634.mp4"
         ]
@@ -23000,14 +23000,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "3687": {
         "id": 3687,
-        "text": "Обними меня.",
+        "text": "Обними меня",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/33459.mp4"
         ]
     },
     "3688": {
         "id": 3688,
-        "text": "Поцелуй меня.",
+        "text": "Поцелуй меня",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/33464.mp4"
         ]
@@ -23070,7 +23070,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "3697": {
         "id": 3697,
-        "text": "Пошли на пляж.",
+        "text": "Пошли на пляж",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/33535.mp4"
         ]
@@ -48274,14 +48274,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "8802": {
         "id": 8802,
-        "text": "Закрой дверь.",
+        "text": "Закрой дверь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100648.mp4"
         ]
     },
     "8803": {
         "id": 8803,
-        "text": "Закрой окно.",
+        "text": "Закрой окно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100651.mp4"
         ]
@@ -48408,7 +48408,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "8835": {
         "id": 8835,
-        "text": "Я потерял(-а) книгу.",
+        "text": "Я потерял(-а) книгу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108668.mp4"
         ]
@@ -48471,7 +48471,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "8846": {
         "id": 8846,
-        "text": "Давай прервемся.",
+        "text": "Давай прервемся",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109653.mp4"
         ]
@@ -48507,7 +48507,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "8851": {
         "id": 8851,
-        "text": "Меня зовут...",
+        "text": "Меня зовут.",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112327.mp4"
         ]
@@ -48620,14 +48620,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "8870": {
         "id": 8870,
-        "text": "Ты мило выглядишь.",
+        "text": "Ты мило выглядишь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112207.mp4"
         ]
     },
     "8871": {
         "id": 8871,
-        "text": "Твоя девушка симпатичная.",
+        "text": "Твоя девушка симпатичная",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112201.mp4"
         ]
@@ -52172,7 +52172,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9592": {
         "id": 9592,
-        "text": "Он ходит в кино каждый вторник.",
+        "text": "Он ходит в кино каждый вторник",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100675.mp4"
         ]
@@ -52228,14 +52228,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9606": {
         "id": 9606,
-        "text": "Время летит.",
+        "text": "Время летит",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109437.mp4"
         ]
     },
     "9607": {
         "id": 9607,
-        "text": "Время вышло.",
+        "text": "Время вышло",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109436.mp4"
         ]
@@ -52256,7 +52256,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9610": {
         "id": 9610,
-        "text": "Боб хорошо занимается в группе.",
+        "text": "Боб хорошо занимается в группе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105703.mp4"
         ]
@@ -52305,7 +52305,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9618": {
         "id": 9618,
-        "text": "Я выпускник.",
+        "text": "Я выпускник",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108744.mp4"
         ]
@@ -52347,21 +52347,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9624": {
         "id": 9624,
-        "text": "Моя специализация - химия.",
+        "text": "Моя специализация - химия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107786.mp4"
         ]
     },
     "9625": {
         "id": 9625,
-        "text": "Моя специализация - компьютеры.",
+        "text": "Моя специализация - компьютеры",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107773.mp4"
         ]
     },
     "9626": {
         "id": 9626,
-        "text": "Моя специализация - психотерапия.",
+        "text": "Моя специализация - психотерапия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107780.mp4"
         ]
@@ -52389,7 +52389,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9630": {
         "id": 9630,
-        "text": "Моя специализация - история.",
+        "text": "Моя специализация - история",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107772.mp4"
         ]
@@ -52445,7 +52445,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9638": {
         "id": 9638,
-        "text": "Моя специализация - специальная педагогика.",
+        "text": "Моя специализация - специальная педагогика",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107782.mp4"
         ]
@@ -52508,14 +52508,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9650": {
         "id": 9650,
-        "text": "Джейн надо слушать указания.",
+        "text": "Джейн надо слушать указания",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109660.mp4"
         ]
     },
     "9651": {
         "id": 9651,
-        "text": "Джо слишком часто опаздывает на занятия.",
+        "text": "Джо слишком часто опаздывает на занятия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109661.mp4"
         ]
@@ -52543,7 +52543,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9655": {
         "id": 9655,
-        "text": "Мои отметки постоянно улучшаются.",
+        "text": "Мои отметки постоянно улучшаются",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112411.mp4"
         ]
@@ -52557,7 +52557,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9657": {
         "id": 9657,
-        "text": "Открой свою книгу.",
+        "text": "Открой свою книгу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133642.mp4"
         ]
@@ -52578,21 +52578,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9660": {
         "id": 9660,
-        "text": "Сюзан не уважает учителя.",
+        "text": "Сюзан не уважает учителя",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112198.mp4"
         ]
     },
     "9661": {
         "id": 9661,
-        "text": "Учитель задавал мне много вопросов.",
+        "text": "Учитель задавал мне много вопросов",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112237.mp4"
         ]
     },
     "9662": {
         "id": 9662,
-        "text": "У нас завтра тестирование.",
+        "text": "У нас завтра тестирование",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112230.mp4"
         ]
@@ -52606,7 +52606,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9664": {
         "id": 9664,
-        "text": "Если ты пропустил, то должен принести справку.",
+        "text": "Если ты пропустил, то должен принести справку",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109667.mp4"
         ]
@@ -52627,14 +52627,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9667": {
         "id": 9667,
-        "text": "Для исследования вам надо сходить в библиотеку.",
+        "text": "Для исследования вам надо сходить в библиотеку",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109664.mp4"
         ]
     },
     "9668": {
         "id": 9668,
-        "text": "Нельзя прерывать.",
+        "text": "Нельзя прерывать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133632.mp4"
         ]
@@ -52662,7 +52662,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9673": {
         "id": 9673,
-        "text": "Подождите там, пожалуйста.",
+        "text": "Подождите там, пожалуйста",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100678.mp4"
         ]
@@ -52781,14 +52781,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9690": {
         "id": 9690,
-        "text": "Сегодня вечером я  лечу в Нью-Йорк.",
+        "text": "Сегодня вечером я  лечу в Нью-Йорк",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105721.mp4"
         ]
     },
     "9691": {
         "id": 9691,
-        "text": "Я иду в гостиницу, чтобы принять ванну.",
+        "text": "Я иду в гостиницу, чтобы принять ванну",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105685.mp4"
         ]
@@ -52823,7 +52823,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9696": {
         "id": 9696,
-        "text": "Я потерял(-а) паспорт.",
+        "text": "Я потерял(-а) паспорт",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108666.mp4"
         ]
@@ -52914,84 +52914,84 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9709": {
         "id": 9709,
-        "text": "Ваш билет, пожалуйста.",
+        "text": "Ваш билет, пожалуйста",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109429.mp4"
         ]
     },
     "9710": {
         "id": 9710,
-        "text": "Пожалуйста, пристягните ремни.",
+        "text": "Пожалуйста, пристягните ремни",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133659.mp4"
         ]
     },
     "9711": {
         "id": 9711,
-        "text": "Помедленней и поверните направо.",
+        "text": "Помедленней и поверните направо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133668.mp4"
         ]
     },
     "9712": {
         "id": 9712,
-        "text": "Когда-нибудь я поеду в Африку.",
+        "text": "Когда-нибудь я поеду в Африку",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112291.mp4"
         ]
     },
     "9713": {
         "id": 9713,
-        "text": "Остановитесь здесь.",
+        "text": "Остановитесь здесь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133639.mp4"
         ]
     },
     "9714": {
         "id": 9714,
-        "text": "Из-за тумана аэропорты закрыты.",
+        "text": "Из-за тумана аэропорты закрыты",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/110236.mp4"
         ]
     },
     "9715": {
         "id": 9715,
-        "text": "Лифт застрял.",
+        "text": "Лифт застрял",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112315.mp4"
         ]
     },
     "9716": {
         "id": 9716,
-        "text": "Рейс отменен.",
+        "text": "Рейс отменен",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133682.mp4"
         ]
     },
     "9717": {
         "id": 9717,
-        "text": "Рейс задерживается на один час.",
+        "text": "Рейс задерживается на один час",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133681.mp4"
         ]
     },
     "9718": {
         "id": 9718,
-        "text": "Самолет готов к приему пассажиров на борт.",
+        "text": "Самолет готов к приему пассажиров на борт",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133695.mp4"
         ]
     },
     "9719": {
         "id": 9719,
-        "text": "Места не зарезервированы.",
+        "text": "Места не зарезервированы",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112329.mp4"
         ]
     },
 	"9720": {
         "id": 9720,
-        "text": "2-часовая задержка.",
+        "text": "2-часовая задержка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109377.mp4"
         ]
@@ -53082,7 +53082,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9734": {
         "id": 9734,
-        "text": "Пожалуйста, вызовите мне такси.",
+        "text": "Пожалуйста, вызовите мне такси",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133652.mp4"
         ]
@@ -53146,7 +53146,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9744": {
         "id": 9744,
-        "text": "У меня нет дискетоприёмник.",
+        "text": "У меня нет дискетоприёмник",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105734.mp4"
         ]
@@ -53188,7 +53188,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9751": {
         "id": 9751,
-        "text": "Я люблю своего верного друга.",
+        "text": "Я люблю своего верного друга",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112255.mp4"
         ]
@@ -53251,14 +53251,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9763": {
         "id": 9763,
-        "text": "У меня стоит Ворд.",
+        "text": "У меня стоит Ворд",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112225.mp4"
         ]
     },
     "9764": {
         "id": 9764,
-        "text": "Это симпатичный коврик для мышки.",
+        "text": "Это симпатичный коврик для мышки",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112254.mp4"
         ]
@@ -53321,7 +53321,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9773": {
         "id": 9773,
-        "text": "Он раньше был проповедником.",
+        "text": "Он раньше был проповедником",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107796.mp4"
         ]
@@ -53342,7 +53342,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9776": {
         "id": 9776,
-        "text": "Я бы хотел заниматься музыкой.",
+        "text": "Я бы хотел заниматься музыкой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/321221.mp4"
         ]
@@ -53356,7 +53356,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9778": {
         "id": 9778,
-        "text": "На шаббат евреи ходят в  синагогу.",
+        "text": "На шаббат евреи ходят в  синагогу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112438.mp4"
         ]
@@ -53377,28 +53377,28 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9781": {
         "id": 9781,
-        "text": "Наша музыка современная.",
+        "text": "Наша музыка современная",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133626.mp4"
         ]
     },
     "9782": {
         "id": 9782,
-        "text": "Наша музыка традиционная.",
+        "text": "Наша музыка традиционная",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133629.mp4"
         ]
     },
     "9783": {
         "id": 9783,
-        "text": "Наш пастор хороший проповедник.",
+        "text": "Наш пастор хороший проповедник",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133624.mp4"
         ]
     },
     "9784": {
         "id": 9784,
-        "text": "Она миссионер.",
+        "text": "Она миссионер",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133637.mp4"
         ]
@@ -53454,7 +53454,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9792": {
         "id": 9792,
-        "text": "Я все это не съем.",
+        "text": "Я все это не съем",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105680.mp4"
         ]
@@ -53489,7 +53489,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9800": {
         "id": 9800,
-        "text": "Мой номер телефона....",
+        "text": "Мой номер телефона..",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112418.mp4"
         ]
@@ -53503,21 +53503,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9802": {
         "id": 9802,
-        "text": "В моем городе шестьдесят тысяч жителей.",
+        "text": "В моем городе шестьдесят тысяч жителей",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109416.mp4"
         ]
     },
     "9803": {
         "id": 9803,
-        "text": "Мусоровозка приезжает раз в неделю.",
+        "text": "Мусоровозка приезжает раз в неделю",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112429.mp4"
         ]
     },
     "9805": {
         "id": 9805,
-        "text": "В нашей стране только два миллиона людей.",
+        "text": "В нашей стране только два миллиона людей",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109417.mp4"
         ]
@@ -53531,14 +53531,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9810": {
         "id": 9810,
-        "text": "Он много трудится на своей работе.",
+        "text": "Он много трудится на своей работе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105715.mp4"
         ]
     },
     "9811": {
         "id": 9811,
-        "text": "Его сын хочет  быть космонавтом.",
+        "text": "Его сын хочет  быть космонавтом",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100643.mp4"
         ]
@@ -53552,28 +53552,28 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9813": {
         "id": 9813,
-        "text": "Я врач.",
+        "text": "Я врач",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105679.mp4"
         ]
     },
     "9814": {
         "id": 9814,
-        "text": "Я пожарный.",
+        "text": "Я пожарный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105691.mp4"
         ]
     },
     "9815": {
         "id": 9815,
-        "text": "Я домохозяйка.",
+        "text": "Я домохозяйка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105684.mp4"
         ]
     },
     "9816": {
         "id": 9816,
-        "text": "Я адвокат.",
+        "text": "Я адвокат",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108804.mp4"
         ]
@@ -53594,28 +53594,28 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9819": {
         "id": 9819,
-        "text": "Я актер.",
+        "text": "Я актер",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105675.mp4"
         ]
     },
     "9820": {
         "id": 9820,
-        "text": "Я художник.",
+        "text": "Я художник",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105696.mp4"
         ]
     },
     "9821": {
         "id": 9821,
-        "text": "Я ищу новую работу.",
+        "text": "Я ищу новую работу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105687.mp4"
         ]
     },
     "9822": {
         "id": 9822,
-        "text": "Я не зарабатываю много денег.",
+        "text": "Я не зарабатываю много денег",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105688.mp4"
         ]
@@ -53657,7 +53657,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9828": {
         "id": 9828,
-        "text": "У нее легкая работа.",
+        "text": "У нее легкая работа",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112232.mp4"
         ]
@@ -53678,7 +53678,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9832": {
         "id": 9832,
-        "text": "Медведь живет в берлоге.",
+        "text": "Медведь живет в берлоге",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100660.mp4"
         ]
@@ -53706,21 +53706,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9836": {
         "id": 9836,
-        "text": "Я боюсь ураганов.",
+        "text": "Я боюсь ураганов",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105678.mp4"
         ]
     },
     "9837": {
         "id": 9837,
-        "text": "Я боюсь грозы.",
+        "text": "Я боюсь грозы",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105676.mp4"
         ]
     },
     "9838": {
         "id": 9838,
-        "text": "Я боюсь торнадо.",
+        "text": "Я боюсь торнадо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105677.mp4"
         ]
@@ -53818,7 +53818,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9852": {
         "id": 9852,
-        "text": "Может быть, завтра пойдет снег.",
+        "text": "Может быть, завтра пойдет снег",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112341.mp4"
         ]
@@ -53832,84 +53832,84 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9854": {
         "id": 9854,
-        "text": "Плескаться в луже.",
+        "text": "Плескаться в луже",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133649.mp4"
         ]
     },
     "9855": {
         "id": 9855,
-        "text": "Буря на море.",
+        "text": "Буря на море",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109383.mp4"
         ]
     },
     "9856": {
         "id": 9856,
-        "text": "По прогнозу погоды облаков не будет.",
+        "text": "По прогнозу погоды облаков не будет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133650.mp4"
         ]
     },
     "9857": {
         "id": 9857,
-        "text": "Сегодня очень влажно.",
+        "text": "Сегодня очень влажно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112190.mp4"
         ]
     },
     "9858": {
         "id": 9858,
-        "text": "Солнце жаркое.",
+        "text": "Солнце жаркое",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112192.mp4"
         ]
     },
     "9859": {
         "id": 9859,
-        "text": "Температура ниже нуля.",
+        "text": "Температура ниже нуля",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112203.mp4"
         ]
     },
     "9860": {
         "id": 9860,
-        "text": "Водопад красивый.",
+        "text": "Водопад красивый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109434.mp4"
         ]
     },
     "9861": {
         "id": 9861,
-        "text": "Сегодня полная луна.",
+        "text": "Сегодня полная луна",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112191.mp4"
         ]
     },
     "9862": {
         "id": 9862,
-        "text": "В прошлом году было наводнение.",
+        "text": "В прошлом году было наводнение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109418.mp4"
         ]
     },
     "9863": {
         "id": 9863,
-        "text": "Прошлой ночью были гром и молния.",
+        "text": "Прошлой ночью были гром и молния",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133676.mp4"
         ]
     },
     "9864": {
         "id": 9864,
-        "text": "Греться у камина.",
+        "text": "Греться у камина",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109648.mp4"
         ]
     },
     "9865": {
         "id": 9865,
-        "text": "Мы заблудились в пустыне.",
+        "text": "Мы заблудились в пустыне",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112433.mp4"
         ]
@@ -53937,14 +53937,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9869": {
         "id": 9869,
-        "text": "Вчера вечером при закате были очень красивые облака.",
+        "text": "Вчера вечером при закате были очень красивые облака",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109443.mp4"
         ]
     },
     "9870": {
         "id": 9870,
-        "text": "Отсюда видно много звезд.",
+        "text": "Отсюда видно много звезд",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133646.mp4"
         ]
@@ -53993,7 +53993,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9880": {
         "id": 9880,
-        "text": "Я подаю заявку на оформление кредитной карты.",
+        "text": "Я подаю заявку на оформление кредитной карты",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108658.mp4"
         ]
@@ -54021,7 +54021,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9884": {
         "id": 9884,
-        "text": "Я заплатил(а) меньше, чем ты.",
+        "text": "Я заплатил(а) меньше, чем ты",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133702.mp4"
         ]
@@ -54049,7 +54049,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9890": {
         "id": 9890,
-        "text": "Будь моей валентинкой.",
+        "text": "Будь моей валентинкой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105705.mp4"
         ]
@@ -54098,7 +54098,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9899": {
         "id": 9899,
-        "text": "Хорошего вам Дня благодарения.",
+        "text": "Хорошего вам Дня благодарения",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108789.mp4"
         ]
@@ -54133,14 +54133,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9906": {
         "id": 9906,
-        "text": "День мамы.",
+        "text": "День мамы",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109658.mp4"
         ]
     },
     "9907": {
         "id": 9907,
-        "text": "Мира и доброй воли.",
+        "text": "Мира и доброй воли",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112332.mp4"
         ]
@@ -54168,7 +54168,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9914": {
         "id": 9914,
-        "text": "Вызови скорую помощь.",
+        "text": "Вызови скорую помощь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100634.mp4"
         ]
@@ -54203,7 +54203,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9919": {
         "id": 9919,
-        "text": "Я плохо себя чувствую.",
+        "text": "Я плохо себя чувствую",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105690.mp4"
         ]
@@ -54302,7 +54302,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9935": {
         "id": 9935,
-        "text": "Я потерял(-а) очки.",
+        "text": "Я потерял(-а) очки",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108670.mp4"
         ]
@@ -54463,7 +54463,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9958": {
         "id": 9958,
-        "text": "Ты очень похудел(а).",
+        "text": "Ты очень похудел(а)",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112208.mp4"
         ]
@@ -54477,14 +54477,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9960": {
         "id": 9960,
-        "text": "Ты потерял много крови.",
+        "text": "Ты потерял много крови",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112210.mp4"
         ]
     },
     "9961": {
         "id": 9961,
-        "text": "Вам нужно сделать рентген.",
+        "text": "Вам нужно сделать рентген",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109420.mp4"
         ]
@@ -54554,7 +54554,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9975": {
         "id": 9975,
-        "text": "Он сломал видеомагнитофон.",
+        "text": "Он сломал видеомагнитофон",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107798.mp4"
         ]
@@ -54568,7 +54568,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9977": {
         "id": 9977,
-        "text": "Его племяница вам поможет.",
+        "text": "Его племяница вам поможет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100640.mp4"
         ]
@@ -54603,21 +54603,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9983": {
         "id": 9983,
-        "text": "Я разведен (разведена).",
+        "text": "Я разведен (разведена)",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105692.mp4"
         ]
     },
     "9984": {
         "id": 9984,
-        "text": "Рад(-а) повидать вас.",
+        "text": "Рад(-а) повидать вас",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105718.mp4"
         ]
     },
     "9985": {
         "id": 9985,
-        "text": "Рад (-а) познакомиться с вами.",
+        "text": "Рад (-а) познакомиться с вами",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105717.mp4"
         ]
@@ -54687,14 +54687,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "9997": {
         "id": 9997,
-        "text": "Я потерял(-а) расческу.",
+        "text": "Я потерял(-а) расческу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108669.mp4"
         ]
     },
     "9998": {
         "id": 9998,
-        "text": "Я потерял(-а) карандаш.",
+        "text": "Я потерял(-а) карандаш",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108665.mp4"
         ]
@@ -54807,21 +54807,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10019": {
         "id": 10019,
-        "text": "Позвольте представить мою дочь.",
+        "text": "Позвольте представить мою дочь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133664.mp4"
         ]
     },
     "10020": {
         "id": 10020,
-        "text": "Позвольте представить моего друга.",
+        "text": "Позвольте представить моего друга",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133661.mp4"
         ]
     },
     "10021": {
         "id": 10021,
-        "text": "Позвольте представить моего мужа.",
+        "text": "Позвольте представить моего мужа",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/136736.mp4"
         ]
@@ -54835,21 +54835,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10023": {
         "id": 10023,
-        "text": "Позвольте представить мою жену.",
+        "text": "Позвольте представить мою жену",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133665.mp4"
         ]
     },
     "10024": {
         "id": 10024,
-        "text": "Моя тетя живет в городе.",
+        "text": "Моя тетя живет в городе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112427.mp4"
         ]
     },
     "10025": {
         "id": 10025,
-        "text": "Мой брат младше меня.",
+        "text": "Мой брат младше меня",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112412.mp4"
         ]
@@ -54870,7 +54870,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10029": {
         "id": 10029,
-        "text": "Моя жена умерла.",
+        "text": "Моя жена умерла",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112424.mp4"
         ]
@@ -54912,77 +54912,77 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10035": {
         "id": 10035,
-        "text": "Простите.",
+        "text": "Простите",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133675.mp4"
         ]
     },
     "10036": {
         "id": 10036,
-        "text": "Возможно.",
+        "text": "Возможно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109435.mp4"
         ]
     },
     "10037": {
         "id": 10037,
-        "text": "Пожалуйста, задерни шторы.",
+        "text": "Пожалуйста, задерни шторы",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133654.mp4"
         ]
     },
     "10038": {
         "id": 10038,
-        "text": "Пожалуйста, подождите.",
+        "text": "Пожалуйста, подождите",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133657.mp4"
         ]
     },
     "10039": {
         "id": 10039,
-        "text": "Я с ней это обсуждала.",
+        "text": "Я с ней это обсуждала",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112256.mp4"
         ]
     },
     "10040": {
         "id": 10040,
-        "text": "Курение не разрешается.",
+        "text": "Курение не разрешается",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112311.mp4"
         ]
     },
     "10041": {
         "id": 10041,
-        "text": "Младенец милый.",
+        "text": "Младенец милый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112331.mp4"
         ]
     },
     "10042": {
         "id": 10042,
-        "text": "Очень интересно.",
+        "text": "Очень интересно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133647.mp4"
         ]
     },
     "10043": {
         "id": 10043,
-        "text": "Умой лицо.",
+        "text": "Умой лицо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112236.mp4"
         ]
     },
     "10044": {
         "id": 10044,
-        "text": "Помой руки.",
+        "text": "Помой руки",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133669.mp4"
         ]
     },
     "10045": {
         "id": 10045,
-        "text": "Прошлым летом встречались все члены нашей семьи.",
+        "text": "Прошлым летом встречались все члены нашей семьи",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133677.mp4"
         ]
@@ -55024,14 +55024,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10055": {
         "id": 10055,
-        "text": "Твой отец хорошо выглядит.",
+        "text": "Твой отец хорошо выглядит",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112200.mp4"
         ]
     },
     "10056": {
         "id": 10056,
-        "text": "Столик на двоих, пожалуйста.",
+        "text": "Столик на двоих, пожалуйста",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100708.mp4"
         ]
@@ -55130,7 +55130,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10071": {
         "id": 10071,
-        "text": "Я голодный (-ая).",
+        "text": "Я голодный (-ая)",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105683.mp4"
         ]
@@ -55263,56 +55263,56 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10091": {
         "id": 10091,
-        "text": "Меню, пожалуйста.",
+        "text": "Меню, пожалуйста",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112326.mp4"
         ]
     },
     "10092": {
         "id": 10092,
-        "text": "Соль и перец на столе.",
+        "text": "Соль и перец на столе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112194.mp4"
         ]
     },
     "10093": {
         "id": 10093,
-        "text": "Спасибо, что пообедали вместе с нами.",
+        "text": "Спасибо, что пообедали вместе с нами",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112196.mp4"
         ]
     },
     "10094": {
         "id": 10094,
-        "text": "Бекон пережарен.",
+        "text": "Бекон пережарен",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109380.mp4"
         ]
     },
     "10095": {
         "id": 10095,
-        "text": "Пирог в духовке.",
+        "text": "Пирог в духовке",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133648.mp4"
         ]
     },
     "10096": {
         "id": 10096,
-        "text": "Кока-кола в холодильнике.",
+        "text": "Кока-кола в холодильнике",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112294.mp4"
         ]
     },
     "10097": {
         "id": 10097,
-        "text": "Еда очень вкусная.",
+        "text": "Еда очень вкусная",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109665.mp4"
         ]
     },
     "10098": {
         "id": 10098,
-        "text": "Обслуживание отвратительное.",
+        "text": "Обслуживание отвратительное",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133634.mp4"
         ]
@@ -55487,14 +55487,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10123": {
         "id": 10123,
-        "text": "Галлодетский университет находится в Вашингтоне, столице США.",
+        "text": "Галлодетский университет находится в Вашингтоне, столице США",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105712.mp4"
         ]
     },
     "10124": {
         "id": 10124,
-        "text": "Галлодетский университет был первым университетом для глухих.",
+        "text": "Галлодетский университет был первым университетом для глухих",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105711.mp4"
         ]
@@ -55529,28 +55529,28 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10129": {
         "id": 10129,
-        "text": "Я слабослышащий(-ая).",
+        "text": "Я слабослышащий(-ая)",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108741.mp4"
         ]
     },
     "10130": {
         "id": 10130,
-        "text": "Я учу жестовый язык.",
+        "text": "Я учу жестовый язык",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105693.mp4"
         ]
     },
     "10131": {
         "id": 10131,
-        "text": "Я учусь на переводчика.",
+        "text": "Я учусь на переводчика",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105694.mp4"
         ]
     },
     "10132": {
         "id": 10132,
-        "text": "Я хожу на занятия американского жестового языка.",
+        "text": "Я хожу на занятия американского жестового языка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105695.mp4"
         ]
@@ -55634,7 +55634,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10144": {
         "id": 10144,
-        "text": "Многие глухие учатся в колледжах для слышащих.",
+        "text": "Многие глухие учатся в колледжах для слышащих",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112339.mp4"
         ]
@@ -55648,28 +55648,28 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10146": {
         "id": 10146,
-        "text": "Пожалуйста, повторите.",
+        "text": "Пожалуйста, повторите",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133656.mp4"
         ]
     },
     "10147": {
         "id": 10147,
-        "text": "Пожалуйста, говорите на жестах медленно.",
+        "text": "Пожалуйста, говорите на жестах медленно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133653.mp4"
         ]
     },
     "10148": {
         "id": 10148,
-        "text": "Музыка на жестах такая красивая.",
+        "text": "Музыка на жестах такая красивая",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112428.mp4"
         ]
     },
     "10149": {
         "id": 10149,
-        "text": "Такого жеста нет, вам придется продактилировать.",
+        "text": "Такого жеста нет, вам придется продактилировать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112199.mp4"
         ]
@@ -55690,28 +55690,28 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10152": {
         "id": 10152,
-        "text": "Напишите, пожалуйста.",
+        "text": "Напишите, пожалуйста",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133623.mp4"
         ]
     },
     "10153": {
         "id": 10153,
-        "text": "Вчера я практиковался в жестах.",
+        "text": "Вчера я практиковался в жестах",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109444.mp4"
         ]
     },
     "10154": {
         "id": 10154,
-        "text": "Вы говорите на жестах быстро.",
+        "text": "Вы говорите на жестах быстро",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112430.mp4"
         ]
     },
     "10155": {
         "id": 10155,
-        "text": "Дай мне фиолетовый выделитель (маркер).",
+        "text": "Дай мне фиолетовый выделитель (маркер)",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105713.mp4"
         ]
@@ -55760,7 +55760,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10162": {
         "id": 10162,
-        "text": "Мой любимый цвет....",
+        "text": "Мой любимый цвет..",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112416.mp4"
         ]
@@ -55774,7 +55774,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10164": {
         "id": 10164,
-        "text": "Красно-синие цвета заката красивые.",
+        "text": "Красно-синие цвета заката красивые",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112298.mp4"
         ]
@@ -55935,14 +55935,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10188": {
         "id": 10188,
-        "text": "Оставь это на попозже.",
+        "text": "Оставь это на попозже",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133638.mp4"
         ]
     },
     "10189": {
         "id": 10189,
-        "text": "Сдача неверная.",
+        "text": "Сдача неверная",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133696.mp4"
         ]
@@ -55963,28 +55963,28 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10192": {
         "id": 10192,
-        "text": "Требуются рубашка и туфли.",
+        "text": "Требуются рубашка и туфли",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112206.mp4"
         ]
     },
     "10193": {
         "id": 10193,
-        "text": "У того платья очень странный цвет.",
+        "text": "У того платья очень странный цвет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112234.mp4"
         ]
     },
     "10194": {
         "id": 10194,
-        "text": "Этот галстук к рубашке не подходит.",
+        "text": "Этот галстук к рубашке не подходит",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112231.mp4"
         ]
     },
     "10195": {
         "id": 10195,
-        "text": "Рубашка хорошо сидит.",
+        "text": "Рубашка хорошо сидит",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133687.mp4"
         ]
@@ -55998,7 +55998,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10197": {
         "id": 10197,
-        "text": "У меня куртка села после химчистки.",
+        "text": "У меня куртка села после химчистки",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112216.mp4"
         ]
@@ -56040,7 +56040,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10203": {
         "id": 10203,
-        "text": "Бойскауты - хорошая организация.",
+        "text": "Бойскауты - хорошая организация",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105704.mp4"
         ]
@@ -56075,7 +56075,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10209": {
         "id": 10209,
-        "text": "Я демократ.",
+        "text": "Я демократ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108824.mp4"
         ]
@@ -56096,7 +56096,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10212": {
         "id": 10212,
-        "text": "Я независимый (-ая).",
+        "text": "Я независимый (-ая)",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/108643.mp4"
         ]
@@ -56110,7 +56110,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10215": {
         "id": 10215,
-        "text": "Я поддерживаю предложение.",
+        "text": "Я поддерживаю предложение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312336.mp4"
         ]
@@ -56145,7 +56145,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10220": {
         "id": 10220,
-        "text": "Мистер Джонс баллотируется на пост мэра.",
+        "text": "Мистер Джонс баллотируется на пост мэра",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112334.mp4"
         ]
@@ -56159,35 +56159,35 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10222": {
         "id": 10222,
-        "text": "Городской совет будет голосовать на этой неделе.",
+        "text": "Городской совет будет голосовать на этой неделе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109647.mp4"
         ]
     },
     "10223": {
         "id": 10223,
-        "text": "Законодательная власть отвечает за принятие законов.",
+        "text": "Законодательная власть отвечает за принятие законов",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109922.mp4"
         ]
     },
     "10224": {
         "id": 10224,
-        "text": "Полицейский участок через два квартала.",
+        "text": "Полицейский участок через два квартала",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133667.mp4"
         ]
     },
     "10225": {
         "id": 10225,
-        "text": "Молодежный хостел рядом за углом.",
+        "text": "Молодежный хостел рядом за углом",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112422.mp4"
         ]
     },
     "10226": {
         "id": 10226,
-        "text": "Мы должны платить налоги, чтобы поддерживать правительство.",
+        "text": "Мы должны платить налоги, чтобы поддерживать правительство",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112432.mp4"
         ]
@@ -56292,7 +56292,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10243": {
         "id": 10243,
-        "text": "Его шерсть такая  мягкая.",
+        "text": "Его шерсть такая  мягкая",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133621.mp4"
         ]
@@ -56320,14 +56320,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "10247": {
         "id": 10247,
-        "text": "Это симпатичное животное.",
+        "text": "Это симпатичное животное",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112252.mp4"
         ]
     },
     "10248": {
         "id": 10248,
-        "text": "Тигры опасные животные.",
+        "text": "Тигры опасные животные",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112205.mp4"
         ]
@@ -72953,7 +72953,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "14488": {
         "id": 14488,
-        "text": "Временно недоступен.",
+        "text": "Временно недоступен",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315305.mp4"
         ]
@@ -81637,7 +81637,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "20104": {
         "id": 20104,
-        "text": "Да исполнится воля Божья.",
+        "text": "Да исполнится воля Божья",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313500.mp4"
         ]
@@ -81651,7 +81651,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "20106": {
         "id": 20106,
-        "text": "Нам это хорошо.",
+        "text": "Нам это хорошо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313871.mp4"
         ]
@@ -82380,14 +82380,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "20407": {
         "id": 20407,
-        "text": "Мы видим, что ты замышляешь.",
+        "text": "Мы видим, что ты замышляешь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313858.mp4"
         ]
     },
     "20408": {
         "id": 20408,
-        "text": "Хорошо сказано.",
+        "text": "Хорошо сказано",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312237.mp4"
         ]
@@ -84057,7 +84057,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21534": {
         "id": 21534,
-        "text": "У меня аллергия на лекарства.",
+        "text": "У меня аллергия на лекарства",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313943.mp4"
         ]
@@ -84728,7 +84728,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21709": {
         "id": 21709,
-        "text": "Приезжайте скоро снова.",
+        "text": "Приезжайте скоро снова",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312548.mp4"
         ]
@@ -84882,7 +84882,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21739": {
         "id": 21739,
-        "text": "Извините, что вас беспокою.",
+        "text": "Извините, что вас беспокою",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313392.mp4"
         ]
@@ -84910,7 +84910,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21743": {
         "id": 21743,
-        "text": "Мне сейчас надо уходить.",
+        "text": "Мне сейчас надо уходить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313265.mp4"
         ]
@@ -84966,56 +84966,56 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21752": {
         "id": 21752,
-        "text": "Мило с твоей стороны.",
+        "text": "Мило с твоей стороны",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313284.mp4"
         ]
     },
     "21753": {
         "id": 21753,
-        "text": "Это не то, что я хочу.",
+        "text": "Это не то, что я хочу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312282.mp4"
         ]
     },
     "21754": {
         "id": 21754,
-        "text": "Это дешево.",
+        "text": "Это дешево",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312278.mp4"
         ]
     },
     "21755": {
         "id": 21755,
-        "text": "Это очень вкусно.",
+        "text": "Это очень вкусно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312284.mp4"
         ]
     },
     "21756": {
         "id": 21756,
-        "text": "Это дорого.",
+        "text": "Это дорого",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312279.mp4"
         ]
     },
     "21757": {
         "id": 21757,
-        "text": "Сейчас твоя очередь.",
+        "text": "Сейчас твоя очередь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312974.mp4"
         ]
     },
     "21758": {
         "id": 21758,
-        "text": "До встречи дома.",
+        "text": "До встречи дома",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313509.mp4"
         ]
     },
     "21759": {
         "id": 21759,
-        "text": "Я возьму это.",
+        "text": "Я возьму это",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312301.mp4"
         ]
@@ -85162,7 +85162,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21791": {
         "id": 21791,
-        "text": "Снимите пальто.",
+        "text": "Снимите пальто",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313008.mp4"
         ]
@@ -85176,14 +85176,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21793": {
         "id": 21793,
-        "text": "Товар распродан.",
+        "text": "Товар распродан",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312042.mp4"
         ]
     },
     "21794": {
         "id": 21794,
-        "text": "На эти товары фиксированная цена.",
+        "text": "На эти товары фиксированная цена",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313863.mp4"
         ]
@@ -85380,7 +85380,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21827": {
         "id": 21827,
-        "text": "Припаркуй машину.",
+        "text": "Припаркуй машину",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315721.mp4"
         ]
@@ -85422,7 +85422,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21839": {
         "id": 21839,
-        "text": "Взвесьте это посылку, пожалуйста.",
+        "text": "Взвесьте это посылку, пожалуйста",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313563.mp4"
         ]
@@ -85506,7 +85506,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21854": {
         "id": 21854,
-        "text": "Приглуши свет фар.",
+        "text": "Приглуши свет фар",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315719.mp4"
         ]
@@ -85641,21 +85641,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21879": {
         "id": 21879,
-        "text": "Я бы хотел переслать деньги.",
+        "text": "Я бы хотел переслать деньги",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312298.mp4"
         ]
     },
     "21880": {
         "id": 21880,
-        "text": "Я потерялся(-лась). Я заблудился(-лась).",
+        "text": "Я потерялся(-лась). Я заблудился(-лась)",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315806.mp4"
         ]
     },
     "21881": {
         "id": 21881,
-        "text": "Я хочу послать письмо с уведомлением.",
+        "text": "Я хочу послать письмо с уведомлением",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312354.mp4"
         ]
@@ -85831,14 +85831,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21934": {
         "id": 21934,
-        "text": "Здесь бесплатная парковка.",
+        "text": "Здесь бесплатная парковка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313521.mp4"
         ]
     },
     "21935": {
         "id": 21935,
-        "text": "Здесь парковка не разрешена.",
+        "text": "Здесь парковка не разрешена",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313534.mp4"
         ]
@@ -85971,7 +85971,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "21973": {
         "id": 21973,
-        "text": "Заведи двигатель.",
+        "text": "Заведи двигатель",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313528.mp4"
         ]
@@ -86167,7 +86167,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22007": {
         "id": 22007,
-        "text": "У меня было столкновение с машиной, идущей навстречу.",
+        "text": "У меня было столкновение с машиной, идущей навстречу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312209.mp4"
         ]
@@ -86188,7 +86188,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22012": {
         "id": 22012,
-        "text": "Я предупредил.",
+        "text": "Я предупредил",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312340.mp4"
         ]
@@ -86202,7 +86202,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22014": {
         "id": 22014,
-        "text": "Я закончил основную школу.",
+        "text": "Я закончил основную школу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312307.mp4"
         ]
@@ -86230,7 +86230,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22018": {
         "id": 22018,
-        "text": "Я закончил техническую школу.",
+        "text": "Я закончил техническую школу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312310.mp4"
         ]
@@ -86314,42 +86314,42 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22031": {
         "id": 22031,
-        "text": "Я вызову скорую помощь.",
+        "text": "Я вызову скорую помощь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312303.mp4"
         ]
     },
     "22032": {
         "id": 22032,
-        "text": "Я позвоню врачу.",
+        "text": "Я позвоню врачу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312337.mp4"
         ]
     },
     "22033": {
         "id": 22033,
-        "text": "Я по объявлению.",
+        "text": "Я по объявлению",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312335.mp4"
         ]
     },
     "22034": {
         "id": 22034,
-        "text": "Я безработный.",
+        "text": "Я безработный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312294.mp4"
         ]
     },
     "22035": {
         "id": 22035,
-        "text": "Меня уволили.",
+        "text": "Меня уволили",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313290.mp4"
         ]
     },
     "22036": {
         "id": 22036,
-        "text": "Я пропустил поезд.",
+        "text": "Я пропустил поезд",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312341.mp4"
         ]
@@ -86391,35 +86391,35 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22042": {
         "id": 22042,
-        "text": "У меня тормоза отказали.",
+        "text": "У меня тормоза отказали",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312223.mp4"
         ]
     },
     "22044": {
         "id": 22044,
-        "text": "У меня колесо спустилось.",
+        "text": "У меня колесо спустилось",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312212.mp4"
         ]
     },
     "22045": {
         "id": 22045,
-        "text": "Сегодня никаких назначенных встреч нет.",
+        "text": "Сегодня никаких назначенных встреч нет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312973.mp4"
         ]
     },
     "22046": {
         "id": 22046,
-        "text": "Нет, все места заняты.",
+        "text": "Нет, все места заняты",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313884.mp4"
         ]
     },
     "22047": {
         "id": 22047,
-        "text": "Пожалуйста, вышлите нам ваше резюме.",
+        "text": "Пожалуйста, вышлите нам ваше резюме",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313942.mp4"
         ]
@@ -86440,70 +86440,70 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22050": {
         "id": 22050,
-        "text": "Отпусти тормоза.",
+        "text": "Отпусти тормоза",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313907.mp4"
         ]
     },
     "22051": {
         "id": 22051,
-        "text": "Нажми на педаль газа.",
+        "text": "Нажми на педаль газа",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313866.mp4"
         ]
     },
     "22052": {
         "id": 22052,
-        "text": "Выключи свет.",
+        "text": "Выключи свет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312019.mp4"
         ]
     },
     "22053": {
         "id": 22053,
-        "text": "Измерьте температуру.",
+        "text": "Измерьте температуру",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313403.mp4"
         ]
     },
     "22054": {
         "id": 22054,
-        "text": "Билетная касса закрыта.",
+        "text": "Билетная касса закрыта",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313479.mp4"
         ]
     },
     "22055": {
         "id": 22055,
-        "text": "Билетная касса открыта.",
+        "text": "Билетная касса открыта",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313478.mp4"
         ]
     },
     "22056": {
         "id": 22056,
-        "text": "Водитель уехал.",
+        "text": "Водитель уехал",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313565.mp4"
         ]
     },
     "22057": {
         "id": 22057,
-        "text": "Поезд отходит через десять минут.",
+        "text": "Поезд отходит через десять минут",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313935.mp4"
         ]
     },
     "22058": {
         "id": 22058,
-        "text": "Это мое место.",
+        "text": "Это мое место",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312280.mp4"
         ]
     },
     "22059": {
         "id": 22059,
-        "text": "Эта женщина без сознания.",
+        "text": "Эта женщина без сознания",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312273.mp4"
         ]
@@ -86573,14 +86573,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22082": {
         "id": 22082,
-        "text": "В нашей компании есть вакансия.",
+        "text": "В нашей компании есть вакансия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313549.mp4"
         ]
     },
     "22083": {
         "id": 22083,
-        "text": "У нас было ДТП.",
+        "text": "У нас было ДТП",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312225.mp4"
         ]
@@ -86749,21 +86749,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22108": {
         "id": 22108,
-        "text": "Вы плохо выглядите.",
+        "text": "Вы плохо выглядите",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312015.mp4"
         ]
     },
     "22109": {
         "id": 22109,
-        "text": "Вы бледны.",
+        "text": "Вы бледны",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313577.mp4"
         ]
     },
     "22110": {
         "id": 22110,
-        "text": "Вам надо пойти к врачу.",
+        "text": "Вам надо пойти к врачу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313546.mp4"
         ]
@@ -86833,7 +86833,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22188": {
         "id": 22188,
-        "text": "Дыши глубоко.",
+        "text": "Дыши глубоко",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313501.mp4"
         ]
@@ -86861,7 +86861,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22212": {
         "id": 22212,
-        "text": "Проверьте пульс.",
+        "text": "Проверьте пульс",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312549.mp4"
         ]
@@ -86940,7 +86940,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22230": {
         "id": 22230,
-        "text": "Покашляйте, пожалуста.",
+        "text": "Покашляйте, пожалуста",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312078.mp4"
         ]
@@ -87136,14 +87136,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22360": {
         "id": 22360,
-        "text": "У него ожог первой степени.",
+        "text": "У него ожог первой степени",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312229.mp4"
         ]
     },
     "22361": {
         "id": 22361,
-        "text": "У него внутренние повреждения.",
+        "text": "У него внутренние повреждения",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312227.mp4"
         ]
@@ -87248,7 +87248,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22393": {
         "id": 22393,
-        "text": "Я немного охрип.",
+        "text": "Я немного охрип",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315805.mp4"
         ]
@@ -87311,7 +87311,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22403": {
         "id": 22403,
-        "text": "У меня судорожные боли в животе.",
+        "text": "У меня судорожные боли в животе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312221.mp4"
         ]
@@ -87325,7 +87325,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22405": {
         "id": 22405,
-        "text": "У меня сыпь.",
+        "text": "У меня сыпь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315747.mp4"
         ]
@@ -87339,7 +87339,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22407": {
         "id": 22407,
-        "text": "У меня несварение желудка.",
+        "text": "У меня несварение желудка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312218.mp4"
         ]
@@ -87444,105 +87444,105 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22429": {
         "id": 22429,
-        "text": "Тупая боль.",
+        "text": "Тупая боль",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312048.mp4"
         ]
     },
     "22430": {
         "id": 22430,
-        "text": "Адская боль.",
+        "text": "Адская боль",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313447.mp4"
         ]
     },
     "22431": {
         "id": 22431,
-        "text": "Постоянно больно.",
+        "text": "Постоянно больно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312542.mp4"
         ]
     },
     "22432": {
         "id": 22432,
-        "text": "Острая боль.",
+        "text": "Острая боль",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313909.mp4"
         ]
     },
     "22433": {
         "id": 22433,
-        "text": "Чешется.",
+        "text": "Чешется",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312249.mp4"
         ]
     },
     "22434": {
         "id": 22434,
-        "text": "Меня рвет.",
+        "text": "Меня рвет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313291.mp4"
         ]
     },
     "22435": {
         "id": 22435,
-        "text": "Я сделаю тебе укол.",
+        "text": "Я сделаю тебе укол",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312345.mp4"
         ]
     },
     "22436": {
         "id": 22436,
-        "text": "Я измерю ваше давление.",
+        "text": "Я измерю ваше давление",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312314.mp4"
         ]
     },
     "22437": {
         "id": 22437,
-        "text": "Я сильно потею.",
+        "text": "Я сильно потею",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312346.mp4"
         ]
     },
     "22438": {
         "id": 22438,
-        "text": "Я обжёг пальцы.",
+        "text": "Я обжёг пальцы",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312332.mp4"
         ]
     },
     "22439": {
         "id": 22439,
-        "text": "У меня боль в спине.",
+        "text": "У меня боль в спине",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312208.mp4"
         ]
     },
     "22440": {
         "id": 22440,
-        "text": "У меня голова болит.",
+        "text": "У меня голова болит",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312211.mp4"
         ]
     },
     "22441": {
         "id": 22441,
-        "text": "У меня колющие боли в спине.",
+        "text": "У меня колющие боли в спине",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312215.mp4"
         ]
     },
     "22442": {
         "id": 22442,
-        "text": "У меня колющие боли в бедре.",
+        "text": "У меня колющие боли в бедре",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312214.mp4"
         ]
     },
     "22443": {
         "id": 22443,
-        "text": "У меня колющая боль в груди.",
+        "text": "У меня колющая боль в груди",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312213.mp4"
         ]
@@ -87647,7 +87647,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22577": {
         "id": 22577,
-        "text": "У меня глаза чешутся.",
+        "text": "У меня глаза чешутся",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312210.mp4"
         ]
@@ -87738,7 +87738,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22638": {
         "id": 22638,
-        "text": "Пожалуйста, разденьтесь до талии.",
+        "text": "Пожалуйста, разденьтесь до талии",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313941.mp4"
         ]
@@ -87857,7 +87857,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22704": {
         "id": 22704,
-        "text": "Закатай рукав.",
+        "text": "Закатай рукав",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313526.mp4"
         ]
@@ -87955,7 +87955,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22791": {
         "id": 22791,
-        "text": "Покажи язык.",
+        "text": "Покажи язык",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312074.mp4"
         ]
@@ -88117,49 +88117,49 @@ export let dictionaryData: DictionaryEntry = {
     },
     "22904": {
         "id": 22904,
-        "text": "У вас дальнозоркость.",
+        "text": "У вас дальнозоркость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312058.mp4"
         ]
     },
     "22905": {
         "id": 22905,
-        "text": "У вас близорукость.",
+        "text": "У вас близорукость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312056.mp4"
         ]
     },
     "22906": {
         "id": 22906,
-        "text": "У вас грипп.",
+        "text": "У вас грипп",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312057.mp4"
         ]
     },
     "22907": {
         "id": 22907,
-        "text": "У вас пневмония.",
+        "text": "У вас пневмония",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312066.mp4"
         ]
     },
     "22908": {
         "id": 22908,
-        "text": "У вас тонзиллит.",
+        "text": "У вас тонзиллит",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312068.mp4"
         ]
     },
     "22909": {
         "id": 22909,
-        "text": "Вам нужно придерживатьс диеты.",
+        "text": "Вам нужно придерживатьс диеты",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313561.mp4"
         ]
     },
     "22910": {
         "id": 22910,
-        "text": "Вам ничего нельзя есть.",
+        "text": "Вам ничего нельзя есть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313545.mp4"
         ]
@@ -88299,7 +88299,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23011": {
         "id": 23011,
-        "text": "По выходным я иногда хожу на дискотеку или в кино.",
+        "text": "По выходным я иногда хожу на дискотеку или в кино",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313928.mp4"
         ]
@@ -88811,7 +88811,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23118": {
         "id": 23118,
-        "text": "Я не говорю по немецки.",
+        "text": "Я не говорю по немецки",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312325.mp4"
         ]
@@ -88825,7 +88825,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23120": {
         "id": 23120,
-        "text": "Я работаю разносчиком газет, чтобы заработать немного денег.",
+        "text": "Я работаю разносчиком газет, чтобы заработать немного денег",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315807.mp4"
         ]
@@ -88867,7 +88867,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23128": {
         "id": 23128,
-        "text": "Я потерял(-а) свою сумку.",
+        "text": "Я потерял(-а) свою сумку",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312338.mp4"
         ]
@@ -88902,70 +88902,70 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23134": {
         "id": 23134,
-        "text": "Я хочу пойти в поход в горы.",
+        "text": "Я хочу пойти в поход в горы",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312353.mp4"
         ]
     },
     "23135": {
         "id": 23135,
-        "text": "Я бы хотел остановиться в комнате на двоих.",
+        "text": "Я бы хотел остановиться в комнате на двоих",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312297.mp4"
         ]
     },
     "23136": {
         "id": 23136,
-        "text": "Я вызову полицию.",
+        "text": "Я вызову полицию",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312302.mp4"
         ]
     },
     "23137": {
         "id": 23137,
-        "text": "Я в порядке, спасибо.",
+        "text": "Я в порядке, спасибо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312300.mp4"
         ]
     },
     "23138": {
         "id": 23138,
-        "text": "Меня интересуют панки.",
+        "text": "Меня интересуют панки",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313293.mp4"
         ]
     },
     "23139": {
         "id": 23139,
-        "text": "Я потерялся(-лась). Я растерялся(-лась).",
+        "text": "Я потерялся(-лась). Я растерялся(-лась)",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312339.mp4"
         ]
     },
     "23140": {
         "id": 23140,
-        "text": "Я болею.",
+        "text": "Я болею",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312296.mp4"
         ]
     },
     "23141": {
         "id": 23141,
-        "text": "Меня ранило.",
+        "text": "Меня ранило",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313292.mp4"
         ]
     },
     "23143": {
         "id": 23143,
-        "text": "Летом я плаваю.",
+        "text": "Летом я плаваю",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313311.mp4"
         ]
     },
     "23144": {
         "id": 23144,
-        "text": "Зимой я катаюсь на лыжах.",
+        "text": "Зимой я катаюсь на лыжах",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313530.mp4"
         ]
@@ -89028,28 +89028,28 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23158": {
         "id": 23158,
-        "text": "Это неважно.",
+        "text": "Это неважно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312283.mp4"
         ]
     },
     "23159": {
         "id": 23159,
-        "text": "Это десять минут на автобусе.",
+        "text": "Это десять минут на автобусе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312276.mp4"
         ]
     },
     "23160": {
         "id": 23160,
-        "text": "Это десять минут пешком.",
+        "text": "Это десять минут пешком",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312277.mp4"
         ]
     },
     "23161": {
         "id": 23161,
-        "text": "Это срочно.",
+        "text": "Это срочно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312286.mp4"
         ]
@@ -89098,7 +89098,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23175": {
         "id": 23175,
-        "text": "Большое спасибо.",
+        "text": "Большое спасибо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313536.mp4"
         ]
@@ -89848,21 +89848,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23342": {
         "id": 23342,
-        "text": "Игра в футбол - мое любимое хобби.",
+        "text": "Игра в футбол - мое любимое хобби",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312886.mp4"
         ]
     },
     "23343": {
         "id": 23343,
-        "text": "Я с другом часто складываю пазлы.",
+        "text": "Я с другом часто складываю пазлы",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312344.mp4"
         ]
     },
     "23344": {
         "id": 23344,
-        "text": "Моя мама работает клерком в офисе.",
+        "text": "Моя мама работает клерком в офисе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313857.mp4"
         ]
@@ -89911,21 +89911,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23355": {
         "id": 23355,
-        "text": "Неплохо.",
+        "text": "Неплохо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313887.mp4"
         ]
     },
     "23356": {
         "id": 23356,
-        "text": "Не стоит того.",
+        "text": "Не стоит того",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313876.mp4"
         ]
     },
     "23359": {
         "id": 23359,
-        "text": "Время от времени я подрабатываю нянькой.",
+        "text": "Время от времени я подрабатываю нянькой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313579.mp4"
         ]
@@ -89960,21 +89960,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23365": {
         "id": 23365,
-        "text": "Хорошо, я это возьму.",
+        "text": "Хорошо, я это возьму",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312239.mp4"
         ]
     },
     "23366": {
         "id": 23366,
-        "text": "По субботам мне приходится готовить для семьи.",
+        "text": "По субботам мне приходится готовить для семьи",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313927.mp4"
         ]
     },
     "23367": {
         "id": 23367,
-        "text": "Раз в неделю я хожу на тренировки по гандболу.",
+        "text": "Раз в неделю я хожу на тренировки по гандболу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312576.mp4"
         ]
@@ -90100,14 +90100,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23394": {
         "id": 23394,
-        "text": "Играть в футбол весело.",
+        "text": "Играть в футбол весело",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312887.mp4"
         ]
     },
     "23395": {
         "id": 23395,
-        "text": "Пожалуйста, уберите в моей комнате.",
+        "text": "Пожалуйста, уберите в моей комнате",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313940.mp4"
         ]
@@ -90128,7 +90128,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23402": {
         "id": 23402,
-        "text": "Практика приводит к совершенству.",
+        "text": "Практика приводит к совершенству",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312546.mp4"
         ]
@@ -90485,14 +90485,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23677": {
         "id": 23677,
-        "text": "Она много занимается спортом.",
+        "text": "Она много занимается спортом",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313911.mp4"
         ]
     },
     "23678": {
         "id": 23678,
-        "text": "Она бы хотела покататься на скейтборде.",
+        "text": "Она бы хотела покататься на скейтборде",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313904.mp4"
         ]
@@ -90548,21 +90548,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23699": {
         "id": 23699,
-        "text": "Иногда я так зачитываюсь, что забываю домашние дела.",
+        "text": "Иногда я так зачитываюсь, что забываю домашние дела",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313384.mp4"
         ]
     },
     "23700": {
         "id": 23700,
-        "text": "Извините, мы объелись.",
+        "text": "Извините, мы объелись",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313399.mp4"
         ]
     },
     "23701": {
         "id": 23701,
-        "text": "Извините, у нас все забронировано на сегодня.",
+        "text": "Извините, у нас все забронировано на сегодня",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313394.mp4"
         ]
@@ -90751,14 +90751,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23745": {
         "id": 23745,
-        "text": "Пожалуйста, возьми меня туда.",
+        "text": "Пожалуйста, возьми меня туда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313934.mp4"
         ]
     },
     "23746": {
         "id": 23746,
-        "text": "Пожалуйста, отвези меня в аэропорт.",
+        "text": "Пожалуйста, отвези меня в аэропорт",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313933.mp4"
         ]
@@ -90800,21 +90800,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23753": {
         "id": 23753,
-        "text": "Матч отменили из-за дождя.",
+        "text": "Матч отменили из-за дождя",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313295.mp4"
         ]
     },
     "23755": {
         "id": 23755,
-        "text": "Вокзал недалеко, пешком можно дойти.",
+        "text": "Вокзал недалеко, пешком можно дойти",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313582.mp4"
         ]
     },
     "23756": {
         "id": 23756,
-        "text": "Они играли очень хорошо.",
+        "text": "Они играли очень хорошо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313910.mp4"
         ]
@@ -90898,14 +90898,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23778": {
         "id": 23778,
-        "text": "Поверни налево.",
+        "text": "Поверни налево",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313926.mp4"
         ]
     },
     "23779": {
         "id": 23779,
-        "text": "Поверни направо.",
+        "text": "Поверни направо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313938.mp4"
         ]
@@ -90975,7 +90975,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23807": {
         "id": 23807,
-        "text": "Посмотрим.",
+        "text": "Посмотрим",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312540.mp4"
         ]
@@ -91045,21 +91045,21 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23818": {
         "id": 23818,
-        "text": "Когда не так жарко, я катаюсь на роликах.",
+        "text": "Когда не так жарко, я катаюсь на роликах",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313338.mp4"
         ]
     },
     "23819": {
         "id": 23819,
-        "text": "Когда погода плохая, я читаю книги или смотрю ТВ.",
+        "text": "Когда погода плохая, я читаю книги или смотрю ТВ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313337.mp4"
         ]
     },
     "23820": {
         "id": 23820,
-        "text": "Когда мы в отпуске, я люблю ходить по горам.",
+        "text": "Когда мы в отпуске, я люблю ходить по горам",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313339.mp4"
         ]
@@ -91143,14 +91143,14 @@ export let dictionaryData: DictionaryEntry = {
     },
     "23835": {
         "id": 23835,
-        "text": "Вы не должны это пропустить.",
+        "text": "Вы не должны это пропустить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312004.mp4"
         ]
     },
     "23836": {
         "id": 23836,
-        "text": "Ваша комната на втором этаже справа.",
+        "text": "Ваша комната на втором этаже справа",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313558.mp4"
         ]
@@ -93033,7 +93033,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "25173": {
         "id": 25173,
-        "text": "Выход запрещен.",
+        "text": "Выход запрещен",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/321145.mp4"
         ]
@@ -93047,7 +93047,7 @@ export let dictionaryData: DictionaryEntry = {
     },
     "25195": {
         "id": 25195,
-        "text": "Курение запрещено.",
+        "text": "Курение запрещено",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/321161.mp4"
         ]
