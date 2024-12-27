@@ -73,7 +73,7 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
         getScrollElement: () => parentRef.current,
         estimateSize: () => 40,
         measureElement: (el) => el?.getBoundingClientRect().height || 40,
-        overscan: 5,
+        overscan: 20,
     });
 
     useEffect(() => {
