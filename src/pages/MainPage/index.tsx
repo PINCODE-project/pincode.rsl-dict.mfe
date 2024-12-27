@@ -2,6 +2,8 @@ import { Card, CardContent, CardFooter, CardHeader } from "ui/Card";
 import { Heading } from "ui/Article/Heading";
 import Main from "@/assets/images/Main.png";
 import { useIsMobile } from "@/hooks/use-mobile";
+import { Button } from "ui/Button";
+import { setIsOpenSidebar } from "@/store/sidebar";
 
 export default function MainPage() {
     const isMobile = useIsMobile();
@@ -28,10 +30,23 @@ export default function MainPage() {
                     }
                 </div>
                 <CardFooter>
-                    <p className="text-xl text-muted-foreground w-full">
-                        Выберите слово из словаря, чтобы<br/>
-                        посмотреть видео с жестом
-                    </p>
+                    {
+                        isMobile &&
+                        <div className="flex flex-col gap-6 justify-center">
+                            <p className="text-xl text-muted-foreground w-full text-center">
+                                Выберите слово из словаря, чтобы
+                                посмотреть видео с жестом
+                            </p>
+                            <Button variant='default' onClick={() => setIsOpenSidebar(true)}>Выбрать жест</Button>
+                        </div>
+                    }
+                    {
+                        !isMobile &&
+                        <p className="text-xl text-muted-foreground w-full">
+                            Выберите слово из словаря, чтобы<br/>
+                            посмотреть видео с жестом
+                        </p>
+                    }
                 </CardFooter>
             </Card>
         </div>
