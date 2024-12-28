@@ -11,6 +11,9 @@ import { cn } from "@/lib/utils";
 import styles from "./styles.module.scss";
 import Fuse from 'fuse.js';
 import { useIsMobile } from "@/hooks/use-mobile";
+import { Link } from "react-router-dom";
+import { Snowflake } from "lucide-react";
+import { setIsOpenSidebar } from "@/store/sidebar";
 
 interface SidebarProps {
     onSelectWord: (word: Sign) => void;
@@ -194,12 +197,23 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
                     {sidebarContent}
                 </Card>
             }
-
             {
                 isMobile &&
                 <Sheet open={isOpen} onOpenChange={onClose}>
                     {/*@ts-ignore*/}
                     <SheetContent key={sidebarKey} side="left" className="w-[300px] sm:w-[400px]">
+                        <div className="mt-4 mb-5 flex flex-col gap-4">
+                            <Button variant="outline" asChild onClick={() => setIsOpenSidebar(false)}>
+                                <Link to="/about">О нас</Link>
+                            </Button>
+                            <Link to="/new-year">
+                                <Button variant="destructive" effect="shineHover" className="w-full"
+                                        onClick={() => setIsOpenSidebar(false)}>
+                                    <Snowflake className="mr-2 h-5 w-5"/>
+                                    С новым годом!
+                                </Button>
+                            </Link>
+                        </div>
                         {sidebarContent}
                     </SheetContent>
                 </Sheet>
