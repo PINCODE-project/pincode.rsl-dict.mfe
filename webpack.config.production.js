@@ -112,6 +112,8 @@ module.exports = (env, options) => {
             new MiniCssExtractPlugin({ filename: scssConfig.destFileName }),
             new HtmlWebpackPlugin({
                 template: "./public/index.html",
+                favicon: "./public/favicon.ico",
+                manifest: "./public/manifest.json",
                 inject: true,
                 minify: false,
             }),
