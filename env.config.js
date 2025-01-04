@@ -13,6 +13,7 @@ const copyPluginPatterns = {
         { from: "./public/manifest.json" },
         { from: "./public/favicon.ico" },
         { from: "./public/_redirects" },
+        { from: "./public/google727cd092b123fe2a.html" },
         { from: "./src/assets" },
         // { from: "./src/assets/fonts", to: "fonts" },
         // { from: "./src/assets/vendor", to: "js" },
