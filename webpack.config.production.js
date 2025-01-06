@@ -57,7 +57,7 @@ module.exports = (env, options) => {
                     ],
                 },
                 {
-                    test: /\.(?:ico|gif|png|jpg|jpeg|svg)$/i,
+                    test: /\.(?:ico|gif|png|jpg|webp|jpeg|svg)$/i,
                     type: "javascript/auto",
                     loader: "file-loader",
                     options: {
