@@ -15,6 +15,7 @@ const copyPluginPatterns = {
         { from: "./public/_redirects" },
         { from: "./public/google727cd092b123fe2a.html" },
         { from: "./public/sitemap.xml" },
+        { from: "./public/robots.txt" },
         { from: "./src/assets" },
         // { from: "./src/assets/fonts", to: "fonts" },
         // { from: "./src/assets/vendor", to: "js" },
