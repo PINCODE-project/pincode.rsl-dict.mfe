@@ -1,6 +1,6 @@
 import { Card, CardContent, CardFooter, CardHeader } from "ui/Card";
 import { Heading } from "ui/Article/Heading";
-import Main from "@/assets/images/Main.png";
+import Main from "@/assets/images/Main.webp";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { Button } from "ui/Button";
 import { setIsOpenSidebar } from "@/store/sidebar";
