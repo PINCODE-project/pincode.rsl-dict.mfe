@@ -47666,6 +47666,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99752.mp4",
             "https://storage.yandexcloud.net/signs-signs/319511.mp4"
+        ],
+        "recognitionText": [
+            "привет"
         ]
     },
     "8280": {
@@ -87808,6 +87811,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319513.mp4",
             "https://storage.yandexcloud.net/signs-signs/351494.mp4"
+        ],
+        "recognitionText": [
+            "привет"
         ]
     },
     "21681": {
