@@ -70,6 +70,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/92.mp4",
             "https://storage.yandexcloud.net/signs-signs/108.mp4"
+        ],
+        "recognitionText": [
+            "цемент"
         ]
     },
     "12": {
@@ -114,6 +117,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дверь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/172.mp4"
+        ],
+        "recognitionText": [
+            "дверь"
         ]
     },
     "19": {
@@ -228,6 +234,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "размер",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351508.mp4"
+        ],
+        "recognitionText": [
+            "размер"
         ]
     },
     "37": {
@@ -402,6 +411,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "метр",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/696.mp4"
+        ],
+        "recognitionText": [
+            "метр"
         ]
     },
     "71": {
@@ -425,6 +437,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вес",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/726.mp4"
+        ],
+        "recognitionText": [
+            "вес"
         ]
     },
     "74": {
@@ -496,6 +511,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/819.mp4",
             "https://storage.yandexcloud.net/signs-signs/32716.mp4"
+        ],
+        "recognitionText": [
+            "лес"
         ]
     },
     "85": {
@@ -531,6 +549,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "стена",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/877.mp4"
+        ],
+        "recognitionText": [
+            "стена"
         ]
     },
     "90": {
@@ -547,6 +568,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "хорошо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/900.mp4"
+        ],
+        "recognitionText": [
+            "хорошо"
         ]
     },
     "92": {
@@ -889,6 +913,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "двор",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/1503.mp4"
+        ],
+        "recognitionText": [
+            "двор"
         ]
     },
     "154": {
@@ -918,6 +945,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320725.mp4",
             "https://storage.yandexcloud.net/signs-signs/1562.mp4"
+        ],
+        "recognitionText": [
+            "уровень"
         ]
     },
     "159": {
@@ -969,6 +999,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "нормальный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/1628.mp4"
+        ],
+        "recognitionText": [
+            "нормальный"
         ]
     },
     "166": {
@@ -976,6 +1009,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "большой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/1630.mp4"
+        ],
+        "recognitionText": [
+            "большой"
         ]
     },
     "167": {
@@ -984,6 +1020,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100789.mp4",
             "https://storage.yandexcloud.net/signs-signs/4829.mp4"
+        ],
+        "recognitionText": [
+            "маленький"
         ]
     },
     "168": {
@@ -1077,6 +1116,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "край",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/1785.mp4"
+        ],
+        "recognitionText": [
+            "край"
         ]
     },
     "182": {
@@ -1084,6 +1126,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "химия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/1795.mp4"
+        ],
+        "recognitionText": [
+            "химия"
         ]
     },
     "183": {
@@ -1091,6 +1136,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "логичный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/1802.mp4"
+        ],
+        "recognitionText": [
+            "логичный"
         ]
     },
     "184": {
@@ -1098,6 +1146,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "карта",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/1807.mp4"
+        ],
+        "recognitionText": [
+            "карта"
         ]
     },
     "185": {
@@ -1148,6 +1199,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/225096.mp4",
             "https://storage.yandexcloud.net/signs-signs/1883.mp4"
+        ],
+        "recognitionText": [
+            "сила"
         ]
     },
     "192": {
@@ -1184,6 +1238,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "чинить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/1954.mp4"
+        ],
+        "recognitionText": [
+            "чинить"
         ]
     },
     "201": {
@@ -1192,6 +1249,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/1972.mp4",
             "https://storage.yandexcloud.net/signs-signs/112187.mp4"
+        ],
+        "recognitionText": [
+            "место"
         ]
     },
     "202": {
@@ -1543,6 +1603,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176310.mp4",
             "https://storage.yandexcloud.net/signs-signs/40253.mp4"
+        ],
+        "recognitionText": [
+            "лопата"
         ]
     },
     "266": {
@@ -1567,6 +1630,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/30009.mp4",
             "https://storage.yandexcloud.net/signs-signs/36996.mp4",
             "https://storage.yandexcloud.net/signs-signs/2648.mp4"
+        ],
+        "recognitionText": [
+            "защита"
         ]
     },
     "270": {
@@ -1617,6 +1683,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/2727.mp4",
             "https://storage.yandexcloud.net/signs-signs/320914.mp4"
+        ],
+        "recognitionText": [
+            "шум"
         ]
     },
     "278": {
@@ -1624,6 +1693,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "камень",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/2728.mp4"
+        ],
+        "recognitionText": [
+            "камень"
         ]
     },
     "280": {
@@ -1753,6 +1825,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/2961.mp4",
             "https://storage.yandexcloud.net/signs-signs/176999.mp4"
+        ],
+        "recognitionText": [
+            "давление"
         ]
     },
     "303": {
@@ -1831,6 +1906,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "система",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/3076.mp4"
+        ],
+        "recognitionText": [
+            "система"
         ]
     },
     "315": {
@@ -1840,6 +1918,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/351506.mp4",
             "https://storage.yandexcloud.net/signs-signs/3093.mp4",
             "https://storage.yandexcloud.net/signs-signs/100042.mp4"
+        ],
+        "recognitionText": [
+            "полный"
         ]
     },
     "316": {
@@ -1875,6 +1956,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "окно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/3133.mp4"
+        ],
+        "recognitionText": [
+            "окно"
         ]
     },
     "321": {
@@ -2135,6 +2219,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "цвет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351382.mp4"
+        ],
+        "recognitionText": [
+            "цвет"
         ]
     },
     "365": {
@@ -2205,6 +2292,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дорога",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/3667.mp4"
+        ],
+        "recognitionText": [
+            "дорога"
         ]
     },
     "376": {
@@ -2227,6 +2317,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/3709.mp4",
             "https://storage.yandexcloud.net/signs-signs/22806.mp4"
+        ],
+        "recognitionText": [
+            "карандаш"
         ]
     },
     "379": {
@@ -2298,6 +2391,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "безопасность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/3830.mp4"
+        ],
+        "recognitionText": [
+            "безопасность"
         ]
     },
     "391": {
@@ -2312,6 +2408,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "очки",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/3850.mp4"
+        ],
+        "recognitionText": [
+            "очки"
         ]
     },
     "394": {
@@ -2348,6 +2447,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/3900.mp4",
             "https://storage.yandexcloud.net/signs-signs/227213.mp4"
+        ],
+        "recognitionText": [
+            "строить"
         ]
     },
     "400": {
@@ -2421,7 +2523,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/17658.mp4",
             "https://storage.yandexcloud.net/signs-signs/4016.mp4"
         ],
-        "recognitionText": ["привет"]
+        "recognitionText": [
+            "привет"
+        ]
     },
     "411": {
         "id": 411,
@@ -2429,6 +2533,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4027.mp4",
             "https://storage.yandexcloud.net/signs-signs/99533.mp4"
+        ],
+        "recognitionText": [
+            "имя"
         ]
     },
     "412": {
@@ -2436,6 +2543,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "глухой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4047.mp4"
+        ],
+        "recognitionText": [
+            "глухой"
         ]
     },
     "413": {
@@ -2444,6 +2554,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4049.mp4",
             "https://storage.yandexcloud.net/signs-signs/43566.mp4"
+        ],
+        "recognitionText": [
+            "город"
         ]
     },
     "414": {
@@ -2451,6 +2564,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "слышать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4058.mp4"
+        ],
+        "recognitionText": [
+            "слышать"
         ]
     },
     "415": {
@@ -2458,6 +2574,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "студент",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4067.mp4"
+        ],
+        "recognitionText": [
+            "студент"
         ]
     },
     "416": {
@@ -2465,6 +2584,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "учитель",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4083.mp4"
+        ],
+        "recognitionText": [
+            "учитель"
         ]
     },
     "417": {
@@ -2472,6 +2594,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мальчик",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4095.mp4"
+        ],
+        "recognitionText": [
+            "мальчик"
         ]
     },
     "418": {
@@ -2479,6 +2604,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "девочка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4105.mp4"
+        ],
+        "recognitionText": [
+            "девочка"
         ]
     },
     "419": {
@@ -2486,6 +2614,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "друг",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351476.mp4"
+        ],
+        "recognitionText": [
+            "друг"
         ]
     },
     "420": {
@@ -2493,6 +2624,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "да",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4126.mp4"
+        ],
+        "recognitionText": [
+            "да"
         ]
     },
     "421": {
@@ -2500,6 +2634,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "нет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4136.mp4"
+        ],
+        "recognitionText": [
+            "нет"
         ]
     },
     "422": {
@@ -2515,6 +2652,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "спасибо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176328.mp4"
+        ],
+        "recognitionText": [
+            "спасибо"
         ]
     },
     "425": {
@@ -2522,6 +2662,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "говорить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4168.mp4"
+        ],
+        "recognitionText": [
+            "говорить"
         ]
     },
     "426": {
@@ -2529,6 +2672,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "неделя",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4185.mp4"
+        ],
+        "recognitionText": [
+            "неделя"
         ]
     },
     "427": {
@@ -2536,6 +2682,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "завтра",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4186.mp4"
+        ],
+        "recognitionText": [
+            "завтра"
         ]
     },
     "428": {
@@ -2550,6 +2699,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вчера",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4214.mp4"
+        ],
+        "recognitionText": [
+            "вчера"
         ]
     },
     "430": {
@@ -2558,6 +2710,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4217.mp4",
             "https://storage.yandexcloud.net/signs-signs/295799.mp4"
+        ],
+        "recognitionText": [
+            "проблема"
         ]
     },
     "431": {
@@ -2565,6 +2720,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "понедельник",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4227.mp4"
+        ],
+        "recognitionText": [
+            "понедельник"
         ]
     },
     "433": {
@@ -2572,6 +2730,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "среда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4254.mp4"
+        ],
+        "recognitionText": [
+            "среда"
         ]
     },
     "434": {
@@ -2579,6 +2740,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "четверг",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4265.mp4"
+        ],
+        "recognitionText": [
+            "четверг"
         ]
     },
     "435": {
@@ -2586,6 +2750,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пятница",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4267.mp4"
+        ],
+        "recognitionText": [
+            "пятница"
         ]
     },
     "436": {
@@ -2593,6 +2760,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "суббота",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4282.mp4"
+        ],
+        "recognitionText": [
+            "суббота"
         ]
     },
     "437": {
@@ -2607,6 +2777,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ланч",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4304.mp4"
+        ],
+        "recognitionText": [
+            "ланч"
         ]
     },
     "439": {
@@ -2628,6 +2801,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сто",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4335.mp4"
+        ],
+        "recognitionText": [
+            "сто"
         ]
     },
     "442": {
@@ -2635,6 +2811,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "тысяча",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4345.mp4"
+        ],
+        "recognitionText": [
+            "тысяча"
         ]
     },
     "443": {
@@ -2644,6 +2823,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/4348.mp4",
             "https://storage.yandexcloud.net/signs-signs/99644.mp4",
             "https://storage.yandexcloud.net/signs-signs/100469.mp4"
+        ],
+        "recognitionText": [
+            "активный"
         ]
     },
     "444": {
@@ -2652,6 +2834,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100550.mp4",
             "https://storage.yandexcloud.net/signs-signs/4362.mp4"
+        ],
+        "recognitionText": [
+            "автобус"
         ]
     },
     "445": {
@@ -2674,6 +2859,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/229260.mp4",
             "https://storage.yandexcloud.net/signs-signs/4393.mp4"
+        ],
+        "recognitionText": [
+            "английский"
         ]
     },
     "448": {
@@ -2689,6 +2877,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319948.mp4",
             "https://storage.yandexcloud.net/signs-signs/4412.mp4"
+        ],
+        "recognitionText": [
+            "разговор"
         ]
     },
     "450": {
@@ -2696,6 +2887,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "белый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4425.mp4"
+        ],
+        "recognitionText": [
+            "белый"
         ]
     },
     "451": {
@@ -2725,6 +2919,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "время",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4463.mp4"
+        ],
+        "recognitionText": [
+            "время"
         ]
     },
     "455": {
@@ -2732,6 +2929,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ждать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4482.mp4"
+        ],
+        "recognitionText": [
+            "ждать"
         ]
     },
     "456": {
@@ -2746,6 +2946,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "красный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4495.mp4"
+        ],
+        "recognitionText": [
+            "красный"
         ]
     },
     "458": {
@@ -2754,6 +2957,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4512.mp4",
             "https://storage.yandexcloud.net/signs-signs/295795.mp4"
+        ],
+        "recognitionText": [
+            "желание"
         ]
     },
     "459": {
@@ -2762,6 +2968,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4523.mp4",
             "https://storage.yandexcloud.net/signs-signs/296411.mp4"
+        ],
+        "recognitionText": [
+            "число"
         ]
     },
     "461": {
@@ -2770,6 +2979,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319119.mp4",
             "https://storage.yandexcloud.net/signs-signs/4542.mp4"
+        ],
+        "recognitionText": [
+            "делать"
         ]
     },
     "463": {
@@ -2784,6 +2996,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "доктор",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4571.mp4"
+        ],
+        "recognitionText": [
+            "доктор"
         ]
     },
     "465": {
@@ -2813,6 +3028,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "футбол",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4614.mp4"
+        ],
+        "recognitionText": [
+            "футбол"
         ]
     },
     "469": {
@@ -2828,6 +3046,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176564.mp4",
             "https://storage.yandexcloud.net/signs-signs/4634.mp4"
+        ],
+        "recognitionText": [
+            "голод"
         ]
     },
     "471": {
@@ -2843,6 +3064,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4648.mp4",
             "https://storage.yandexcloud.net/signs-signs/112078.mp4"
+        ],
+        "recognitionText": [
+            "искать"
         ]
     },
     "473": {
@@ -2850,6 +3074,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "гостиница",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4663.mp4"
+        ],
+        "recognitionText": [
+            "гостиница"
         ]
     },
     "474": {
@@ -2859,6 +3086,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/107031.mp4",
             "https://storage.yandexcloud.net/signs-signs/227977.mp4",
             "https://storage.yandexcloud.net/signs-signs/4676.mp4"
+        ],
+        "recognitionText": [
+            "игра"
         ]
     },
     "475": {
@@ -2881,6 +3111,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4704.mp4",
             "https://storage.yandexcloud.net/signs-signs/228262.mp4"
+        ],
+        "recognitionText": [
+            "как"
         ]
     },
     "478": {
@@ -2888,6 +3121,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кто",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4706.mp4"
+        ],
+        "recognitionText": [
+            "кто"
         ]
     },
     "479": {
@@ -2895,6 +3131,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "когда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4723.mp4"
+        ],
+        "recognitionText": [
+            "когда"
         ]
     },
     "480": {
@@ -2903,6 +3142,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4735.mp4",
             "https://storage.yandexcloud.net/signs-signs/18041.mp4"
+        ],
+        "recognitionText": [
+            "кино"
         ]
     },
     "481": {
@@ -2953,6 +3195,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "культура",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4798.mp4"
+        ],
+        "recognitionText": [
+            "культура"
         ]
     },
     "488": {
@@ -2968,6 +3213,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "нравиться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4818.mp4"
+        ],
+        "recognitionText": [
+            "нравиться"
         ]
     },
     "491": {
@@ -2975,6 +3223,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "месяц",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4843.mp4"
+        ],
+        "recognitionText": [
+            "месяц"
         ]
     },
     "492": {
@@ -2983,6 +3234,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4848.mp4",
             "https://storage.yandexcloud.net/signs-signs/222859.mp4"
+        ],
+        "recognitionText": [
+            "начальник"
         ]
     },
     "493": {
@@ -3028,6 +3282,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "злой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4921.mp4"
+        ],
+        "recognitionText": [
+            "злой"
         ]
     },
     "500": {
@@ -3042,6 +3299,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мнение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4946.mp4"
+        ],
+        "recognitionText": [
+            "мнение"
         ]
     },
     "502": {
@@ -3071,6 +3331,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "магазин",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4979.mp4"
+        ],
+        "recognitionText": [
+            "магазин"
         ]
     },
     "506": {
@@ -3078,6 +3341,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "уезжать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4996.mp4"
+        ],
+        "recognitionText": [
+            "уезжать"
         ]
     },
     "507": {
@@ -3085,6 +3351,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "расслабляться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/4998.mp4"
+        ],
+        "recognitionText": [
+            "расслабляться"
         ]
     },
     "508": {
@@ -3100,6 +3369,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/134813.mp4",
             "https://storage.yandexcloud.net/signs-signs/5027.mp4"
+        ],
+        "recognitionText": [
+            "план"
         ]
     },
     "510": {
@@ -3114,6 +3386,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "погода",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5041.mp4"
+        ],
+        "recognitionText": [
+            "погода"
         ]
     },
     "512": {
@@ -3128,6 +3403,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "посылать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5068.mp4"
+        ],
+        "recognitionText": [
+            "посылать"
         ]
     },
     "514": {
@@ -3135,6 +3413,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "слушать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5072.mp4"
+        ],
+        "recognitionText": [
+            "слушать"
         ]
     },
     "515": {
@@ -3149,6 +3430,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "поздно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5090.mp4"
+        ],
+        "recognitionText": [
+            "поздно"
         ]
     },
     "517": {
@@ -3170,6 +3454,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "правда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5137.mp4"
+        ],
+        "recognitionText": [
+            "правда"
         ]
     },
     "521": {
@@ -3202,6 +3489,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "приходить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5177.mp4"
+        ],
+        "recognitionText": [
+            "приходить"
         ]
     },
     "525": {
@@ -3209,6 +3499,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "приносить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5188.mp4"
+        ],
+        "recognitionText": [
+            "приносить"
         ]
     },
     "526": {
@@ -3216,6 +3509,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "почему",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5194.mp4"
+        ],
+        "recognitionText": [
+            "почему"
         ]
     },
     "527": {
@@ -3224,6 +3520,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5207.mp4",
             "https://storage.yandexcloud.net/signs-signs/137198.mp4"
+        ],
+        "recognitionText": [
+            "программа"
         ]
     },
     "528": {
@@ -3238,6 +3537,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "написать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5223.mp4"
+        ],
+        "recognitionText": [
+            "написать"
         ]
     },
     "530": {
@@ -3246,6 +3548,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5239.mp4",
             "https://storage.yandexcloud.net/signs-signs/223125.mp4"
+        ],
+        "recognitionText": [
+            "одалживать"
         ]
     },
     "531": {
@@ -3253,6 +3558,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "удовольствие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5240.mp4"
+        ],
+        "recognitionText": [
+            "удовольствие"
         ]
     },
     "532": {
@@ -3260,6 +3568,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "утро",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5251.mp4"
+        ],
+        "recognitionText": [
+            "утро"
         ]
     },
     "533": {
@@ -3268,6 +3579,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13078.mp4",
             "https://storage.yandexcloud.net/signs-signs/5266.mp4"
+        ],
+        "recognitionText": [
+            "директор"
         ]
     },
     "534": {
@@ -3282,6 +3596,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ресторан",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5281.mp4"
+        ],
+        "recognitionText": [
+            "ресторан"
         ]
     },
     "536": {
@@ -3289,6 +3606,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "год",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5297.mp4"
+        ],
+        "recognitionText": [
+            "год"
         ]
     },
     "537": {
@@ -3296,6 +3616,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "решать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5309.mp4"
+        ],
+        "recognitionText": [
+            "решать"
         ]
     },
     "539": {
@@ -3310,6 +3633,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "улыбка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5339.mp4"
+        ],
+        "recognitionText": [
+            "улыбка"
         ]
     },
     "541": {
@@ -3317,6 +3643,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пытаться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5342.mp4"
+        ],
+        "recognitionText": [
+            "пытаться"
         ]
     },
     "542": {
@@ -3332,6 +3661,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5369.mp4",
             "https://storage.yandexcloud.net/signs-signs/320453.mp4"
+        ],
+        "recognitionText": [
+            "сон"
         ]
     },
     "544": {
@@ -3339,6 +3671,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "плохо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5372.mp4"
+        ],
+        "recognitionText": [
+            "плохо"
         ]
     },
     "545": {
@@ -3346,6 +3681,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "довольный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5389.mp4"
+        ],
+        "recognitionText": [
+            "довольный"
         ]
     },
     "546": {
@@ -3354,6 +3692,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5401.mp4",
             "https://storage.yandexcloud.net/signs-signs/295206.mp4"
+        ],
+        "recognitionText": [
+            "верный"
         ]
     },
     "547": {
@@ -3378,6 +3719,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "изучать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5432.mp4"
+        ],
+        "recognitionText": [
+            "изучать"
         ]
     },
     "551": {
@@ -3385,6 +3729,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "тоже",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5448.mp4"
+        ],
+        "recognitionText": [
+            "тоже"
         ]
     },
     "552": {
@@ -3392,6 +3739,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "такси",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5459.mp4"
+        ],
+        "recognitionText": [
+            "такси"
         ]
     },
     "553": {
@@ -3406,6 +3756,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "тёмный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5471.mp4"
+        ],
+        "recognitionText": [
+            "тёмный"
         ]
     },
     "555": {
@@ -3436,6 +3789,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5521.mp4",
             "https://storage.yandexcloud.net/signs-signs/15803.mp4"
+        ],
+        "recognitionText": [
+            "учить"
         ]
     },
     "560": {
@@ -3465,6 +3821,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вечер",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5574.mp4"
+        ],
+        "recognitionText": [
+            "вечер"
         ]
     },
     "565": {
@@ -3494,6 +3853,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "поезд",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5617.mp4"
+        ],
+        "recognitionText": [
+            "поезд"
         ]
     },
     "570": {
@@ -3515,6 +3877,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "возвращение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5655.mp4"
+        ],
+        "recognitionText": [
+            "возвращение"
         ]
     },
     "573": {
@@ -3522,6 +3887,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "обмен",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5674.mp4"
+        ],
+        "recognitionText": [
+            "обмен"
         ]
     },
     "574": {
@@ -3550,6 +3918,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "забывать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5711.mp4"
+        ],
+        "recognitionText": [
+            "забывать"
         ]
     },
     "578": {
@@ -3557,6 +3928,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "зелёный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5717.mp4"
+        ],
+        "recognitionText": [
+            "зелёный"
         ]
     },
     "579": {
@@ -3564,6 +3938,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "спрашивать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43641.mp4"
+        ],
+        "recognitionText": [
+            "спрашивать"
         ]
     },
     "580": {
@@ -3571,6 +3948,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "жажда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5743.mp4"
+        ],
+        "recognitionText": [
+            "жажда"
         ]
     },
     "581": {
@@ -3587,6 +3967,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/5757.mp4",
             "https://storage.yandexcloud.net/signs-signs/26841.mp4",
             "https://storage.yandexcloud.net/signs-signs/137193.mp4"
+        ],
+        "recognitionText": [
+            "проверка"
         ]
     },
     "583": {
@@ -3601,6 +3984,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "жёлтый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5776.mp4"
+        ],
+        "recognitionText": [
+            "жёлтый"
         ]
     },
     "585": {
@@ -3631,6 +4017,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112127.mp4",
             "https://storage.yandexcloud.net/signs-signs/5825.mp4"
+        ],
+        "recognitionText": [
+            "оставаться"
         ]
     },
     "589": {
@@ -3647,6 +4036,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/349172.mp4",
             "https://storage.yandexcloud.net/signs-signs/349173.mp4"
+        ],
+        "recognitionText": [
+            "дом"
         ]
     },
     "591": {
@@ -3676,6 +4068,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "воздух",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5884.mp4"
+        ],
+        "recognitionText": [
+            "воздух"
         ]
     },
     "595": {
@@ -3712,6 +4107,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "серебро",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/5936.mp4"
+        ],
+        "recognitionText": [
+            "серебро"
         ]
     },
     "601": {
@@ -3789,6 +4187,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "синий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/345834.mp4"
+        ],
+        "recognitionText": [
+            "синий"
         ]
     },
     "616": {
@@ -3867,6 +4268,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "страна",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6204.mp4"
+        ],
+        "recognitionText": [
+            "страна"
         ]
     },
     "627": {
@@ -3874,6 +4278,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "банк",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6210.mp4"
+        ],
+        "recognitionText": [
+            "банк"
         ]
     },
     "628": {
@@ -3916,6 +4323,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "путешествовать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6287.mp4"
+        ],
+        "recognitionText": [
+            "путешествовать"
         ]
     },
     "635": {
@@ -3923,6 +4333,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Куда?",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6295.mp4"
+        ],
+        "recognitionText": [
+            "куда"
         ]
     },
     "636": {
@@ -3958,7 +4371,7 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Два / 2",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6343.mp4",
-			"https://storage.yandexcloud.net/signs-signs/295783.mp4"
+            "https://storage.yandexcloud.net/signs-signs/295783.mp4"
         ]
     },
     "641": {
@@ -3989,14 +4402,14 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/296662.mp4"
         ]
     },
-	"15335": {
+    "15335": {
         "id": 15335,
         "text": "Двадцать тысяч / 20000",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295968.mp4"
         ]
     },
-	"15339": {
+    "15339": {
         "id": 15339,
         "text": "Тридцать тысяч / 30000",
         "gifSource": [
@@ -4255,13 +4668,12 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/296809.mp4"
         ]
     },
-	
     "644": {
         "id": 644,
         "text": "Шесть / 6",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6388.mp4",
-			"https://storage.yandexcloud.net/signs-signs/136716.mp4"
+            "https://storage.yandexcloud.net/signs-signs/136716.mp4"
         ]
     },
     "645": {
@@ -4283,7 +4695,7 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Девять / 9",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6420.mp4",
-			"https://storage.yandexcloud.net/signs-signs/313115.mp4"
+            "https://storage.yandexcloud.net/signs-signs/313115.mp4"
         ]
     },
     "648": {
@@ -4333,7 +4745,7 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Шестнадцать / 16",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6487.mp4",
-			"https://storage.yandexcloud.net/signs-signs/136715.mp4"
+            "https://storage.yandexcloud.net/signs-signs/136715.mp4"
         ]
     },
     "655": {
@@ -4355,7 +4767,7 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Девятнадцать / 19",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6519.mp4",
-			"https://storage.yandexcloud.net/signs-signs/99783.mp4"
+            "https://storage.yandexcloud.net/signs-signs/99783.mp4"
         ]
     },
     "658": {
@@ -4363,8 +4775,8 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Двадцать / 20",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6538.mp4",
-			"https://storage.yandexcloud.net/signs-signs/313099.mp4", 
-			"https://storage.yandexcloud.net/signs-signs/296804.mp4"
+            "https://storage.yandexcloud.net/signs-signs/313099.mp4",
+            "https://storage.yandexcloud.net/signs-signs/296804.mp4"
         ]
     },
     "659": {
@@ -4442,7 +4854,7 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Сорок / 40",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6651.mp4",
-			"https://storage.yandexcloud.net/signs-signs/317408.mp4"
+            "https://storage.yandexcloud.net/signs-signs/317408.mp4"
         ]
     },
     "670": {
@@ -4457,7 +4869,7 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Шестьдесят / 60",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6680.mp4",
-			"https://storage.yandexcloud.net/signs-signs/136717.mp4"
+            "https://storage.yandexcloud.net/signs-signs/136717.mp4"
         ]
     },
     "672": {
@@ -4535,7 +4947,7 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Восемьдесят / 80",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6801.mp4",
-			"https://storage.yandexcloud.net/signs-signs/315902.mp4"
+            "https://storage.yandexcloud.net/signs-signs/315902.mp4"
         ]
     },
     "683": {
@@ -4543,8 +4955,8 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Девяносто / 90",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6813.mp4",
-			"https://storage.yandexcloud.net/signs-signs/99782.mp4",
-			"https://storage.yandexcloud.net/signs-signs/313113.mp4"
+            "https://storage.yandexcloud.net/signs-signs/99782.mp4",
+            "https://storage.yandexcloud.net/signs-signs/313113.mp4"
         ]
     },
     "684": {
@@ -4573,9 +4985,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Миллион / 1000000",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6846.mp4",
-			"https://storage.yandexcloud.net/signs-signs/313442.mp4",
-			"https://storage.yandexcloud.net/signs-signs/316289.mp4",
-			"https://storage.yandexcloud.net/signs-signs/100542.mp4"
+            "https://storage.yandexcloud.net/signs-signs/313442.mp4",
+            "https://storage.yandexcloud.net/signs-signs/316289.mp4",
+            "https://storage.yandexcloud.net/signs-signs/100542.mp4"
         ]
     },
     "688": {
@@ -4590,6 +5002,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мало",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6875.mp4"
+        ],
+        "recognitionText": [
+            "мало"
         ]
     },
     "690": {
@@ -4598,6 +5013,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351393.mp4",
             "https://storage.yandexcloud.net/signs-signs/351408.mp4"
+        ],
+        "recognitionText": [
+            "много"
         ]
     },
     "691": {
@@ -4642,6 +5060,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "аппетит",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/6957.mp4"
+        ],
+        "recognitionText": [
+            "аппетит"
         ]
     },
     "698": {
@@ -4698,6 +5119,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ароматный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/7035.mp4"
+        ],
+        "recognitionText": [
+            "ароматный"
         ]
     },
     "707": {
@@ -4757,6 +5181,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сумка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/7127.mp4"
+        ],
+        "recognitionText": [
+            "сумка"
         ]
     },
     "715": {
@@ -4934,6 +5361,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "горький",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/7394.mp4"
+        ],
+        "recognitionText": [
+            "горький"
         ]
     },
     "742": {
@@ -5048,6 +5478,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "хлеб",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/7596.mp4"
+        ],
+        "recognitionText": [
+            "хлеб"
         ]
     },
     "761": {
@@ -5083,6 +5516,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "коричневый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/7655.mp4"
+        ],
+        "recognitionText": [
+            "коричневый"
         ]
     },
     "766": {
@@ -5139,6 +5575,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кафетерий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/7733.mp4"
+        ],
+        "recognitionText": [
+            "кафетерий"
         ]
     },
     "774": {
@@ -5251,6 +5690,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дешёвый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/7934.mp4"
+        ],
+        "recognitionText": [
+            "дешёвый"
         ]
     },
     "793": {
@@ -5287,6 +5729,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "жевать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/7982.mp4"
+        ],
+        "recognitionText": [
+            "жевать"
         ]
     },
     "798": {
@@ -5365,6 +5810,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/8103.mp4",
             "https://storage.yandexcloud.net/signs-signs/227635.mp4"
+        ],
+        "recognitionText": [
+            "чистый"
         ]
     },
     "811": {
@@ -5372,6 +5820,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "часы",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/8131.mp4"
+        ],
+        "recognitionText": [
+            "часы"
         ]
     },
     "812": {
@@ -5380,6 +5831,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318737.mp4",
             "https://storage.yandexcloud.net/signs-signs/8135.mp4"
+        ],
+        "recognitionText": [
+            "закрывать"
         ]
     },
     "813": {
@@ -5423,6 +5877,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кофе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/8207.mp4"
+        ],
+        "recognitionText": [
+            "кофе"
         ]
     },
     "819": {
@@ -5585,6 +6042,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "чашка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/8454.mp4"
+        ],
+        "recognitionText": [
+            "чашка"
         ]
     },
     "844": {
@@ -5706,6 +6166,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/139196.mp4",
             "https://storage.yandexcloud.net/signs-signs/8659.mp4"
+        ],
+        "recognitionText": [
+            "диета"
         ]
     },
     "864": {
@@ -5850,6 +6313,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лось",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/8928.mp4"
+        ],
+        "recognitionText": [
+            "лось"
         ]
     },
     "890": {
@@ -5858,6 +6324,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/8934.mp4",
             "https://storage.yandexcloud.net/signs-signs/295824.mp4"
+        ],
+        "recognitionText": [
+            "пустой"
         ]
     },
     "892": {
@@ -5888,6 +6357,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/177738.mp4",
             "https://storage.yandexcloud.net/signs-signs/177736.mp4",
             "https://storage.yandexcloud.net/signs-signs/8987.mp4"
+        ],
+        "recognitionText": [
+            "дорогой"
         ]
     },
     "896": {
@@ -5923,6 +6395,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рыба",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/9033.mp4"
+        ],
+        "recognitionText": [
+            "рыба"
         ]
     },
     "901": {
@@ -5965,6 +6440,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "еда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/9110.mp4"
+        ],
+        "recognitionText": [
+            "еда"
         ]
     },
     "908": {
@@ -5972,6 +6450,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "аллергия на еду",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/9113.mp4"
+        ],
+        "recognitionText": [
+            "аллергия на еду"
         ]
     },
     "909": {
@@ -5979,6 +6460,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вилка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/9123.mp4"
+        ],
+        "recognitionText": [
+            "вилка"
         ]
     },
     "911": {
@@ -6177,6 +6661,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "гость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/9432.mp4"
+        ],
+        "recognitionText": [
+            "гость"
         ]
     },
     "941": {
@@ -6311,6 +6798,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кувшин",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/9678.mp4"
+        ],
+        "recognitionText": [
+            "кувшин"
         ]
     },
     "966": {
@@ -6353,6 +6843,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "помощник повара",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/9729.mp4"
+        ],
+        "recognitionText": [
+            "помощник повара"
         ]
     },
     "972": {
@@ -6388,6 +6881,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "накрывать на стол",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/9781.mp4"
+        ],
+        "recognitionText": [
+            "накрывать на стол"
         ]
     },
     "977": {
@@ -6445,6 +6941,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "список",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/9873.mp4"
+        ],
+        "recognitionText": [
+            "список"
         ]
     },
     "987": {
@@ -6591,6 +7090,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/99951.mp4",
             "https://storage.yandexcloud.net/signs-signs/106006.mp4",
             "https://storage.yandexcloud.net/signs-signs/10079.mp4"
+        ],
+        "recognitionText": [
+            "средний"
         ]
     },
     "1008": {
@@ -6818,6 +7320,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пакет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/10432.mp4"
+        ],
+        "recognitionText": [
+            "пакет"
         ]
     },
     "1043": {
@@ -7031,6 +7536,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/10755.mp4",
             "https://storage.yandexcloud.net/signs-signs/317483.mp4"
+        ],
+        "recognitionText": [
+            "тарелка"
         ]
     },
     "1076": {
@@ -7130,6 +7638,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/10892.mp4"
+        ],
+        "recognitionText": [
+            "лить"
         ]
     },
     "1090": {
@@ -7138,6 +7649,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/11538.mp4",
             "https://storage.yandexcloud.net/signs-signs/10897.mp4"
+        ],
+        "recognitionText": [
+            "креветка"
         ]
     },
     "1091": {
@@ -7145,6 +7659,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "готовить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/10909.mp4"
+        ],
+        "recognitionText": [
+            "готовить"
         ]
     },
     "1092": {
@@ -7166,6 +7683,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "цена",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/10934.mp4"
+        ],
+        "recognitionText": [
+            "цена"
         ]
     },
     "1095": {
@@ -7210,6 +7730,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/11011.mp4",
             "https://storage.yandexcloud.net/signs-signs/351394.mp4"
+        ],
+        "recognitionText": [
+            "количество"
         ]
     },
     "1102": {
@@ -7218,6 +7741,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181834.mp4",
             "https://storage.yandexcloud.net/signs-signs/11014.mp4"
+        ],
+        "recognitionText": [
+            "кролик"
         ]
     },
     "1103": {
@@ -7253,6 +7779,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "редкий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/11061.mp4"
+        ],
+        "recognitionText": [
+            "редкий"
         ]
     },
     "1108": {
@@ -7338,6 +7867,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "жарить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/11229.mp4"
+        ],
+        "recognitionText": [
+            "жарить"
         ]
     },
     "1125": {
@@ -7394,6 +7926,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "соль",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/11335.mp4"
+        ],
+        "recognitionText": [
+            "соль"
         ]
     },
     "1136": {
@@ -7558,6 +8093,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кусок; тонкими слоями",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/11587.mp4"
+        ],
+        "recognitionText": [
+            "кусок; тонкими слоями"
         ]
     },
     "1163": {
@@ -7699,6 +8237,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/32805.mp4",
             "https://storage.yandexcloud.net/signs-signs/11799.mp4"
+        ],
+        "recognitionText": [
+            "острый"
         ]
     },
     "1184": {
@@ -7734,6 +8275,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "закуска перед едой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/11874.mp4"
+        ],
+        "recognitionText": [
+            "закуска перед едой"
         ]
     },
     "1192": {
@@ -7862,6 +8406,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "стол",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12047.mp4"
+        ],
+        "recognitionText": [
+            "стол"
         ]
     },
     "1211": {
@@ -7884,6 +8431,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295773.mp4",
             "https://storage.yandexcloud.net/signs-signs/12077.mp4"
+        ],
+        "recognitionText": [
+            "вкус"
         ]
     },
     "1215": {
@@ -7898,6 +8448,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "заварочный чайник",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12101.mp4"
+        ],
+        "recognitionText": [
+            "заварочный чайник"
         ]
     },
     "1217": {
@@ -7912,6 +8465,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "нежный мягкий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12118.mp4"
+        ],
+        "recognitionText": [
+            "нежный мягкий"
         ]
     },
     "1219": {
@@ -7977,6 +8533,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223066.mp4",
             "https://storage.yandexcloud.net/signs-signs/12225.mp4"
+        ],
+        "recognitionText": [
+            "обедать"
         ]
     },
     "1233": {
@@ -8085,6 +8644,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "откупоривать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12390.mp4"
+        ],
+        "recognitionText": [
+            "откупоривать"
         ]
     },
     "1251": {
@@ -8148,6 +8710,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "официант",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12472.mp4"
+        ],
+        "recognitionText": [
+            "официант"
         ]
     },
     "1260": {
@@ -8183,6 +8748,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вода",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12530.mp4"
+        ],
+        "recognitionText": [
+            "вода"
         ]
     },
     "1266": {
@@ -8284,6 +8852,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12661.mp4",
             "https://storage.yandexcloud.net/signs-signs/100103.mp4"
+        ],
+        "recognitionText": [
+            "глупый"
         ]
     },
     "1282": {
@@ -8293,6 +8864,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/12679.mp4",
             "https://storage.yandexcloud.net/signs-signs/15301.mp4",
             "https://storage.yandexcloud.net/signs-signs/14490.mp4"
+        ],
+        "recognitionText": [
+            "красивый"
         ]
     },
     "1283": {
@@ -8300,6 +8874,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "отец",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12690.mp4"
+        ],
+        "recognitionText": [
+            "отец"
         ]
     },
     "1284": {
@@ -8308,6 +8885,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12693.mp4",
             "https://storage.yandexcloud.net/signs-signs/100520.mp4"
+        ],
+        "recognitionText": [
+            "мама"
         ]
     },
     "1285": {
@@ -8329,6 +8909,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "возраст",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12724.mp4"
+        ],
+        "recognitionText": [
+            "возраст"
         ]
     },
     "1289": {
@@ -8364,6 +8947,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "я",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12788.mp4"
+        ],
+        "recognitionText": [
+            "я"
         ]
     },
     "1294": {
@@ -8371,6 +8957,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ты",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12804.mp4"
+        ],
+        "recognitionText": [
+            "ты"
         ]
     },
     "1296": {
@@ -8413,6 +9002,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "фамилия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12874.mp4"
+        ],
+        "recognitionText": [
+            "фамилия"
         ]
     },
     "1302": {
@@ -8427,6 +9019,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "женщина",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12886.mp4"
+        ],
+        "recognitionText": [
+            "женщина"
         ]
     },
     "1304": {
@@ -8434,6 +9029,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мужчина",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12903.mp4"
+        ],
+        "recognitionText": [
+            "мужчина"
         ]
     },
     "1305": {
@@ -8441,6 +9039,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "школа",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12914.mp4"
+        ],
+        "recognitionText": [
+            "школа"
         ]
     },
     "1306": {
@@ -8448,6 +9049,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ручка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12916.mp4"
+        ],
+        "recognitionText": [
+            "ручка"
         ]
     },
     "1307": {
@@ -8470,6 +9074,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "бумага",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/12946.mp4"
+        ],
+        "recognitionText": [
+            "бумага"
         ]
     },
     "1310": {
@@ -8515,6 +9122,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ученик",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13014.mp4"
+        ],
+        "recognitionText": [
+            "ученик"
         ]
     },
     "1316": {
@@ -8537,6 +9147,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "история",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13044.mp4"
+        ],
+        "recognitionText": [
+            "история"
         ]
     },
     "1319": {
@@ -8544,6 +9157,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "религия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13047.mp4"
+        ],
+        "recognitionText": [
+            "религия"
         ]
     },
     "1320": {
@@ -8636,6 +9252,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "август",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13186.mp4"
+        ],
+        "recognitionText": [
+            "август"
         ]
     },
     "1334": {
@@ -8643,6 +9262,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сентябрь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13197.mp4"
+        ],
+        "recognitionText": [
+            "сентябрь"
         ]
     },
     "1335": {
@@ -8650,6 +9272,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "октябрь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13215.mp4"
+        ],
+        "recognitionText": [
+            "октябрь"
         ]
     },
     "1336": {
@@ -8657,6 +9282,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ноябрь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13216.mp4"
+        ],
+        "recognitionText": [
+            "ноябрь"
         ]
     },
     "1337": {
@@ -8664,6 +9292,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "декабрь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13227.mp4"
+        ],
+        "recognitionText": [
+            "декабрь"
         ]
     },
     "1338": {
@@ -8671,6 +9302,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "весна",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13246.mp4"
+        ],
+        "recognitionText": [
+            "весна"
         ]
     },
     "1339": {
@@ -8678,6 +9312,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лето",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13247.mp4"
+        ],
+        "recognitionText": [
+            "лето"
         ]
     },
     "1340": {
@@ -8685,6 +9322,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "осень",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13260.mp4"
+        ],
+        "recognitionText": [
+            "осень"
         ]
     },
     "1341": {
@@ -8692,6 +9332,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "зима",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13275.mp4"
+        ],
+        "recognitionText": [
+            "зима"
         ]
     },
     "1342": {
@@ -8699,6 +9342,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "верблюд",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13277.mp4"
+        ],
+        "recognitionText": [
+            "верблюд"
         ]
     },
     "1343": {
@@ -8706,6 +9352,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "коза",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13295.mp4"
+        ],
+        "recognitionText": [
+            "коза"
         ]
     },
     "1344": {
@@ -8720,6 +9369,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "корова",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13308.mp4"
+        ],
+        "recognitionText": [
+            "корова"
         ]
     },
     "1346": {
@@ -8727,6 +9379,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "птица",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13327.mp4"
+        ],
+        "recognitionText": [
+            "птица"
         ]
     },
     "1347": {
@@ -8734,6 +9389,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "попугай",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13337.mp4"
+        ],
+        "recognitionText": [
+            "попугай"
         ]
     },
     "1348": {
@@ -8748,6 +9406,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "слон",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13356.mp4"
+        ],
+        "recognitionText": [
+            "слон"
         ]
     },
     "1350": {
@@ -8755,6 +9416,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "обезьяна",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13367.mp4"
+        ],
+        "recognitionText": [
+            "обезьяна"
         ]
     },
     "1351": {
@@ -8762,6 +9426,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "тигр",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13371.mp4"
+        ],
+        "recognitionText": [
+            "тигр"
         ]
     },
     "1352": {
@@ -8776,6 +9443,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "курица",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13389.mp4"
+        ],
+        "recognitionText": [
+            "курица"
         ]
     },
     "1354": {
@@ -8797,6 +9467,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "бабочка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13429.mp4"
+        ],
+        "recognitionText": [
+            "бабочка"
         ]
     },
     "1357": {
@@ -8804,6 +9477,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "собака",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13431.mp4"
+        ],
+        "recognitionText": [
+            "собака"
         ]
     },
     "1358": {
@@ -8811,6 +9487,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кошка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13448.mp4"
+        ],
+        "recognitionText": [
+            "кошка"
         ]
     },
     "1359": {
@@ -8818,6 +9497,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дельфин",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13459.mp4"
+        ],
+        "recognitionText": [
+            "дельфин"
         ]
     },
     "1360": {
@@ -8833,6 +9515,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "жираф",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13473.mp4"
+        ],
+        "recognitionText": [
+            "жираф"
         ]
     },
     "1362": {
@@ -8840,6 +9525,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "крыса",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13490.mp4"
+        ],
+        "recognitionText": [
+            "крыса"
         ]
     },
     "1363": {
@@ -8848,6 +9536,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/44578.mp4",
             "https://storage.yandexcloud.net/signs-signs/13491.mp4"
+        ],
+        "recognitionText": [
+            "мышь"
         ]
     },
     "1364": {
@@ -8863,6 +9554,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13519.mp4",
             "https://storage.yandexcloud.net/signs-signs/320091.mp4"
+        ],
+        "recognitionText": [
+            "свинья"
         ]
     },
     "1366": {
@@ -8871,6 +9565,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13521.mp4",
             "https://storage.yandexcloud.net/signs-signs/227565.mp4"
+        ],
+        "recognitionText": [
+            "змея"
         ]
     },
     "1367": {
@@ -8885,6 +9582,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пчела",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13550.mp4"
+        ],
+        "recognitionText": [
+            "пчела"
         ]
     },
     "1369": {
@@ -8906,6 +9606,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "носорог",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13580.mp4"
+        ],
+        "recognitionText": [
+            "носорог"
         ]
     },
     "1372": {
@@ -8913,6 +9616,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "акула",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13589.mp4"
+        ],
+        "recognitionText": [
+            "акула"
         ]
     },
     "1373": {
@@ -8920,6 +9626,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лягушка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13598.mp4"
+        ],
+        "recognitionText": [
+            "лягушка"
         ]
     },
     "1374": {
@@ -8934,6 +9643,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "бык",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13612.mp4"
+        ],
+        "recognitionText": [
+            "бык"
         ]
     },
     "1376": {
@@ -8948,6 +9660,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "орёл",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13640.mp4"
+        ],
+        "recognitionText": [
+            "орёл"
         ]
     },
     "1378": {
@@ -9012,6 +9727,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318806.mp4",
             "https://storage.yandexcloud.net/signs-signs/13728.mp4"
+        ],
+        "recognitionText": [
+            "коридор"
         ]
     },
     "1387": {
@@ -9040,6 +9758,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пылесос",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13768.mp4"
+        ],
+        "recognitionText": [
+            "пылесос"
         ]
     },
     "1391": {
@@ -9048,6 +9769,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/137092.mp4",
             "https://storage.yandexcloud.net/signs-signs/13778.mp4"
+        ],
+        "recognitionText": [
+            "компьютер"
         ]
     },
     "1392": {
@@ -9071,6 +9795,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/105155.mp4",
             "https://storage.yandexcloud.net/signs-signs/295083.mp4",
             "https://storage.yandexcloud.net/signs-signs/13820.mp4"
+        ],
+        "recognitionText": [
+            "фотография"
         ]
     },
     "1396": {
@@ -9085,6 +9812,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "факс",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13840.mp4"
+        ],
+        "recognitionText": [
+            "факс"
         ]
     },
     "1398": {
@@ -9093,6 +9823,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320552.mp4",
             "https://storage.yandexcloud.net/signs-signs/13844.mp4"
+        ],
+        "recognitionText": [
+            "телефон"
         ]
     },
     "1399": {
@@ -9100,6 +9833,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "газета",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13861.mp4"
+        ],
+        "recognitionText": [
+            "газета"
         ]
     },
     "1400": {
@@ -9108,6 +9844,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13863.mp4",
             "https://storage.yandexcloud.net/signs-signs/295470.mp4"
+        ],
+        "recognitionText": [
+            "журнал"
         ]
     },
     "1401": {
@@ -9174,6 +9913,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/13971.mp4",
             "https://storage.yandexcloud.net/signs-signs/99899.mp4"
+        ],
+        "recognitionText": [
+            "записывать"
         ]
     },
     "1411": {
@@ -9210,6 +9952,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "наслаждаться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14035.mp4"
+        ],
+        "recognitionText": [
+            "наслаждаться"
         ]
     },
     "1418": {
@@ -9224,6 +9969,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рассердиться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14064.mp4"
+        ],
+        "recognitionText": [
+            "рассердиться"
         ]
     },
     "1421": {
@@ -9296,6 +10044,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "театр",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14195.mp4"
+        ],
+        "recognitionText": [
+            "театр"
         ]
     },
     "1433": {
@@ -9303,6 +10054,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сын",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14198.mp4"
+        ],
+        "recognitionText": [
+            "сын"
         ]
     },
     "1434": {
@@ -9310,6 +10064,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дочь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14208.mp4"
+        ],
+        "recognitionText": [
+            "дочь"
         ]
     },
     "1435": {
@@ -9317,6 +10074,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "брат",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/345840.mp4"
+        ],
+        "recognitionText": [
+            "брат"
         ]
     },
     "1436": {
@@ -9324,6 +10084,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сестра",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/345887.mp4"
+        ],
+        "recognitionText": [
+            "сестра"
         ]
     },
     "1437": {
@@ -9465,6 +10228,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "молодой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14436.mp4"
+        ],
+        "recognitionText": [
+            "молодой"
         ]
     },
     "1457": {
@@ -9472,6 +10238,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "короткий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14439.mp4"
+        ],
+        "recognitionText": [
+            "короткий"
         ]
     },
     "1458": {
@@ -9529,6 +10298,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ленивый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14531.mp4"
+        ],
+        "recognitionText": [
+            "ленивый"
         ]
     },
     "1467": {
@@ -9544,6 +10316,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "старый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14550.mp4"
+        ],
+        "recognitionText": [
+            "старый"
         ]
     },
     "1469": {
@@ -9552,6 +10327,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14559.mp4",
             "https://storage.yandexcloud.net/signs-signs/319814.mp4"
+        ],
+        "recognitionText": [
+            "поведение"
         ]
     },
     "1470": {
@@ -9559,6 +10337,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "скучный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14578.mp4"
+        ],
+        "recognitionText": [
+            "скучный"
         ]
     },
     "1471": {
@@ -9566,6 +10347,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вредный озорной",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14580.mp4"
+        ],
+        "recognitionText": [
+            "вредный; озорной"
         ]
     },
     "1472": {
@@ -9575,6 +10359,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/296216.mp4",
             "https://storage.yandexcloud.net/signs-signs/14597.mp4",
             "https://storage.yandexcloud.net/signs-signs/296217.mp4"
+        ],
+        "recognitionText": [
+            "застенчивый"
         ]
     },
     "1473": {
@@ -9589,6 +10376,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "плохой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14620.mp4"
+        ],
+        "recognitionText": [
+            "плохой"
         ]
     },
     "1476": {
@@ -9604,6 +10394,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18067.mp4",
             "https://storage.yandexcloud.net/signs-signs/14640.mp4"
+        ],
+        "recognitionText": [
+            "милый"
         ]
     },
     "1478": {
@@ -9611,6 +10404,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "неприятный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14657.mp4"
+        ],
+        "recognitionText": [
+            "неприятный"
         ]
     },
     "1479": {
@@ -9618,6 +10414,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "счастливый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14660.mp4"
+        ],
+        "recognitionText": [
+            "счастливый"
         ]
     },
     "1480": {
@@ -9625,6 +10424,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "грустный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14670.mp4"
+        ],
+        "recognitionText": [
+            "грустный"
         ]
     },
     "1481": {
@@ -9632,6 +10434,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "розовый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14688.mp4"
+        ],
+        "recognitionText": [
+            "розовый"
         ]
     },
     "1482": {
@@ -9640,6 +10445,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351388.mp4",
             "https://storage.yandexcloud.net/signs-signs/14691.mp4"
+        ],
+        "recognitionText": [
+            "фиолетовый"
         ]
     },
     "1483": {
@@ -9647,6 +10455,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "серый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351383.mp4"
+        ],
+        "recognitionText": [
+            "серый"
         ]
     },
     "1484": {
@@ -9655,6 +10466,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/32955.mp4",
             "https://storage.yandexcloud.net/signs-signs/14720.mp4"
+        ],
+        "recognitionText": [
+            "одежда"
         ]
     },
     "1485": {
@@ -9842,6 +10656,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "правый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/14993.mp4"
+        ],
+        "recognitionText": [
+            "правый"
         ]
     },
     "1512": {
@@ -9849,6 +10666,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "левый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15002.mp4"
+        ],
+        "recognitionText": [
+            "левый"
         ]
     },
     "1513": {
@@ -9864,6 +10684,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "билет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15021.mp4"
+        ],
+        "recognitionText": [
+            "билет"
         ]
     },
     "1517": {
@@ -9900,6 +10723,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "иногда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15101.mp4"
+        ],
+        "recognitionText": [
+            "иногда"
         ]
     },
     "1523": {
@@ -9921,6 +10747,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "юг",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15124.mp4"
+        ],
+        "recognitionText": [
+            "юг"
         ]
     },
     "1526": {
@@ -9937,6 +10766,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "животное",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15154.mp4"
+        ],
+        "recognitionText": [
+            "животное"
         ]
     },
     "1528": {
@@ -9987,6 +10819,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "отважиться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15236.mp4"
+        ],
+        "recognitionText": [
+            "отважиться"
         ]
     },
     "1537": {
@@ -10023,6 +10858,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рот",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15321.mp4"
+        ],
+        "recognitionText": [
+            "рот"
         ]
     },
     "1545": {
@@ -10088,6 +10926,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/140253.mp4",
             "https://storage.yandexcloud.net/signs-signs/15425.mp4"
+        ],
+        "recognitionText": [
+            "трус"
         ]
     },
     "1555": {
@@ -10117,6 +10958,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296602.mp4",
             "https://storage.yandexcloud.net/signs-signs/15467.mp4"
+        ],
+        "recognitionText": [
+            "распределять"
         ]
     },
     "1559": {
@@ -10161,6 +11005,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/107648.mp4",
             "https://storage.yandexcloud.net/signs-signs/319474.mp4",
             "https://storage.yandexcloud.net/signs-signs/15555.mp4"
+        ],
+        "recognitionText": [
+            "почта"
         ]
     },
     "1567": {
@@ -10168,6 +11015,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "бежать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15558.mp4"
+        ],
+        "recognitionText": [
+            "бежать"
         ]
     },
     "1568": {
@@ -10175,6 +11025,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "расти",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15574.mp4"
+        ],
+        "recognitionText": [
+            "расти"
         ]
     },
     "1569": {
@@ -10182,6 +11035,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "верить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15586.mp4"
+        ],
+        "recognitionText": [
+            "верить"
         ]
     },
     "1571": {
@@ -10241,6 +11097,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/30025.mp4",
             "https://storage.yandexcloud.net/signs-signs/15679.mp4"
+        ],
+        "recognitionText": [
+            "сзади"
         ]
     },
     "1579": {
@@ -10255,6 +11114,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лёгкий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15698.mp4"
+        ],
+        "recognitionText": [
+            "лёгкий"
         ]
     },
     "1581": {
@@ -10276,6 +11138,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "смешной",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15731.mp4"
+        ],
+        "recognitionText": [
+            "смешной"
         ]
     },
     "1585": {
@@ -10290,6 +11155,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сомнение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15759.mp4"
+        ],
+        "recognitionText": [
+            "сомнение"
         ]
     },
     "1587": {
@@ -10304,6 +11172,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "находить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15771.mp4"
+        ],
+        "recognitionText": [
+            "находить"
         ]
     },
     "1589": {
@@ -10325,6 +11196,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "затем; потом",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15818.mp4"
+        ],
+        "recognitionText": [
+            "затем; потом"
         ]
     },
     "1594": {
@@ -10339,6 +11213,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "муж",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15850.mp4"
+        ],
+        "recognitionText": [
+            "муж"
         ]
     },
     "1596": {
@@ -10346,6 +11223,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "жена",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15853.mp4"
+        ],
+        "recognitionText": [
+            "жена"
         ]
     },
     "1597": {
@@ -10354,6 +11234,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15862.mp4",
             "https://storage.yandexcloud.net/signs-signs/296687.mp4"
+        ],
+        "recognitionText": [
+            "угол"
         ]
     },
     "1598": {
@@ -10361,6 +11244,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "останавливаться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15880.mp4"
+        ],
+        "recognitionText": [
+            "останавливаться"
         ]
     },
     "1599": {
@@ -10411,6 +11297,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/15943.mp4",
             "https://storage.yandexcloud.net/signs-signs/228365.mp4"
+        ],
+        "recognitionText": [
+            "конец"
         ]
     },
     "1607": {
@@ -10454,6 +11343,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "война",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16022.mp4"
+        ],
+        "recognitionText": [
+            "война"
         ]
     },
     "1617": {
@@ -10468,6 +11360,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "час",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16072.mp4"
+        ],
+        "recognitionText": [
+            "час"
         ]
     },
     "1619": {
@@ -10484,6 +11379,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/319494.mp4",
             "https://storage.yandexcloud.net/signs-signs/16093.mp4",
             "https://storage.yandexcloud.net/signs-signs/43225.mp4"
+        ],
+        "recognitionText": [
+            "представлять"
         ]
     },
     "1621": {
@@ -10491,6 +11389,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "информация",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16111.mp4"
+        ],
+        "recognitionText": [
+            "информация"
         ]
     },
     "1622": {
@@ -10505,6 +11406,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "невиновный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16124.mp4"
+        ],
+        "recognitionText": [
+            "невиновный"
         ]
     },
     "1624": {
@@ -10555,6 +11459,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рабочий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16202.mp4"
+        ],
+        "recognitionText": [
+            "рабочий"
         ]
     },
     "1631": {
@@ -10598,6 +11505,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вставать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16265.mp4"
+        ],
+        "recognitionText": [
+            "вставать"
         ]
     },
     "1639": {
@@ -10636,6 +11546,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "море",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16336.mp4"
+        ],
+        "recognitionText": [
+            "море"
         ]
     },
     "1645": {
@@ -10650,6 +11563,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "метро",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16363.mp4"
+        ],
+        "recognitionText": [
+            "метро"
         ]
     },
     "1648": {
@@ -10657,6 +11573,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "минута",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16384.mp4"
+        ],
+        "recognitionText": [
+            "минута"
         ]
     },
     "1649": {
@@ -10664,6 +11583,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "второй",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16388.mp4"
+        ],
+        "recognitionText": [
+            "второй"
         ]
     },
     "1650": {
@@ -10678,6 +11600,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "гора",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16407.mp4"
+        ],
+        "recognitionText": [
+            "гора"
         ]
     },
     "1652": {
@@ -10700,6 +11625,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16437.mp4",
             "https://storage.yandexcloud.net/signs-signs/225053.mp4"
+        ],
+        "recognitionText": [
+            "причина"
         ]
     },
     "1655": {
@@ -10714,6 +11642,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "музей",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16466.mp4"
+        ],
+        "recognitionText": [
+            "музей"
         ]
     },
     "1657": {
@@ -10721,6 +11652,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "родиться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16467.mp4"
+        ],
+        "recognitionText": [
+            "родиться"
         ]
     },
     "1658": {
@@ -10735,6 +11669,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "природа",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16489.mp4"
+        ],
+        "recognitionText": [
+            "природа"
         ]
     },
     "1660": {
@@ -10749,6 +11686,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ребёнок",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16508.mp4"
+        ],
+        "recognitionText": [
+            "ребёнок"
         ]
     },
     "1662": {
@@ -10771,6 +11711,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ночь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16552.mp4"
+        ],
+        "recognitionText": [
+            "ночь"
         ]
     },
     "1666": {
@@ -10785,6 +11728,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "никогда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16580.mp4"
+        ],
+        "recognitionText": [
+            "никогда"
         ]
     },
     "1668": {
@@ -10794,6 +11740,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/16583.mp4",
             "https://storage.yandexcloud.net/signs-signs/112176.mp4",
             "https://storage.yandexcloud.net/signs-signs/106091.mp4"
+        ],
+        "recognitionText": [
+            "цель"
         ]
     },
     "1669": {
@@ -10808,6 +11757,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "глаз",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16608.mp4"
+        ],
+        "recognitionText": [
+            "глаз"
         ]
     },
     "1671": {
@@ -10815,6 +11767,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ухо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16611.mp4"
+        ],
+        "recognitionText": [
+            "ухо"
         ]
     },
     "1672": {
@@ -10880,6 +11835,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "советовать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16732.mp4"
+        ],
+        "recognitionText": [
+            "советовать"
         ]
     },
     "1684": {
@@ -10901,6 +11859,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "но",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16770.mp4"
+        ],
+        "recognitionText": [
+            "но"
         ]
     },
     "1688": {
@@ -10909,6 +11870,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16789.mp4",
             "https://storage.yandexcloud.net/signs-signs/296176.mp4"
+        ],
+        "recognitionText": [
+            "человек"
         ]
     },
     "1689": {
@@ -10987,6 +11951,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "предпочитать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16892.mp4"
+        ],
+        "recognitionText": [
+            "предпочитать"
         ]
     },
     "1700": {
@@ -11023,6 +11990,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "глядеть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16971.mp4"
+        ],
+        "recognitionText": [
+            "глядеть"
         ]
     },
     "1708": {
@@ -11030,6 +12000,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "река",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/16981.mp4"
+        ],
+        "recognitionText": [
+            "река"
         ]
     },
     "1709": {
@@ -11037,6 +12010,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Россия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/443665.mp4"
+        ],
+        "recognitionText": [
+            "россия"
         ]
     },
     "1710": {
@@ -11052,6 +12028,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сидеть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17011.mp4"
+        ],
+        "recognitionText": [
+            "сидеть"
         ]
     },
     "1713": {
@@ -11059,6 +12038,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "с",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17038.mp4"
+        ],
+        "recognitionText": [
+            "с"
         ]
     },
     "1714": {
@@ -11066,6 +12048,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "без",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17039.mp4"
+        ],
+        "recognitionText": [
+            "без"
         ]
     },
     "1715": {
@@ -11073,6 +12058,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "солнце",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17058.mp4"
+        ],
+        "recognitionText": [
+            "солнце"
         ]
     },
     "1716": {
@@ -11089,6 +12077,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/43723.mp4",
             "https://storage.yandexcloud.net/signs-signs/319198.mp4",
             "https://storage.yandexcloud.net/signs-signs/17072.mp4"
+        ],
+        "recognitionText": [
+            "одинокий"
         ]
     },
     "1718": {
@@ -11133,6 +12124,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рано",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17132.mp4"
+        ],
+        "recognitionText": [
+            "рано"
         ]
     },
     "1724": {
@@ -11140,6 +12134,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "земля",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17151.mp4"
+        ],
+        "recognitionText": [
+            "земля"
         ]
     },
     "1725": {
@@ -11182,6 +12179,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ветер",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17211.mp4"
+        ],
+        "recognitionText": [
+            "ветер"
         ]
     },
     "1731": {
@@ -11191,6 +12191,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/296323.mp4",
             "https://storage.yandexcloud.net/signs-signs/17213.mp4",
             "https://storage.yandexcloud.net/signs-signs/223612.mp4"
+        ],
+        "recognitionText": [
+            "понимать"
         ]
     },
     "1732": {
@@ -11226,6 +12229,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "давать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17275.mp4"
+        ],
+        "recognitionText": [
+            "давать"
         ]
     },
     "1738": {
@@ -11240,6 +12246,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "где",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17306.mp4"
+        ],
+        "recognitionText": [
+            "где"
         ]
     },
     "1740": {
@@ -11247,6 +12256,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "в этом году",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17307.mp4"
+        ],
+        "recognitionText": [
+            "в этом году"
         ]
     },
     "1741": {
@@ -11282,6 +12294,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вторник",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17366.mp4"
+        ],
+        "recognitionText": [
+            "вторник"
         ]
     },
     "1746": {
@@ -11296,6 +12311,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "в прошлом году",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296380.mp4"
+        ],
+        "recognitionText": [
+            "в прошлом году"
         ]
     },
     "1748": {
@@ -11314,6 +12332,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/222866.mp4",
             "https://storage.yandexcloud.net/signs-signs/228674.mp4",
             "https://storage.yandexcloud.net/signs-signs/17399.mp4"
+        ],
+        "recognitionText": [
+            "начинать"
         ]
     },
     "1751": {
@@ -11321,6 +12342,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "по часам",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17426.mp4"
+        ],
+        "recognitionText": [
+            "по часам"
         ]
     },
     "1752": {
@@ -11356,6 +12380,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "женский туалет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17489.mp4"
+        ],
+        "recognitionText": [
+            "женский туалет"
         ]
     },
     "1758": {
@@ -11370,6 +12397,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мужской туалет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17501.mp4"
+        ],
+        "recognitionText": [
+            "мужской туалет"
         ]
     },
     "1760": {
@@ -11413,6 +12443,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "объятие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17561.mp4"
+        ],
+        "recognitionText": [
+            "объятие"
         ]
     },
     "1766": {
@@ -11427,6 +12460,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "смеяться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17579.mp4"
+        ],
+        "recognitionText": [
+            "смеяться"
         ]
     },
     "1768": {
@@ -11435,6 +12471,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17588.mp4",
             "https://storage.yandexcloud.net/signs-signs/296240.mp4"
+        ],
+        "recognitionText": [
+            "угрюмый"
         ]
     },
     "1769": {
@@ -11449,6 +12488,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "неловкий неуклюжий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17611.mp4"
+        ],
+        "recognitionText": [
+            "неловкий; неуклюжий"
         ]
     },
     "1771": {
@@ -11464,6 +12506,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17630.mp4",
             "https://storage.yandexcloud.net/signs-signs/26631.mp4"
+        ],
+        "recognitionText": [
+            "международный"
         ]
     },
     "1773": {
@@ -11500,6 +12545,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17689.mp4",
             "https://storage.yandexcloud.net/signs-signs/28175.mp4"
+        ],
+        "recognitionText": [
+            "путешествие"
         ]
     },
     "1779": {
@@ -11545,6 +12593,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "страсть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17763.mp4"
+        ],
+        "recognitionText": [
+            "страсть"
         ]
     },
     "1786": {
@@ -11588,6 +12639,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318719.mp4",
             "https://storage.yandexcloud.net/signs-signs/17813.mp4"
+        ],
+        "recognitionText": [
+            "живой"
         ]
     },
     "1792": {
@@ -11596,6 +12650,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318900.mp4",
             "https://storage.yandexcloud.net/signs-signs/17826.mp4"
+        ],
+        "recognitionText": [
+            "военный"
         ]
     },
     "1793": {
@@ -11647,6 +12704,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "восток",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17900.mp4"
+        ],
+        "recognitionText": [
+            "восток"
         ]
     },
     "1801": {
@@ -11654,6 +12714,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "север",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17911.mp4"
+        ],
+        "recognitionText": [
+            "север"
         ]
     },
     "1802": {
@@ -11661,6 +12724,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "правительство",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17928.mp4"
+        ],
+        "recognitionText": [
+            "правительство"
         ]
     },
     "1803": {
@@ -11683,6 +12749,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/17956.mp4",
             "https://storage.yandexcloud.net/signs-signs/349244.mp4"
+        ],
+        "recognitionText": [
+            "президент"
         ]
     },
     "1806": {
@@ -11725,6 +12794,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "налог",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18012.mp4"
+        ],
+        "recognitionText": [
+            "налог"
         ]
     },
     "1812": {
@@ -11746,6 +12818,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "письмо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18047.mp4"
+        ],
+        "recognitionText": [
+            "письмо"
         ]
     },
     "1816": {
@@ -11760,6 +12835,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "смысл",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18082.mp4"
+        ],
+        "recognitionText": [
+            "смысл"
         ]
     },
     "1819": {
@@ -11769,6 +12847,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/43615.mp4",
             "https://storage.yandexcloud.net/signs-signs/44662.mp4",
             "https://storage.yandexcloud.net/signs-signs/18085.mp4"
+        ],
+        "recognitionText": [
+            "ошибка"
         ]
     },
     "1820": {
@@ -11776,6 +12857,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "новый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18102.mp4"
+        ],
+        "recognitionText": [
+            "новый"
         ]
     },
     "1821": {
@@ -11819,6 +12903,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99694.mp4",
             "https://storage.yandexcloud.net/signs-signs/18164.mp4"
+        ],
+        "recognitionText": [
+            "отличный"
         ]
     },
     "1827": {
@@ -11834,6 +12921,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18183.mp4",
             "https://storage.yandexcloud.net/signs-signs/349203.mp4"
+        ],
+        "recognitionText": [
+            "вопрос"
         ]
     },
     "1829": {
@@ -11850,6 +12940,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/295188.mp4",
             "https://storage.yandexcloud.net/signs-signs/18196.mp4",
             "https://storage.yandexcloud.net/signs-signs/100001.mp4"
+        ],
+        "recognitionText": [
+            "быстрый"
         ]
     },
     "1831": {
@@ -11865,6 +12958,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "настоящий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18224.mp4"
+        ],
+        "recognitionText": [
+            "настоящий"
         ]
     },
     "1833": {
@@ -11894,6 +12990,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18256.mp4",
             "https://storage.yandexcloud.net/signs-signs/319609.mp4"
+        ],
+        "recognitionText": [
+            "отвечать"
         ]
     },
     "1837": {
@@ -11927,6 +13026,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/18304.mp4",
             "https://storage.yandexcloud.net/signs-signs/109604.mp4",
             "https://storage.yandexcloud.net/signs-signs/295782.mp4"
+        ],
+        "recognitionText": [
+            "грубый"
         ]
     },
     "1841": {
@@ -12006,6 +13108,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Добро пожаловать!",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18420.mp4"
+        ],
+        "recognitionText": [
+            "добро пожаловать!"
         ]
     },
     "1853": {
@@ -12021,6 +13126,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18432.mp4",
             "https://storage.yandexcloud.net/signs-signs/27364.mp4"
+        ],
+        "recognitionText": [
+            "беспокойство"
         ]
     },
     "1855": {
@@ -12035,6 +13143,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ноль",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18458.mp4"
+        ],
+        "recognitionText": [
+            "ноль"
         ]
     },
     "1857": {
@@ -12114,6 +13225,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "агрессия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18589.mp4"
+        ],
+        "recognitionText": [
+            "агрессия"
         ]
     },
     "1871": {
@@ -12142,6 +13256,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "внимание",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18622.mp4"
+        ],
+        "recognitionText": [
+            "внимание"
         ]
     },
     "1875": {
@@ -12192,6 +13309,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "книга",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18692.mp4"
+        ],
+        "recognitionText": [
+            "книга"
         ]
     },
     "1882": {
@@ -12356,6 +13476,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "плакать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18934.mp4"
+        ],
+        "recognitionText": [
+            "плакать"
         ]
     },
     "1906": {
@@ -12386,6 +13509,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18979.mp4",
             "https://storage.yandexcloud.net/signs-signs/105955.mp4"
+        ],
+        "recognitionText": [
+            "представитель"
         ]
     },
     "1910": {
@@ -12393,6 +13519,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "развитие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/18989.mp4"
+        ],
+        "recognitionText": [
+            "развитие"
         ]
     },
     "1911": {
@@ -12436,6 +13565,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "образование",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/19052.mp4"
+        ],
+        "recognitionText": [
+            "образование"
         ]
     },
     "1917": {
@@ -12503,6 +13635,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/19158.mp4",
             "https://storage.yandexcloud.net/signs-signs/99720.mp4"
+        ],
+        "recognitionText": [
+            "прощание"
         ]
     },
     "1928": {
@@ -12561,6 +13696,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дружелюбный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/19234.mp4"
+        ],
+        "recognitionText": [
+            "дружелюбный"
         ]
     },
     "1936": {
@@ -12619,6 +13757,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/19337.mp4",
             "https://storage.yandexcloud.net/signs-signs/106994.mp4"
+        ],
+        "recognitionText": [
+            "импульс"
         ]
     },
     "1946": {
@@ -12698,6 +13839,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/321252.mp4",
             "https://storage.yandexcloud.net/signs-signs/19449.mp4"
+        ],
+        "recognitionText": [
+            "язык"
         ]
     },
     "1958": {
@@ -12763,6 +13907,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мотивировать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/19552.mp4"
+        ],
+        "recognitionText": [
+            "мотивировать"
         ]
     },
     "1968": {
@@ -12770,6 +13917,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мотивация",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/19562.mp4"
+        ],
+        "recognitionText": [
+            "мотивация"
         ]
     },
     "1969": {
@@ -12777,6 +13927,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "движение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/19571.mp4"
+        ],
+        "recognitionText": [
+            "движение"
         ]
     },
     "1970": {
@@ -12807,6 +13960,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/100124.mp4",
             "https://storage.yandexcloud.net/signs-signs/19611.mp4",
             "https://storage.yandexcloud.net/signs-signs/224663.mp4"
+        ],
+        "recognitionText": [
+            "предлагать"
         ]
     },
     "1974": {
@@ -12815,6 +13971,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/19622.mp4",
             "https://storage.yandexcloud.net/signs-signs/136916.mp4"
+        ],
+        "recognitionText": [
+            "порядок"
         ]
     },
     "1975": {
@@ -12980,6 +14139,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "расслабление",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/19902.mp4"
+        ],
+        "recognitionText": [
+            "расслабление"
         ]
     },
     "2004": {
@@ -12995,6 +14157,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/19937.mp4",
             "https://storage.yandexcloud.net/signs-signs/227626.mp4"
+        ],
+        "recognitionText": [
+            "результат"
         ]
     },
     "2007": {
@@ -13072,6 +14237,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "самовосприятие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/20054.mp4"
+        ],
+        "recognitionText": [
+            "самовосприятие"
         ]
     },
     "2019": {
@@ -13087,6 +14255,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/20073.mp4",
             "https://storage.yandexcloud.net/signs-signs/99786.mp4"
+        ],
+        "recognitionText": [
+            "показывать"
         ]
     },
     "2021": {
@@ -13129,6 +14300,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "песня",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/20136.mp4"
+        ],
+        "recognitionText": [
+            "песня"
         ]
     },
     "2027": {
@@ -13159,6 +14333,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "успех",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/20176.mp4"
+        ],
+        "recognitionText": [
+            "успех"
         ]
     },
     "2031": {
@@ -13251,6 +14428,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "доверять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/20318.mp4"
+        ],
+        "recognitionText": [
+            "доверять"
         ]
     },
     "2046": {
@@ -13608,6 +14788,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/295821.mp4",
             "https://storage.yandexcloud.net/signs-signs/20842.mp4",
             "https://storage.yandexcloud.net/signs-signs/26708.mp4"
+        ],
+        "recognitionText": [
+            "прямой"
         ]
     },
     "2106": {
@@ -13826,6 +15009,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "энергия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/21155.mp4"
+        ],
+        "recognitionText": [
+            "энергия"
         ]
     },
     "2142": {
@@ -14139,6 +15325,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "время для измерений",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43282.mp4"
+        ],
+        "recognitionText": [
+            "время для измерений"
         ]
     },
     "2192": {
@@ -14190,6 +15379,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/43174.mp4",
             "https://storage.yandexcloud.net/signs-signs/320119.mp4",
             "https://storage.yandexcloud.net/signs-signs/43363.mp4"
+        ],
+        "recognitionText": [
+            "сеть"
         ]
     },
     "2199": {
@@ -14331,6 +15523,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "процесс",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43348.mp4"
+        ],
+        "recognitionText": [
+            "процесс"
         ]
     },
     "2222": {
@@ -14576,6 +15771,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "передавать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43335.mp4"
+        ],
+        "recognitionText": [
+            "передавать"
         ]
     },
     "2263": {
@@ -15017,6 +16215,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "цветовой оттенок",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/22691.mp4"
+        ],
+        "recognitionText": [
+            "цветовой оттенок"
         ]
     },
     "2329": {
@@ -15096,6 +16297,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "описывать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/22851.mp4"
+        ],
+        "recognitionText": [
+            "описывать"
         ]
     },
     "2346": {
@@ -15103,6 +16307,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дизайн",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/22863.mp4"
+        ],
+        "recognitionText": [
+            "дизайн"
         ]
     },
     "2347": {
@@ -15180,6 +16387,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "выставка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/22977.mp4"
+        ],
+        "recognitionText": [
+            "выставка"
         ]
     },
     "2359": {
@@ -15209,6 +16419,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "заполнять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99900.mp4"
+        ],
+        "recognitionText": [
+            "заполнять"
         ]
     },
     "2363": {
@@ -15224,6 +16437,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181476.mp4",
             "https://storage.yandexcloud.net/signs-signs/23033.mp4"
+        ],
+        "recognitionText": [
+            "искусство"
         ]
     },
     "2365": {
@@ -15248,6 +16464,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/24028.mp4",
             "https://storage.yandexcloud.net/signs-signs/23062.mp4",
             "https://storage.yandexcloud.net/signs-signs/317179.mp4"
+        ],
+        "recognitionText": [
+            "форма"
         ]
     },
     "2368": {
@@ -15403,6 +16622,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "образ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/23267.mp4"
+        ],
+        "recognitionText": [
+            "образ"
         ]
     },
     "2390": {
@@ -15482,6 +16704,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лак",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/23379.mp4"
+        ],
+        "recognitionText": [
+            "лак"
         ]
     },
     "2402": {
@@ -15539,6 +16764,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/23463.mp4",
             "https://storage.yandexcloud.net/signs-signs/32871.mp4"
+        ],
+        "recognitionText": [
+            "модель"
         ]
     },
     "2411": {
@@ -15547,6 +16775,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/23469.mp4",
             "https://storage.yandexcloud.net/signs-signs/225118.mp4"
+        ],
+        "recognitionText": [
+            "современный"
         ]
     },
     "2412": {
@@ -15647,6 +16878,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "картина",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/23610.mp4"
+        ],
+        "recognitionText": [
+            "картина"
         ]
     },
     "2427": {
@@ -15654,6 +16888,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "бледный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/23622.mp4"
+        ],
+        "recognitionText": [
+            "бледный"
         ]
     },
     "2429": {
@@ -15745,6 +16982,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "основной цвет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/23767.mp4"
+        ],
+        "recognitionText": [
+            "основной цвет"
         ]
     },
     "2443": {
@@ -15932,6 +17172,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/318972.mp4",
             "https://storage.yandexcloud.net/signs-signs/24044.mp4",
             "https://storage.yandexcloud.net/signs-signs/26033.mp4"
+        ],
+        "recognitionText": [
+            "знак"
         ]
     },
     "2473": {
@@ -16033,6 +17276,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "талант",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/24187.mp4"
+        ],
+        "recognitionText": [
+            "талант"
         ]
     },
     "2489": {
@@ -16040,6 +17286,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "техника",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/24188.mp4"
+        ],
+        "recognitionText": [
+            "техника"
         ]
     },
     "2491": {
@@ -16090,6 +17339,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/24260.mp4",
             "https://storage.yandexcloud.net/signs-signs/295806.mp4"
+        ],
+        "recognitionText": [
+            "прозрачный"
         ]
     },
     "2498": {
@@ -16105,6 +17357,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "нераскрашенный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/24286.mp4"
+        ],
+        "recognitionText": [
+            "нераскрашенный"
         ]
     },
     "2500": {
@@ -16239,6 +17494,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "аэропорт",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100558.mp4"
+        ],
+        "recognitionText": [
+            "аэропорт"
         ]
     },
     "2520": {
@@ -16284,6 +17542,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/225111.mp4",
             "https://storage.yandexcloud.net/signs-signs/295936.mp4",
             "https://storage.yandexcloud.net/signs-signs/40250.mp4"
+        ],
+        "recognitionText": [
+            "собирать"
         ]
     },
     "2527": {
@@ -16614,6 +17875,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/30294.mp4",
             "https://storage.yandexcloud.net/signs-signs/100602.mp4"
+        ],
+        "recognitionText": [
+            "направление"
         ]
     },
     "2592": {
@@ -17347,6 +18611,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вокзал",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/26316.mp4"
+        ],
+        "recognitionText": [
+            "вокзал"
         ]
     },
     "2761": {
@@ -17467,6 +18734,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319360.mp4",
             "https://storage.yandexcloud.net/signs-signs/26476.mp4"
+        ],
+        "recognitionText": [
+            "крыло"
         ]
     },
     "2781": {
@@ -17502,6 +18772,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "чемодан",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/26526.mp4"
+        ],
+        "recognitionText": [
+            "чемодан"
         ]
     },
     "2788": {
@@ -17566,6 +18839,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/26599.mp4",
             "https://storage.yandexcloud.net/signs-signs/313169.mp4"
+        ],
+        "recognitionText": [
+            "паспорт"
         ]
     },
     "2798": {
@@ -17587,6 +18863,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "иностранный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/26632.mp4"
+        ],
+        "recognitionText": [
+            "иностранный"
         ]
     },
     "2802": {
@@ -17696,6 +18975,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "витамин",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/26769.mp4"
+        ],
+        "recognitionText": [
+            "витамин"
         ]
     },
     "2819": {
@@ -17899,6 +19181,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/27049.mp4",
             "https://storage.yandexcloud.net/signs-signs/295476.mp4"
+        ],
+        "recognitionText": [
+            "забота"
         ]
     },
     "2852": {
@@ -17927,6 +19212,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "клиент",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/27084.mp4"
+        ],
+        "recognitionText": [
+            "клиент"
         ]
     },
     "2856": {
@@ -18074,6 +19362,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "смерть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/27253.mp4"
+        ],
+        "recognitionText": [
+            "смерть"
         ]
     },
     "2878": {
@@ -18145,6 +19436,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "неудобство",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/27324.mp4"
+        ],
+        "recognitionText": [
+            "неудобство"
         ]
     },
     "2888": {
@@ -18248,6 +19542,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/296264.mp4",
             "https://storage.yandexcloud.net/signs-signs/296265.mp4",
             "https://storage.yandexcloud.net/signs-signs/27476.mp4"
+        ],
+        "recognitionText": [
+            "оценка"
         ]
     },
     "2906": {
@@ -18284,6 +19581,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "расстройство",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351584.mp4"
+        ],
+        "recognitionText": [
+            "расстройство"
         ]
     },
     "2912": {
@@ -18349,6 +19649,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "здоровье",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/27606.mp4"
+        ],
+        "recognitionText": [
+            "здоровье"
         ]
     },
     "2921": {
@@ -18970,6 +20273,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "условие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/28382.mp4"
+        ],
+        "recognitionText": [
+            "условие"
         ]
     },
     "3021": {
@@ -19007,6 +20313,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/227751.mp4",
             "https://storage.yandexcloud.net/signs-signs/28444.mp4",
             "https://storage.yandexcloud.net/signs-signs/296033.mp4"
+        ],
+        "recognitionText": [
+            "страдание"
         ]
     },
     "3028": {
@@ -19049,6 +20358,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "назначенное время",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/28501.mp4"
+        ],
+        "recognitionText": [
+            "назначенное время"
         ]
     },
     "3037": {
@@ -19134,6 +20446,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "длинный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/28645.mp4"
+        ],
+        "recognitionText": [
+            "длинный"
         ]
     },
     "3053": {
@@ -19351,6 +20666,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/28919.mp4",
             "https://storage.yandexcloud.net/signs-signs/107662.mp4"
+        ],
+        "recognitionText": [
+            "продавать"
         ]
     },
     "3088": {
@@ -19575,6 +20893,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дело",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/29214.mp4"
+        ],
+        "recognitionText": [
+            "дело"
         ]
     },
     "3125": {
@@ -19811,6 +21132,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "самоанализ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/29492.mp4"
+        ],
+        "recognitionText": [
+            "самоанализ"
         ]
     },
     "3163": {
@@ -19932,6 +21256,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "общество",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/29629.mp4"
+        ],
+        "recognitionText": [
+            "общество"
         ]
     },
     "3181": {
@@ -19981,6 +21308,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "напряжение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/29688.mp4"
+        ],
+        "recognitionText": [
+            "напряжение"
         ]
     },
     "3189": {
@@ -20166,6 +21496,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "оттенок",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/29918.mp4"
+        ],
+        "recognitionText": [
+            "оттенок"
         ]
     },
     "3219": {
@@ -20173,6 +21506,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "борода",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/29932.mp4"
+        ],
+        "recognitionText": [
+            "борода"
         ]
     },
     "3220": {
@@ -20208,6 +21544,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "красноватый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/29984.mp4"
+        ],
+        "recognitionText": [
+            "красноватый"
         ]
     },
     "3226": {
@@ -20243,6 +21582,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сверху",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/30048.mp4"
+        ],
+        "recognitionText": [
+            "сверху"
         ]
     },
     "3235": {
@@ -20468,6 +21810,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "багаж",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/30329.mp4"
+        ],
+        "recognitionText": [
+            "багаж"
         ]
     },
     "3272": {
@@ -20666,6 +22011,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/30549.mp4",
             "https://storage.yandexcloud.net/signs-signs/319217.mp4"
+        ],
+        "recognitionText": [
+            "оплата"
         ]
     },
     "3301": {
@@ -20694,6 +22042,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "плата за вход",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/30587.mp4"
+        ],
+        "recognitionText": [
+            "плата за вход"
         ]
     },
     "3306": {
@@ -21083,6 +22434,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99993.mp4",
             "https://storage.yandexcloud.net/signs-signs/31097.mp4"
+        ],
+        "recognitionText": [
+            "большинство"
         ]
     },
     "3371": {
@@ -21125,6 +22479,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "национальность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100502.mp4"
+        ],
+        "recognitionText": [
+            "национальность"
         ]
     },
     "3378": {
@@ -21397,6 +22754,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/181473.mp4",
             "https://storage.yandexcloud.net/signs-signs/228109.mp4",
             "https://storage.yandexcloud.net/signs-signs/31455.mp4"
+        ],
+        "recognitionText": [
+            "инвалид"
         ]
     },
     "3420": {
@@ -21439,6 +22799,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "закон",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/31517.mp4"
+        ],
+        "recognitionText": [
+            "закон"
         ]
     },
     "3427": {
@@ -21574,6 +22937,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/31674.mp4",
             "https://storage.yandexcloud.net/signs-signs/135030.mp4"
+        ],
+        "recognitionText": [
+            "расписание"
         ]
     },
     "3448": {
@@ -21823,6 +23189,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лекарство",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/31986.mp4"
+        ],
+        "recognitionText": [
+            "лекарство"
         ]
     },
     "3488": {
@@ -21996,6 +23365,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43147.mp4",
             "https://storage.yandexcloud.net/signs-signs/32210.mp4"
+        ],
+        "recognitionText": [
+            "скидка"
         ]
     },
     "3519": {
@@ -22052,6 +23424,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рынок",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/32290.mp4"
+        ],
+        "recognitionText": [
+            "рынок"
         ]
     },
     "3530": {
@@ -22073,6 +23448,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "университет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/32309.mp4"
+        ],
+        "recognitionText": [
+            "университет"
         ]
     },
     "3533": {
@@ -22426,6 +23804,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "доллар",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/32746.mp4"
+        ],
+        "recognitionText": [
+            "доллар"
         ]
     },
     "3595": {
@@ -22547,6 +23928,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/32944.mp4",
             "https://storage.yandexcloud.net/signs-signs/176736.mp4"
+        ],
+        "recognitionText": [
+            "воротник"
         ]
     },
     "3622": {
@@ -23024,6 +24408,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Правда?",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/33483.mp4"
+        ],
+        "recognitionText": [
+            "правда"
         ]
     },
     "3691": {
@@ -23659,6 +25046,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рождение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/34258.mp4"
+        ],
+        "recognitionText": [
+            "рождение"
         ]
     },
     "3795": {
@@ -24160,6 +25550,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "уже",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43647.mp4"
+        ],
+        "recognitionText": [
+            "уже"
         ]
     },
     "3884": {
@@ -24190,6 +25583,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43702.mp4",
             "https://storage.yandexcloud.net/signs-signs/318725.mp4"
+        ],
+        "recognitionText": [
+            "забирать"
         ]
     },
     "3888": {
@@ -24261,6 +25657,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "различный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43627.mp4"
+        ],
+        "recognitionText": [
+            "различный"
         ]
     },
     "3902": {
@@ -24283,6 +25682,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43563.mp4",
             "https://storage.yandexcloud.net/signs-signs/295259.mp4"
+        ],
+        "recognitionText": [
+            "выбирать"
         ]
     },
     "3905": {
@@ -24290,6 +25692,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "зависть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43581.mp4"
+        ],
+        "recognitionText": [
+            "зависть"
         ]
     },
     "3906": {
@@ -24297,6 +25702,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "что",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43119.mp4"
+        ],
+        "recognitionText": [
+            "что"
         ]
     },
     "3907": {
@@ -24321,6 +25729,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/107027.mp4",
             "https://storage.yandexcloud.net/signs-signs/100227.mp4",
             "https://storage.yandexcloud.net/signs-signs/99839.mp4"
+        ],
+        "recognitionText": [
+            "до"
         ]
     },
     "3910": {
@@ -24342,6 +25753,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "невозможный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43676.mp4"
+        ],
+        "recognitionText": [
+            "невозможный"
         ]
     },
     "3913": {
@@ -24349,6 +25763,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "возможный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43698.mp4"
+        ],
+        "recognitionText": [
+            "возможный"
         ]
     },
     "3914": {
@@ -24356,6 +25773,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "опять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43613.mp4"
+        ],
+        "recognitionText": [
+            "опять"
         ]
     },
     "3915": {
@@ -24364,6 +25784,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318690.mp4",
             "https://storage.yandexcloud.net/signs-signs/43575.mp4"
+        ],
+        "recognitionText": [
+            "другой"
         ]
     },
     "3916": {
@@ -24393,6 +25816,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "всегда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43562.mp4"
+        ],
+        "recognitionText": [
+            "всегда"
         ]
     },
     "3920": {
@@ -24400,6 +25826,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мир",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43763.mp4"
+        ],
+        "recognitionText": [
+            "мир"
         ]
     },
     "3921": {
@@ -24407,6 +25836,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "медленный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43094.mp4"
+        ],
+        "recognitionText": [
+            "медленный"
         ]
     },
     "3922": {
@@ -24435,6 +25867,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "семья",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43684.mp4"
+        ],
+        "recognitionText": [
+            "семья"
         ]
     },
     "3926": {
@@ -24485,6 +25920,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "наука",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43719.mp4"
+        ],
+        "recognitionText": [
+            "наука"
         ]
     },
     "3934": {
@@ -24492,6 +25930,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лев",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43708.mp4"
+        ],
+        "recognitionText": [
+            "лев"
         ]
     },
     "3935": {
@@ -24499,6 +25940,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "медведь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43598.mp4"
+        ],
+        "recognitionText": [
+            "медведь"
         ]
     },
     "3936": {
@@ -24508,6 +25952,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/43108.mp4",
             "https://storage.yandexcloud.net/signs-signs/319694.mp4",
             "https://storage.yandexcloud.net/signs-signs/296278.mp4"
+        ],
+        "recognitionText": [
+            "переводить"
         ]
     },
     "3937": {
@@ -24523,6 +25970,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лошадь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43673.mp4"
+        ],
+        "recognitionText": [
+            "лошадь"
         ]
     },
     "3939": {
@@ -24530,6 +25980,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пингвин",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43692.mp4"
+        ],
+        "recognitionText": [
+            "пингвин"
         ]
     },
     "3941": {
@@ -24551,6 +26004,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "слепой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43635.mp4"
+        ],
+        "recognitionText": [
+            "слепой"
         ]
     },
     "3944": {
@@ -24558,6 +26014,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "крокодил",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43595.mp4"
+        ],
+        "recognitionText": [
+            "крокодил"
         ]
     },
     "3945": {
@@ -24565,6 +26024,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вещь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43109.mp4"
+        ],
+        "recognitionText": [
+            "вещь"
         ]
     },
     "3946": {
@@ -24572,6 +26034,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "какой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43104.mp4"
+        ],
+        "recognitionText": [
+            "какой"
         ]
     },
     "3947": {
@@ -24640,6 +26105,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лицемерный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43671.mp4"
+        ],
+        "recognitionText": [
+            "лицемерный"
         ]
     },
     "3956": {
@@ -24669,6 +26137,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100414.mp4",
             "https://storage.yandexcloud.net/signs-signs/43107.mp4"
+        ],
+        "recognitionText": [
+            "неожиданный"
         ]
     },
     "3960": {
@@ -24685,6 +26156,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "позор",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43729.mp4"
+        ],
+        "recognitionText": [
+            "позор"
         ]
     },
     "3962": {
@@ -24692,6 +26166,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "недовольный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43604.mp4"
+        ],
+        "recognitionText": [
+            "недовольный"
         ]
     },
     "3963": {
@@ -24699,6 +26176,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "немой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43605.mp4"
+        ],
+        "recognitionText": [
+            "немой"
         ]
     },
     "3964": {
@@ -24706,6 +26186,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "музыка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43717.mp4"
+        ],
+        "recognitionText": [
+            "музыка"
         ]
     },
     "3965": {
@@ -24777,6 +26260,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43725.mp4",
             "https://storage.yandexcloud.net/signs-signs/319210.mp4"
+        ],
+        "recognitionText": [
+            "олень"
         ]
     },
     "3975": {
@@ -24785,6 +26271,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43730.mp4",
             "https://storage.yandexcloud.net/signs-signs/134850.mp4"
+        ],
+        "recognitionText": [
+            "политика"
         ]
     },
     "3976": {
@@ -24836,6 +26325,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/43611.mp4",
             "https://storage.yandexcloud.net/signs-signs/319181.mp4",
             "https://storage.yandexcloud.net/signs-signs/43612.mp4"
+        ],
+        "recognitionText": [
+            "общий"
         ]
     },
     "3983": {
@@ -24845,6 +26337,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/43722.mp4",
             "https://storage.yandexcloud.net/signs-signs/112119.mp4",
             "https://storage.yandexcloud.net/signs-signs/319188.mp4"
+        ],
+        "recognitionText": [
+            "обычный"
         ]
     },
     "3984": {
@@ -24880,6 +26375,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "признавать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/44547.mp4"
+        ],
+        "recognitionText": [
+            "признавать"
         ]
     },
     "3989": {
@@ -24904,6 +26402,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "страшный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43753.mp4"
+        ],
+        "recognitionText": [
+            "страшный"
         ]
     },
     "3992": {
@@ -24911,6 +26412,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "испуганный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43584.mp4"
+        ],
+        "recognitionText": [
+            "испуганный"
         ]
     },
     "3993": {
@@ -24925,6 +26429,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "приличный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43624.mp4"
+        ],
+        "recognitionText": [
+            "приличный"
         ]
     },
     "3995": {
@@ -24953,6 +26460,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "возбуждение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43697.mp4"
+        ],
+        "recognitionText": [
+            "возбуждение"
         ]
     },
     "4000": {
@@ -24960,6 +26470,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "интересный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/44549.mp4"
+        ],
+        "recognitionText": [
+            "интересный"
         ]
     },
     "4001": {
@@ -25017,6 +26530,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43703.mp4",
             "https://storage.yandexcloud.net/signs-signs/99894.mp4"
+        ],
+        "recognitionText": [
+            "занятый"
         ]
     },
     "4010": {
@@ -25025,6 +26541,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319589.mp4",
             "https://storage.yandexcloud.net/signs-signs/43614.mp4"
+        ],
+        "recognitionText": [
+            "особенно"
         ]
     },
     "4011": {
@@ -25046,6 +26565,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "право",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43735.mp4"
+        ],
+        "recognitionText": [
+            "право"
         ]
     },
     "4014": {
@@ -25060,6 +26582,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ответственный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43726.mp4"
+        ],
+        "recognitionText": [
+            "ответственный"
         ]
     },
     "4016": {
@@ -25083,6 +26608,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43755.mp4",
             "https://storage.yandexcloud.net/signs-signs/320574.mp4"
+        ],
+        "recognitionText": [
+            "терпение"
         ]
     },
     "4019": {
@@ -25111,6 +26639,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ревнивый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43682.mp4"
+        ],
+        "recognitionText": [
+            "ревнивый"
         ]
     },
     "4023": {
@@ -25133,6 +26664,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "тщеславный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43117.mp4"
+        ],
+        "recognitionText": [
+            "тщеславный"
         ]
     },
     "4027": {
@@ -25242,6 +26776,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319475.mp4",
             "https://storage.yandexcloud.net/signs-signs/43619.mp4"
+        ],
+        "recognitionText": [
+            "почти"
         ]
     },
     "4042": {
@@ -25272,6 +26809,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вежливый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43696.mp4"
+        ],
+        "recognitionText": [
+            "вежливый"
         ]
     },
     "4048": {
@@ -25350,6 +26890,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "любовь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43672.mp4"
+        ],
+        "recognitionText": [
+            "любовь"
         ]
     },
     "4059": {
@@ -25448,6 +26991,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "бегемот",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43655.mp4"
+        ],
+        "recognitionText": [
+            "бегемот"
         ]
     },
     "4074": {
@@ -25469,6 +27015,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "волк",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43100.mp4"
+        ],
+        "recognitionText": [
+            "волк"
         ]
     },
     "4078": {
@@ -25512,6 +27061,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "заставлять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43704.mp4"
+        ],
+        "recognitionText": [
+            "заставлять"
         ]
     },
     "4084": {
@@ -25581,6 +27133,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "слово",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43112.mp4"
+        ],
+        "recognitionText": [
+            "слово"
         ]
     },
     "4094": {
@@ -25637,6 +27192,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "союз ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43637.mp4"
+        ],
+        "recognitionText": [
+            "союз"
         ]
     },
     "4102": {
@@ -25645,6 +27203,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/136650.mp4",
             "https://storage.yandexcloud.net/signs-signs/43114.mp4"
+        ],
+        "recognitionText": [
+            "текст"
         ]
     },
     "4104": {
@@ -25680,6 +27241,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "любопытный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43597.mp4"
+        ],
+        "recognitionText": [
+            "любопытный"
         ]
     },
     "4109": {
@@ -25687,6 +27251,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "послушный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43733.mp4"
+        ],
+        "recognitionText": [
+            "послушный"
         ]
     },
     "4110": {
@@ -25695,6 +27262,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43608.mp4",
             "https://storage.yandexcloud.net/signs-signs/106969.mp4"
+        ],
+        "recognitionText": [
+            "непослушный"
         ]
     },
     "4111": {
@@ -25787,6 +27357,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "качество",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43706.mp4"
+        ],
+        "recognitionText": [
+            "качество"
         ]
     },
     "4124": {
@@ -26139,6 +27712,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/36498.mp4",
             "https://storage.yandexcloud.net/signs-signs/181639.mp4"
+        ],
+        "recognitionText": [
+            "команда"
         ]
     },
     "4177": {
@@ -26972,6 +28548,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/319783.mp4",
             "https://storage.yandexcloud.net/signs-signs/176220.mp4",
             "https://storage.yandexcloud.net/signs-signs/37530.mp4"
+        ],
+        "recognitionText": [
+            "начало"
         ]
     },
     "4328": {
@@ -27149,6 +28728,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181846.mp4",
             "https://storage.yandexcloud.net/signs-signs/37765.mp4"
+        ],
+        "recognitionText": [
+            "курс"
         ]
     },
     "4363": {
@@ -27248,6 +28830,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/37943.mp4",
             "https://storage.yandexcloud.net/signs-signs/319315.mp4"
+        ],
+        "recognitionText": [
+            "борьба"
         ]
     },
     "4392": {
@@ -27425,6 +29010,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "свисток",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/38146.mp4"
+        ],
+        "recognitionText": [
+            "свисток"
         ]
     },
     "4424": {
@@ -27656,6 +29244,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "звук",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/44565.mp4"
+        ],
+        "recognitionText": [
+            "звук"
         ]
     },
     "4486": {
@@ -28262,6 +29853,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "линия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43457.mp4"
+        ],
+        "recognitionText": [
+            "линия"
         ]
     },
     "4604": {
@@ -28360,6 +29954,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ряд",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/44620.mp4"
+        ],
+        "recognitionText": [
+            "ряд"
         ]
     },
     "4622": {
@@ -28524,6 +30121,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сайт",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/44621.mp4"
+        ],
+        "recognitionText": [
+            "сайт"
         ]
     },
     "4655": {
@@ -28623,6 +30223,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дерево",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/39508.mp4"
+        ],
+        "recognitionText": [
+            "дерево"
         ]
     },
     "4672": {
@@ -28786,6 +30389,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "помесь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/39658.mp4"
+        ],
+        "recognitionText": [
+            "помесь"
         ]
     },
     "4697": {
@@ -28828,6 +30434,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "грязный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/39696.mp4"
+        ],
+        "recognitionText": [
+            "грязный"
         ]
     },
     "4703": {
@@ -29325,6 +30934,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/40206.mp4",
             "https://storage.yandexcloud.net/signs-signs/319858.mp4"
+        ],
+        "recognitionText": [
+            "поле"
         ]
     },
     "4786": {
@@ -29360,6 +30972,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "нашествие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/40238.mp4"
+        ],
+        "recognitionText": [
+            "нашествие"
         ]
     },
     "4791": {
@@ -29664,6 +31279,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дятел",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/40525.mp4"
+        ],
+        "recognitionText": [
+            "дятел"
         ]
     },
     "4840": {
@@ -29727,6 +31345,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лиса",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/40580.mp4"
+        ],
+        "recognitionText": [
+            "лиса"
         ]
     },
     "4849": {
@@ -29750,6 +31371,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "заяц",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/40601.mp4"
+        ],
+        "recognitionText": [
+            "заяц"
         ]
     },
     "4853": {
@@ -30018,6 +31642,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "паук",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/40838.mp4"
+        ],
+        "recognitionText": [
+            "паук"
         ]
     },
     "4893": {
@@ -30033,6 +31660,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "миграция ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/40850.mp4"
+        ],
+        "recognitionText": [
+            "миграция"
         ]
     },
     "4895": {
@@ -30154,6 +31784,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/295220.mp4",
             "https://storage.yandexcloud.net/signs-signs/315871.mp4",
             "https://storage.yandexcloud.net/signs-signs/100051.mp4"
+        ],
+        "recognitionText": [
+            "вид"
         ]
     },
     "4919": {
@@ -30336,6 +31969,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "петух",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100013.mp4"
+        ],
+        "recognitionText": [
+            "петух"
         ]
     },
     "4948": {
@@ -30691,6 +32327,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "онлайн",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/137114.mp4"
+        ],
+        "recognitionText": [
+            "онлайн"
         ]
     },
     "5286": {
@@ -31226,6 +32865,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "итог",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43250.mp4"
+        ],
+        "recognitionText": [
+            "итог"
         ]
     },
     "5408": {
@@ -31383,6 +33025,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100218.mp4",
             "https://storage.yandexcloud.net/signs-signs/43150.mp4"
+        ],
+        "recognitionText": [
+            "экономика"
         ]
     },
     "5437": {
@@ -31448,6 +33093,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "управление",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43179.mp4"
+        ],
+        "recognitionText": [
+            "управление"
         ]
     },
     "5446": {
@@ -31483,6 +33131,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "заказ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43151.mp4"
+        ],
+        "recognitionText": [
+            "заказ"
         ]
     },
     "5452": {
@@ -31548,6 +33199,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "договор",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43201.mp4"
+        ],
+        "recognitionText": [
+            "договор"
         ]
     },
     "5465": {
@@ -31556,6 +33210,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295804.mp4",
             "https://storage.yandexcloud.net/signs-signs/43144.mp4"
+        ],
+        "recognitionText": [
+            "проект"
         ]
     },
     "5467": {
@@ -31593,6 +33250,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/99693.mp4",
             "https://storage.yandexcloud.net/signs-signs/176238.mp4",
             "https://storage.yandexcloud.net/signs-signs/43142.mp4"
+        ],
+        "recognitionText": [
+            "отдел"
         ]
     },
     "5473": {
@@ -31829,6 +33489,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "враг",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/43122.mp4"
+        ],
+        "recognitionText": [
+            "враг"
         ]
     },
     "5523": {
@@ -32025,6 +33688,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "операция",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319216.mp4"
+        ],
+        "recognitionText": [
+            "операция"
         ]
     },
     "5561": {
@@ -32040,6 +33706,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320446.mp4",
             "https://storage.yandexcloud.net/signs-signs/227739.mp4"
+        ],
+        "recognitionText": [
+            "создание"
         ]
     },
     "5572": {
@@ -32054,6 +33723,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "специалист",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317426.mp4"
+        ],
+        "recognitionText": [
+            "специалист"
         ]
     },
     "5574": {
@@ -32218,6 +33890,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вилять ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318877.mp4"
+        ],
+        "recognitionText": [
+            "вилять"
         ]
     },
     "5683": {
@@ -32339,6 +34014,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "путь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319933.mp4"
+        ],
+        "recognitionText": [
+            "путь"
         ]
     },
     "5714": {
@@ -32346,6 +34024,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мы",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/349185.mp4"
+        ],
+        "recognitionText": [
+            "мы"
         ]
     },
     "5715": {
@@ -32353,6 +34034,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "слабый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295919.mp4"
+        ],
+        "recognitionText": [
+            "слабый"
         ]
     },
     "5718": {
@@ -32360,6 +34044,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "носить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319159.mp4"
+        ],
+        "recognitionText": [
+            "носить"
         ]
     },
     "5719": {
@@ -32458,6 +34145,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рыдать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295883.mp4"
+        ],
+        "recognitionText": [
+            "рыдать"
         ]
     },
     "5735": {
@@ -32474,6 +34164,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/320506.mp4",
             "https://storage.yandexcloud.net/signs-signs/227110.mp4",
             "https://storage.yandexcloud.net/signs-signs/349175.mp4"
+        ],
+        "recognitionText": [
+            "странный"
         ]
     },
     "5745": {
@@ -32496,6 +34189,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318838.mp4",
             "https://storage.yandexcloud.net/signs-signs/295765.mp4"
+        ],
+        "recognitionText": [
+            "в то время как"
         ]
     },
     "5751": {
@@ -32539,6 +34235,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "целый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320859.mp4"
+        ],
+        "recognitionText": [
+            "целый"
         ]
     },
     "5758": {
@@ -32561,6 +34260,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296220.mp4",
             "https://storage.yandexcloud.net/signs-signs/227967.mp4"
+        ],
+        "recognitionText": [
+            "злобный"
         ]
     },
     "5762": {
@@ -32577,6 +34279,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/99860.mp4",
             "https://storage.yandexcloud.net/signs-signs/109618.mp4",
             "https://storage.yandexcloud.net/signs-signs/318688.mp4"
+        ],
+        "recognitionText": [
+            "дрожать"
         ]
     },
     "5764": {
@@ -32612,6 +34317,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вино",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295771.mp4"
+        ],
+        "recognitionText": [
+            "вино"
         ]
     },
     "5774": {
@@ -32626,6 +34334,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мудрый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296241.mp4"
+        ],
+        "recognitionText": [
+            "мудрый"
         ]
     },
     "5778": {
@@ -32640,6 +34351,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "остроумие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316479.mp4"
+        ],
+        "recognitionText": [
+            "остроумие"
         ]
     },
     "5784": {
@@ -32768,6 +34482,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/319017.mp4",
             "https://storage.yandexcloud.net/signs-signs/319018.mp4",
             "https://storage.yandexcloud.net/signs-signs/181574.mp4"
+        ],
+        "recognitionText": [
+            "исчезать"
         ]
     },
     "5814": {
@@ -32860,6 +34577,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/321226.mp4",
             "https://storage.yandexcloud.net/signs-signs/99519.mp4"
+        ],
+        "recognitionText": [
+            "агрессивный"
         ]
     },
     "5840": {
@@ -32881,6 +34601,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "видимый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315876.mp4"
+        ],
+        "recognitionText": [
+            "видимый"
         ]
     },
     "5845": {
@@ -32917,6 +34640,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315953.mp4",
             "https://storage.yandexcloud.net/signs-signs/319077.mp4"
+        ],
+        "recognitionText": [
+            "голос"
         ]
     },
     "5851": {
@@ -32960,6 +34686,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223576.mp4",
             "https://storage.yandexcloud.net/signs-signs/319820.mp4"
+        ],
+        "recognitionText": [
+            "под"
         ]
     },
     "5868": {
@@ -33011,6 +34740,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/319740.mp4",
             "https://storage.yandexcloud.net/signs-signs/319741.mp4",
             "https://storage.yandexcloud.net/signs-signs/228593.mp4"
+        ],
+        "recognitionText": [
+            "на"
         ]
     },
     "5881": {
@@ -33067,6 +34799,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "еще нет",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295792.mp4"
+        ],
+        "recognitionText": [
+            "еще нет"
         ]
     },
     "5899": {
@@ -33422,6 +35157,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "основа",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223244.mp4"
+        ],
+        "recognitionText": [
+            "основа"
         ]
     },
     "5968": {
@@ -33457,6 +35195,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "летучая мышь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181851.mp4"
+        ],
+        "recognitionText": [
+            "летучая мышь"
         ]
     },
     "5976": {
@@ -33514,6 +35255,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "клюв",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181622.mp4"
+        ],
+        "recognitionText": [
+            "клюв"
         ]
     },
     "5987": {
@@ -33535,6 +35279,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "зверь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181458.mp4"
+        ],
+        "recognitionText": [
+            "зверь"
         ]
     },
     "5991": {
@@ -33591,6 +35338,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "становиться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227102.mp4"
+        ],
+        "recognitionText": [
+            "становиться"
         ]
     },
     "6000": {
@@ -33641,6 +35391,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "бежевый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351385.mp4"
+        ],
+        "recognitionText": [
+            "бежевый"
         ]
     },
     "6009": {
@@ -33713,6 +35466,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "между",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181862.mp4"
+        ],
+        "recognitionText": [
+            "между"
         ]
     },
     "6027": {
@@ -33889,6 +35645,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кусать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181850.mp4"
+        ],
+        "recognitionText": [
+            "кусать"
         ]
     },
     "6057": {
@@ -33973,6 +35732,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кровь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/349177.mp4"
+        ],
+        "recognitionText": [
+            "кровь"
         ]
     },
     "6075": {
@@ -34036,6 +35798,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "покраснеть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296317.mp4"
+        ],
+        "recognitionText": [
+            "покраснеть"
         ]
     },
     "6087": {
@@ -34081,6 +35846,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "тело",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/349166.mp4"
+        ],
+        "recognitionText": [
+            "тело"
         ]
     },
     "6093": {
@@ -34180,6 +35948,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "оба",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223052.mp4"
+        ],
+        "recognitionText": [
+            "оба"
         ]
     },
     "6112": {
@@ -34189,6 +35960,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/317009.mp4",
             "https://storage.yandexcloud.net/signs-signs/225072.mp4",
             "https://storage.yandexcloud.net/signs-signs/225073.mp4"
+        ],
+        "recognitionText": [
+            "раздражать"
         ]
     },
     "6113": {
@@ -34418,6 +36192,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "краткий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181827.mp4"
+        ],
+        "recognitionText": [
+            "краткий"
         ]
     },
     "6152": {
@@ -34692,6 +36469,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кафе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228315.mp4"
+        ],
+        "recognitionText": [
+            "кафе"
         ]
     },
     "6210": {
@@ -34706,6 +36486,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "клетка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228351.mp4"
+        ],
+        "recognitionText": [
+            "клетка"
         ]
     },
     "6212": {
@@ -34717,6 +36500,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/296058.mp4",
             "https://storage.yandexcloud.net/signs-signs/136644.mp4",
             "https://storage.yandexcloud.net/signs-signs/320526.mp4"
+        ],
+        "recognitionText": [
+            "считать"
         ]
     },
     "6213": {
@@ -34731,6 +36517,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "календарь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181575.mp4"
+        ],
+        "recognitionText": [
+            "календарь"
         ]
     },
     "6215": {
@@ -34787,6 +36576,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мочь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/198287.mp4"
+        ],
+        "recognitionText": [
+            "мочь"
         ]
     },
     "6230": {
@@ -34843,6 +36635,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "не мочь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/222944.mp4"
+        ],
+        "recognitionText": [
+            "не мочь"
         ]
     },
     "6239": {
@@ -35160,6 +36955,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "центр",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/175872.mp4"
+        ],
+        "recognitionText": [
+            "центр"
         ]
     },
     "6300": {
@@ -35558,6 +37356,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "гражданин",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176751.mp4"
+        ],
+        "recognitionText": [
+            "гражданин"
         ]
     },
     "6369": {
@@ -35572,6 +37373,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "требование",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/140188.mp4"
+        ],
+        "recognitionText": [
+            "требование"
         ]
     },
     "6371": {
@@ -35600,6 +37404,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "коготь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181628.mp4"
+        ],
+        "recognitionText": [
+            "коготь"
         ]
     },
     "6379": {
@@ -35664,6 +37471,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176644.mp4",
             "https://storage.yandexcloud.net/signs-signs/319267.mp4"
+        ],
+        "recognitionText": [
+            "берег"
         ]
     },
     "6394": {
@@ -35748,6 +37558,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "среди",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227089.mp4"
+        ],
+        "recognitionText": [
+            "среди"
         ]
     },
     "6408": {
@@ -35826,6 +37639,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "злость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181460.mp4"
+        ],
+        "recognitionText": [
+            "злость"
         ]
     },
     "6419": {
@@ -35880,6 +37696,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/99662.mp4",
             "https://storage.yandexcloud.net/signs-signs/319204.mp4",
             "https://storage.yandexcloud.net/signs-signs/223133.mp4"
+        ],
+        "recognitionText": [
+            "ожидать"
         ]
     },
     "6427": {
@@ -35902,6 +37721,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кроме",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228396.mp4"
+        ],
+        "recognitionText": [
+            "кроме"
         ]
     },
     "6431": {
@@ -35947,6 +37769,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/296311.mp4",
             "https://storage.yandexcloud.net/signs-signs/297091.mp4",
             "https://storage.yandexcloud.net/signs-signs/319846.mp4"
+        ],
+        "recognitionText": [
+            "подходить"
         ]
     },
     "6441": {
@@ -36005,6 +37830,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295240.mp4",
             "https://storage.yandexcloud.net/signs-signs/295239.mp4"
+        ],
+        "recognitionText": [
+            "возникать"
         ]
     },
     "6450": {
@@ -36020,6 +37848,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295878.mp4",
             "https://storage.yandexcloud.net/signs-signs/295877.mp4"
+        ],
+        "recognitionText": [
+            "рука"
         ]
     },
     "6452": {
@@ -36034,6 +37865,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "армия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/139854.mp4"
+        ],
+        "recognitionText": [
+            "армия"
         ]
     },
     "6455": {
@@ -36041,6 +37875,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вокруг",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176733.mp4"
+        ],
+        "recognitionText": [
+            "вокруг"
         ]
     },
     "6457": {
@@ -36055,6 +37892,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "прибывать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/225034.mp4"
+        ],
+        "recognitionText": [
+            "прибывать"
         ]
     },
     "6459": {
@@ -36062,6 +37902,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "высокомерный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176742.mp4"
+        ],
+        "recognitionText": [
+            "высокомерный"
         ]
     },
     "6460": {
@@ -36097,6 +37940,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "статья",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227105.mp4"
+        ],
+        "recognitionText": [
+            "статья"
         ]
     },
     "6466": {
@@ -36155,6 +38001,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319870.mp4",
             "https://storage.yandexcloud.net/signs-signs/223610.mp4"
+        ],
+        "recognitionText": [
+            "помогать"
         ]
     },
     "6476": {
@@ -36178,6 +38027,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "полагать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296319.mp4"
+        ],
+        "recognitionText": [
+            "полагать"
         ]
     },
     "6479": {
@@ -36192,6 +38044,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "удивлять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/140369.mp4"
+        ],
+        "recognitionText": [
+            "удивлять"
         ]
     },
     "6481": {
@@ -36248,6 +38103,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "попытка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223651.mp4"
+        ],
+        "recognitionText": [
+            "попытка"
         ]
     },
     "6489": {
@@ -36255,6 +38113,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "посещать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296326.mp4"
+        ],
+        "recognitionText": [
+            "посещать"
         ]
     },
     "6490": {
@@ -36277,6 +38138,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "отношение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223545.mp4"
+        ],
+        "recognitionText": [
+            "отношение"
         ]
     },
     "6493": {
@@ -36428,6 +38292,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/175779.mp4",
             "https://storage.yandexcloud.net/signs-signs/320709.mp4"
+        ],
+        "recognitionText": [
+            "ужасный"
         ]
     },
     "6520": {
@@ -36528,6 +38395,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "немедленный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227277.mp4"
+        ],
+        "recognitionText": [
+            "немедленный"
         ]
     },
     "6538": {
@@ -36558,6 +38428,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318842.mp4",
             "https://storage.yandexcloud.net/signs-signs/294734.mp4"
+        ],
+        "recognitionText": [
+            "важный"
         ]
     },
     "6543": {
@@ -36579,6 +38452,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "в",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295763.mp4"
+        ],
+        "recognitionText": [
+            "в"
         ]
     },
     "6547": {
@@ -36650,6 +38526,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296104.mp4",
             "https://storage.yandexcloud.net/signs-signs/136681.mp4"
+        ],
+        "recognitionText": [
+            "указывать"
         ]
     },
     "6556": {
@@ -36722,6 +38601,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107623.mp4",
             "https://storage.yandexcloud.net/signs-signs/296247.mp4"
+        ],
+        "recognitionText": [
+            "населять"
         ]
     },
     "6568": {
@@ -36780,6 +38662,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "проверять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295802.mp4"
+        ],
+        "recognitionText": [
+            "проверять"
         ]
     },
     "6579": {
@@ -36788,6 +38673,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295201.mp4",
             "https://storage.yandexcloud.net/signs-signs/295202.mp4"
+        ],
+        "recognitionText": [
+            "вдохновлять"
         ]
     },
     "6580": {
@@ -36795,6 +38683,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мгновение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228565.mp4"
+        ],
+        "recognitionText": [
+            "мгновение"
         ]
     },
     "6581": {
@@ -36802,6 +38693,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вместо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295229.mp4"
+        ],
+        "recognitionText": [
+            "вместо"
         ]
     },
     "6582": {
@@ -36809,6 +38703,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "институт",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228117.mp4"
+        ],
+        "recognitionText": [
+            "институт"
         ]
     },
     "6583": {
@@ -36910,6 +38807,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "знакомить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227968.mp4"
+        ],
+        "recognitionText": [
+            "знакомить"
         ]
     },
     "6605": {
@@ -36955,6 +38855,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "приглашение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296350.mp4"
+        ],
+        "recognitionText": [
+            "приглашение"
         ]
     },
     "6613": {
@@ -36970,6 +38873,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318890.mp4",
             "https://storage.yandexcloud.net/signs-signs/315891.mp4"
+        ],
+        "recognitionText": [
+            "внутренний"
         ]
     },
     "6615": {
@@ -37041,6 +38947,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "медуза",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228571.mp4"
+        ],
+        "recognitionText": [
+            "медуза"
         ]
     },
     "6632": {
@@ -37380,6 +39289,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "с днем рождения",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295884.mp4"
+        ],
+        "recognitionText": [
+            "с днем рождения"
         ]
     },
     "6710": {
@@ -37394,6 +39306,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вред",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295253.mp4"
+        ],
+        "recognitionText": [
+            "вред"
         ]
     },
     "6713": {
@@ -37450,6 +39365,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "являться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317340.mp4"
+        ],
+        "recognitionText": [
+            "являться"
         ]
     },
     "6726": {
@@ -37501,6 +39419,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сердце",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295901.mp4"
+        ],
+        "recognitionText": [
+            "сердце"
         ]
     },
     "6737": {
@@ -37601,6 +39522,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295947.mp4",
             "https://storage.yandexcloud.net/signs-signs/295946.mp4"
+        ],
+        "recognitionText": [
+            "сомневаться"
         ]
     },
     "6752": {
@@ -37615,6 +39539,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "высокий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295268.mp4"
+        ],
+        "recognitionText": [
+            "высокий"
         ]
     },
     "6755": {
@@ -37666,6 +39593,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296096.mp4",
             "https://storage.yandexcloud.net/signs-signs/296095.mp4"
+        ],
+        "recognitionText": [
+            "ударять"
         ]
     },
     "6765": {
@@ -37708,6 +39638,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "держать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295334.mp4"
+        ],
+        "recognitionText": [
+            "держать"
         ]
     },
     "6773": {
@@ -37765,6 +39698,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "соты",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296007.mp4"
+        ],
+        "recognitionText": [
+            "соты"
         ]
     },
     "6783": {
@@ -37843,6 +39779,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "враждебный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295252.mp4"
+        ],
+        "recognitionText": [
+            "враждебный"
         ]
     },
     "6795": {
@@ -37864,6 +39803,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295242.mp4"
+        ],
+        "recognitionText": [
+            "вой"
         ]
     },
     "6799": {
@@ -37893,6 +39835,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295916.mp4",
             "https://storage.yandexcloud.net/signs-signs/320412.mp4"
+        ],
+        "recognitionText": [
+            "скромный"
         ]
     },
     "6806": {
@@ -38063,6 +40008,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "продолжать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/225059.mp4"
+        ],
+        "recognitionText": [
+            "продолжать"
         ]
     },
     "6834": {
@@ -38070,6 +40018,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "правильный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/224642.mp4"
+        ],
+        "recognitionText": [
+            "правильный"
         ]
     },
     "6835": {
@@ -38127,6 +40078,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "навсегда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228607.mp4"
+        ],
+        "recognitionText": [
+            "навсегда"
         ]
     },
     "6850": {
@@ -38141,6 +40095,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Бог",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295184.mp4"
+        ],
+        "recognitionText": [
+            "бог"
         ]
     },
     "6852": {
@@ -38179,6 +40136,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100412.mp4",
             "https://storage.yandexcloud.net/signs-signs/349208.mp4"
+        ],
+        "recognitionText": [
+            "ненавидеть"
         ]
     },
     "6858": {
@@ -38228,6 +40188,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ни",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227287.mp4"
+        ],
+        "recognitionText": [
+            "ни"
         ]
     },
     "6869": {
@@ -38272,6 +40235,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "гордый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295309.mp4"
+        ],
+        "recognitionText": [
+            "гордый"
         ]
     },
     "6878": {
@@ -38286,6 +40252,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "очередь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296268.mp4"
+        ],
+        "recognitionText": [
+            "очередь"
         ]
     },
     "6880": {
@@ -38293,6 +40262,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "читать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296188.mp4"
+        ],
+        "recognitionText": [
+            "читать"
         ]
     },
     "6881": {
@@ -38300,6 +40272,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мятежный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296244.mp4"
+        ],
+        "recognitionText": [
+            "мятежный"
         ]
     },
     "6882": {
@@ -38308,6 +40283,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351590.mp4",
             "https://storage.yandexcloud.net/signs-signs/295943.mp4"
+        ],
+        "recognitionText": [
+            "сожалеть"
         ]
     },
     "6883": {
@@ -38323,6 +40301,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112280.mp4",
             "https://storage.yandexcloud.net/signs-signs/296300.mp4"
+        ],
+        "recognitionText": [
+            "повторять"
         ]
     },
     "6885": {
@@ -38345,6 +40326,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "она",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227372.mp4"
+        ],
+        "recognitionText": [
+            "она"
         ]
     },
     "6888": {
@@ -38359,6 +40343,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "искренний",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228242.mp4"
+        ],
+        "recognitionText": [
+            "искренний"
         ]
     },
     "6891": {
@@ -38366,6 +40353,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ситуация",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295906.mp4"
+        ],
+        "recognitionText": [
+            "ситуация"
         ]
     },
     "6892": {
@@ -38380,6 +40370,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "так себе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227290.mp4"
+        ],
+        "recognitionText": [
+            "так себе"
         ]
     },
     "6894": {
@@ -38388,6 +40381,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227962.mp4",
             "https://storage.yandexcloud.net/signs-signs/318962.mp4"
+        ],
+        "recognitionText": [
+            "звезда"
         ]
     },
     "6895": {
@@ -38419,6 +40415,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/140332.mp4",
             "https://storage.yandexcloud.net/signs-signs/349183.mp4"
+        ],
+        "recognitionText": [
+            "уверенный"
         ]
     },
     "6899": {
@@ -38455,6 +40454,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "срочный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296024.mp4"
+        ],
+        "recognitionText": [
+            "срочный"
         ]
     },
     "6906": {
@@ -38581,6 +40583,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "совершать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295940.mp4"
+        ],
+        "recognitionText": [
+            "совершать"
         ]
     },
     "6932": {
@@ -38660,6 +40665,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227076.mp4",
             "https://storage.yandexcloud.net/signs-signs/320458.mp4"
+        ],
+        "recognitionText": [
+            "составлять"
         ]
     },
     "6946": {
@@ -38688,6 +40696,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "самомнение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295888.mp4"
+        ],
+        "recognitionText": [
+            "самомнение"
         ]
     },
     "6952": {
@@ -39060,6 +41071,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223550.mp4",
             "https://storage.yandexcloud.net/signs-signs/351447.mp4"
+        ],
+        "recognitionText": [
+            "пара"
         ]
     },
     "7022": {
@@ -39074,6 +41088,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "смелость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/225104.mp4"
+        ],
+        "recognitionText": [
+            "смелость"
         ]
     },
     "7024": {
@@ -39089,6 +41106,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320510.mp4",
             "https://storage.yandexcloud.net/signs-signs/227215.mp4"
+        ],
+        "recognitionText": [
+            "суд"
         ]
     },
     "7027": {
@@ -39147,6 +41167,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/225122.mp4",
             "https://storage.yandexcloud.net/signs-signs/317391.mp4"
+        ],
+        "recognitionText": [
+            "создавать"
         ]
     },
     "7041": {
@@ -39240,6 +41263,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "корона",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181815.mp4"
+        ],
+        "recognitionText": [
+            "корона"
         ]
     },
     "7059": {
@@ -39254,6 +41280,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "жестокий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181433.mp4"
+        ],
+        "recognitionText": [
+            "жестокий"
         ]
     },
     "7061": {
@@ -39387,6 +41416,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "миленький",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181867.mp4"
+        ],
+        "recognitionText": [
+            "миленький"
         ]
     },
     "7083": {
@@ -39468,6 +41500,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99925.mp4",
             "https://storage.yandexcloud.net/signs-signs/295924.mp4"
+        ],
+        "recognitionText": [
+            "случаться"
         ]
     },
     "7098": {
@@ -39519,6 +41554,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296071.mp4",
             "https://storage.yandexcloud.net/signs-signs/296070.mp4"
+        ],
+        "recognitionText": [
+            "только"
         ]
     },
     "7109": {
@@ -39748,6 +41786,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "собственный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295938.mp4"
+        ],
+        "recognitionText": [
+            "собственный"
         ]
     },
     "7150": {
@@ -39755,6 +41796,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вол",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295243.mp4"
+        ],
+        "recognitionText": [
+            "вол"
         ]
     },
     "7151": {
@@ -39909,6 +41953,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "запоздалый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296215.mp4"
+        ],
+        "recognitionText": [
+            "запоздалый"
         ]
     },
     "7184": {
@@ -39924,6 +41971,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316015.mp4",
             "https://storage.yandexcloud.net/signs-signs/320860.mp4"
+        ],
+        "recognitionText": [
+            "задача"
         ]
     },
     "7186": {
@@ -40023,15 +42073,18 @@ export let dictionaryData: DictionaryEntry = {
         "text": "временный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295774.mp4"
+        ],
+        "recognitionText": [
+            "временный"
         ]
     },
-	"7210": {
+    "7210": {
         "id": 7210,
         "text": "Десять тысяч / 10000",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296455.mp4",
-			"https://storage.yandexcloud.net/signs-signs/296815.mp4",
-			"https://storage.yandexcloud.net/signs-signs/296815.mp4"
+            "https://storage.yandexcloud.net/signs-signs/296815.mp4",
+            "https://storage.yandexcloud.net/signs-signs/296815.mp4"
         ]
     },
     "7211": {
@@ -40063,6 +42116,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "территория",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320576.mp4"
+        ],
+        "recognitionText": [
+            "территория"
         ]
     },
     "7218": {
@@ -40086,6 +42142,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "тот",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320616.mp4"
+        ],
+        "recognitionText": [
+            "тот"
         ]
     },
     "7223": {
@@ -40101,6 +42160,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "теория",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317507.mp4"
+        ],
+        "recognitionText": [
+            "теория"
         ]
     },
     "7227": {
@@ -40129,6 +42191,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "они",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319213.mp4"
+        ],
+        "recognitionText": [
+            "они"
         ]
     },
     "7233": {
@@ -40143,6 +42208,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "третий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296078.mp4"
+        ],
+        "recognitionText": [
+            "третий"
         ]
     },
     "7235": {
@@ -40158,6 +42226,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "тридцать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296082.mp4"
+        ],
+        "recognitionText": [
+            "тридцать"
         ]
     },
     "7238": {
@@ -40172,6 +42243,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "хотя",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320851.mp4"
+        ],
+        "recognitionText": [
+            "хотя"
         ]
     },
     "7241": {
@@ -40179,6 +42253,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мысль",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319736.mp4"
+        ],
+        "recognitionText": [
+            "мысль"
         ]
     },
     "7242": {
@@ -40207,6 +42284,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "быть потрясенным",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295761.mp4"
+        ],
+        "recognitionText": [
+            "быть потрясенным"
         ]
     },
     "7248": {
@@ -40236,6 +42316,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320880.mp4",
             "https://storage.yandexcloud.net/signs-signs/320878.mp4"
+        ],
+        "recognitionText": [
+            "через"
         ]
     },
     "7254": {
@@ -40327,6 +42410,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "к",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319022.mp4"
+        ],
+        "recognitionText": [
+            "к"
         ]
     },
     "7279": {
@@ -40488,6 +42574,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "башенные часы",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295754.mp4"
+        ],
+        "recognitionText": [
+            "башенные часы"
         ]
     },
     "7323": {
@@ -40565,6 +42654,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "поднос",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296307.mp4"
+        ],
+        "recognitionText": [
+            "поднос"
         ]
     },
     "7346": {
@@ -40581,6 +42673,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/319193.mp4",
             "https://storage.yandexcloud.net/signs-signs/351512.mp4",
             "https://storage.yandexcloud.net/signs-signs/321291.mp4"
+        ],
+        "recognitionText": [
+            "огромный"
         ]
     },
     "7349": {
@@ -40710,7 +42805,7 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/295785.mp4"
         ]
     },
-	"7388": {
+    "7388": {
         "id": 7388,
         "text": "12 часов",
         "gifSource": [
@@ -40722,6 +42817,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дважды",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295784.mp4"
+        ],
+        "recognitionText": [
+            "дважды"
         ]
     },
     "7392": {
@@ -40738,11 +42836,14 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/318736.mp4"
         ]
     },
-	"7397": {
+    "7397": {
         "id": 7397,
         "text": "2 часа",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295705.mp4"
+        ],
+        "recognitionText": [
+            "2 часа"
         ]
     },
     "7399": {
@@ -40750,6 +42851,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "тип",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320582.mp4"
+        ],
+        "recognitionText": [
+            "тип"
         ]
     },
     "7402": {
@@ -40835,6 +42939,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "гений",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295287.mp4"
+        ],
+        "recognitionText": [
+            "гений"
         ]
     },
     "7427": {
@@ -40842,6 +42949,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "нежный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227274.mp4"
+        ],
+        "recognitionText": [
+            "нежный"
         ]
     },
     "7428": {
@@ -40850,6 +42960,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296305.mp4",
             "https://storage.yandexcloud.net/signs-signs/223601.mp4"
+        ],
+        "recognitionText": [
+            "подлинный"
         ]
     },
     "7429": {
@@ -40914,6 +43027,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112282.mp4",
             "https://storage.yandexcloud.net/signs-signs/296302.mp4"
+        ],
+        "recognitionText": [
+            "подарок"
         ]
     },
     "7438": {
@@ -40949,6 +43065,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "радостный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295838.mp4"
+        ],
+        "recognitionText": [
+            "радостный"
         ]
     },
     "7444": {
@@ -40964,6 +43083,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "взгляд",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295217.mp4"
+        ],
+        "recognitionText": [
+            "взгляд"
         ]
     },
     "7448": {
@@ -40993,6 +43115,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "идти",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227981.mp4"
+        ],
+        "recognitionText": [
+            "идти"
         ]
     },
     "7453": {
@@ -41000,6 +43125,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "глотать жадно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319071.mp4"
+        ],
+        "recognitionText": [
+            "глотать жадно"
         ]
     },
     "7454": {
@@ -41007,6 +43135,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кубок",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319297.mp4"
+        ],
+        "recognitionText": [
+            "кубок"
         ]
     },
     "7455": {
@@ -41106,6 +43237,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "постепенный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351514.mp4"
+        ],
+        "recognitionText": [
+            "постепенный"
         ]
     },
     "7475": {
@@ -41121,6 +43255,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "выпуск",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295263.mp4"
+        ],
+        "recognitionText": [
+            "выпуск"
         ]
     },
     "7477": {
@@ -41178,6 +43315,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "благодарность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295756.mp4"
+        ],
+        "recognitionText": [
+            "благодарность"
         ]
     },
     "7488": {
@@ -41207,6 +43347,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227561.mp4",
             "https://storage.yandexcloud.net/signs-signs/295794.mp4"
+        ],
+        "recognitionText": [
+            "жадность"
         ]
     },
     "7492": {
@@ -41236,6 +43379,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "горевать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295311.mp4"
+        ],
+        "recognitionText": [
+            "горевать"
         ]
     },
     "7497": {
@@ -41285,6 +43431,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "брюзжать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295757.mp4"
+        ],
+        "recognitionText": [
+            "брюзжать"
         ]
     },
     "7508": {
@@ -41292,6 +43441,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рычание",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320060.mp4"
+        ],
+        "recognitionText": [
+            "рычание"
         ]
     },
     "7509": {
@@ -41367,6 +43519,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "жадно есть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/297096.mp4"
+        ],
+        "recognitionText": [
+            "жадно есть"
         ]
     },
     "7528": {
@@ -41593,6 +43748,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "острый ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/139232.mp4"
+        ],
+        "recognitionText": [
+            "острый"
         ]
     },
     "7569": {
@@ -41742,6 +43900,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "посольство",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/139172.mp4"
+        ],
+        "recognitionText": [
+            "посольство"
         ]
     },
     "7594": {
@@ -41756,6 +43917,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "амбициозный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99650.mp4"
+        ],
+        "recognitionText": [
+            "амбициозный"
         ]
     },
     "7596": {
@@ -41827,6 +43991,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дух",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176581.mp4"
+        ],
+        "recognitionText": [
+            "дух"
         ]
     },
     "7606": {
@@ -41886,6 +44053,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100426.mp4",
             "https://storage.yandexcloud.net/signs-signs/100425.mp4"
+        ],
+        "recognitionText": [
+            "объявление"
         ]
     },
     "7618": {
@@ -41908,6 +44078,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "иначе",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99534.mp4"
+        ],
+        "recognitionText": [
+            "иначе"
         ]
     },
     "7623": {
@@ -41929,6 +44102,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лицо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100237.mp4"
+        ],
+        "recognitionText": [
+            "лицо"
         ]
     },
     "7630": {
@@ -42000,6 +44176,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99729.mp4",
             "https://storage.yandexcloud.net/signs-signs/319938.mp4"
+        ],
+        "recognitionText": [
+            "работать"
         ]
     },
     "7641": {
@@ -42285,6 +44464,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100399.mp4",
             "https://storage.yandexcloud.net/signs-signs/316335.mp4"
+        ],
+        "recognitionText": [
+            "назад"
         ]
     },
     "7697": {
@@ -42383,6 +44565,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "детский",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99800.mp4"
+        ],
+        "recognitionText": [
+            "детский"
         ]
     },
     "7716": {
@@ -42412,6 +44597,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295332.mp4",
             "https://storage.yandexcloud.net/signs-signs/295331.mp4"
+        ],
+        "recognitionText": [
+            "делать выводы"
         ]
     },
     "7723": {
@@ -42516,6 +44704,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227969.mp4",
             "https://storage.yandexcloud.net/signs-signs/99909.mp4"
+        ],
+        "recognitionText": [
+            "знакомый"
         ]
     },
     "7743": {
@@ -42523,6 +44714,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "подтверждение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223606.mp4"
+        ],
+        "recognitionText": [
+            "подтверждение"
         ]
     },
     "7744": {
@@ -42532,6 +44726,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/99977.mp4",
             "https://storage.yandexcloud.net/signs-signs/319269.mp4",
             "https://storage.yandexcloud.net/signs-signs/99978.mp4"
+        ],
+        "recognitionText": [
+            "беспокоиться"
         ]
     },
     "7745": {
@@ -42574,6 +44771,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "одержимый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296322.mp4"
+        ],
+        "recognitionText": [
+            "одержимый"
         ]
     },
     "7755": {
@@ -42611,6 +44811,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296065.mp4",
             "https://storage.yandexcloud.net/signs-signs/99589.mp4"
+        ],
+        "recognitionText": [
+            "терпеть"
         ]
     },
     "7760": {
@@ -42618,6 +44821,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "непреклонный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99674.mp4"
+        ],
+        "recognitionText": [
+            "непреклонный"
         ]
     },
     "7761": {
@@ -42655,6 +44861,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351586.mp4",
             "https://storage.yandexcloud.net/signs-signs/318923.mp4"
+        ],
+        "recognitionText": [
+            "восхищаться"
         ]
     },
     "7768": {
@@ -42832,6 +45041,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227387.mp4",
             "https://storage.yandexcloud.net/signs-signs/107542.mp4"
+        ],
+        "recognitionText": [
+            "откладывать"
         ]
     },
     "7802": {
@@ -42920,6 +45132,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "разрыдаться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/225078.mp4"
+        ],
+        "recognitionText": [
+            "разрыдаться"
         ]
     },
     "7822": {
@@ -43027,6 +45242,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сообщение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295948.mp4"
+        ],
+        "recognitionText": [
+            "сообщение"
         ]
     },
     "7842": {
@@ -43147,6 +45365,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "круг",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351415.mp4"
+        ],
+        "recognitionText": [
+            "круг"
         ]
     },
     "7864": {
@@ -43260,6 +45481,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223243.mp4",
             "https://storage.yandexcloud.net/signs-signs/296259.mp4"
+        ],
+        "recognitionText": [
+            "определять"
         ]
     },
     "7887": {
@@ -43388,6 +45612,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "динозавр",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/349198.mp4"
+        ],
+        "recognitionText": [
+            "динозавр"
         ]
     },
     "7906": {
@@ -43410,6 +45637,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "проводить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/225057.mp4"
+        ],
+        "recognitionText": [
+            "проводить"
         ]
     },
     "7909": {
@@ -43487,6 +45717,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рассеянный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/139221.mp4"
+        ],
+        "recognitionText": [
+            "рассеянный"
         ]
     },
     "7921": {
@@ -43509,6 +45742,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "зоопарк",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/139170.mp4"
+        ],
+        "recognitionText": [
+            "зоопарк"
         ]
     },
     "7925": {
@@ -43523,6 +45759,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "документ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295361.mp4"
+        ],
+        "recognitionText": [
+            "документ"
         ]
     },
     "7927": {
@@ -43551,6 +45790,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "окунать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99667.mp4"
+        ],
+        "recognitionText": [
+            "окунать"
         ]
     },
     "7932": {
@@ -43607,6 +45849,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "хороший",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/349239.mp4"
+        ],
+        "recognitionText": [
+            "хороший"
         ]
     },
     "7943": {
@@ -43628,6 +45873,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "день и ночь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99789.mp4"
+        ],
+        "recognitionText": [
+            "день и ночь"
         ]
     },
     "7947": {
@@ -43663,6 +45911,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "однако",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100429.mp4"
+        ],
+        "recognitionText": [
+            "однако"
         ]
     },
     "7953": {
@@ -43740,6 +45991,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "после",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100054.mp4"
+        ],
+        "recognitionText": [
+            "после"
         ]
     },
     "7965": {
@@ -43761,6 +46015,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "действительно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99784.mp4"
+        ],
+        "recognitionText": [
+            "действительно"
         ]
     },
     "7971": {
@@ -43803,6 +46060,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "недобрый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99868.mp4"
+        ],
+        "recognitionText": [
+            "недобрый"
         ]
     },
     "7979": {
@@ -43839,6 +46099,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295190.mp4",
             "https://storage.yandexcloud.net/signs-signs/318743.mp4"
+        ],
+        "recognitionText": [
+            "заниматься"
         ]
     },
     "7986": {
@@ -43854,6 +46117,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112125.mp4",
             "https://storage.yandexcloud.net/signs-signs/99676.mp4"
+        ],
+        "recognitionText": [
+            "опыт"
         ]
     },
     "7988": {
@@ -43890,6 +46156,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вечность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100010.mp4"
+        ],
+        "recognitionText": [
+            "вечность"
         ]
     },
     "7993": {
@@ -43897,6 +46166,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "существовать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99581.mp4"
+        ],
+        "recognitionText": [
+            "существовать"
         ]
     },
     "7994": {
@@ -43964,6 +46236,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "факт",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105128.mp4"
+        ],
+        "recognitionText": [
+            "факт"
         ]
     },
     "8009": {
@@ -43992,6 +46267,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "опасный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99669.mp4"
+        ],
+        "recognitionText": [
+            "опасный"
         ]
     },
     "8015": {
@@ -44021,6 +46299,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "скучать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99918.mp4"
+        ],
+        "recognitionText": [
+            "скучать"
         ]
     },
     "8020": {
@@ -44035,6 +46316,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "женский",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99876.mp4"
+        ],
+        "recognitionText": [
+            "женский"
         ]
     },
     "8023": {
@@ -44085,6 +46369,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "фирма",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100213.mp4"
+        ],
+        "recognitionText": [
+            "фирма"
         ]
     },
     "8032": {
@@ -44113,6 +46400,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "перо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296284.mp4"
+        ],
+        "recognitionText": [
+            "перо"
         ]
     },
     "8038": {
@@ -44120,6 +46410,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "самый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351428.mp4"
+        ],
+        "recognitionText": [
+            "самый"
         ]
     },
     "8040": {
@@ -44207,6 +46500,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/295040.mp4",
             "https://storage.yandexcloud.net/signs-signs/99598.mp4",
             "https://storage.yandexcloud.net/signs-signs/140191.mp4"
+        ],
+        "recognitionText": [
+            "требовать"
         ]
     },
     "8055": {
@@ -44316,6 +46612,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вызывать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100087.mp4"
+        ],
+        "recognitionText": [
+            "вызывать"
         ]
     },
     "8074": {
@@ -44352,6 +46651,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227650.mp4",
             "https://storage.yandexcloud.net/signs-signs/99759.mp4"
+        ],
+        "recognitionText": [
+            "свобода"
         ]
     },
     "8080": {
@@ -44359,6 +46661,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "марка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100389.mp4"
+        ],
+        "recognitionText": [
+            "марка"
         ]
     },
     "8081": {
@@ -44394,6 +46699,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "из",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99527.mp4"
+        ],
+        "recognitionText": [
+            "из"
         ]
     },
     "8087": {
@@ -44401,6 +46709,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "нахальный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100407.mp4"
+        ],
+        "recognitionText": [
+            "нахальный"
         ]
     },
     "8088": {
@@ -44430,6 +46741,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "первый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99710.mp4"
+        ],
+        "recognitionText": [
+            "первый"
         ]
     },
     "8092": {
@@ -44561,6 +46875,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "предыдущий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100133.mp4"
+        ],
+        "recognitionText": [
+            "предыдущий"
         ]
     },
     "8121": {
@@ -44618,6 +46935,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320445.mp4",
             "https://storage.yandexcloud.net/signs-signs/99937.mp4"
+        ],
+        "recognitionText": [
+            "сожаление"
         ]
     },
     "8131": {
@@ -44632,6 +46952,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "продлевать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100155.mp4"
+        ],
+        "recognitionText": [
+            "продлевать"
         ]
     },
     "8134": {
@@ -44663,6 +46986,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319884.mp4",
             "https://storage.yandexcloud.net/signs-signs/100053.mp4"
+        ],
+        "recognitionText": [
+            "последний"
         ]
     },
     "8142": {
@@ -44677,6 +47003,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "осторожный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99689.mp4"
+        ],
+        "recognitionText": [
+            "осторожный"
         ]
     },
     "8144": {
@@ -44735,6 +47064,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "разумный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99735.mp4"
+        ],
+        "recognitionText": [
+            "разумный"
         ]
     },
     "8158": {
@@ -44780,6 +47112,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223577.mp4",
             "https://storage.yandexcloud.net/signs-signs/100432.mp4"
+        ],
+        "recognitionText": [
+            "подавлять"
         ]
     },
     "8168": {
@@ -44838,6 +47173,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "генерал",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295281.mp4"
+        ],
+        "recognitionText": [
+            "генерал"
         ]
     },
     "8181": {
@@ -44936,6 +47274,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "старик",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99954.mp4"
+        ],
+        "recognitionText": [
+            "старик"
         ]
     },
     "8206": {
@@ -45000,6 +47341,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295258.mp4",
             "https://storage.yandexcloud.net/signs-signs/133751.mp4"
+        ],
+        "recognitionText": [
+            "входить"
         ]
     },
     "8216": {
@@ -45007,6 +47351,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "выходить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133755.mp4"
+        ],
+        "recognitionText": [
+            "выходить"
         ]
     },
     "8219": {
@@ -45150,6 +47497,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "поддержка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100031.mp4"
+        ],
+        "recognitionText": [
+            "поддержка"
         ]
     },
     "8251": {
@@ -45215,6 +47565,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99881.mp4",
             "https://storage.yandexcloud.net/signs-signs/351585.mp4"
+        ],
+        "recognitionText": [
+            "жуткий"
         ]
     },
     "8265": {
@@ -45236,6 +47589,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "называть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100402.mp4"
+        ],
+        "recognitionText": [
+            "называть"
         ]
     },
     "8269": {
@@ -45250,6 +47606,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "небо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100408.mp4"
+        ],
+        "recognitionText": [
+            "небо"
         ]
     },
     "8271": {
@@ -45328,6 +47687,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "надеяться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100397.mp4"
+        ],
+        "recognitionText": [
+            "надеяться"
         ]
     },
     "8283": {
@@ -45349,6 +47711,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "у",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99603.mp4"
+        ],
+        "recognitionText": [
+            "у"
         ]
     },
     "8289": {
@@ -45407,6 +47772,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320849.mp4",
             "https://storage.yandexcloud.net/signs-signs/100454.mp4"
+        ],
+        "recognitionText": [
+            "хозяин"
         ]
     },
     "8301": {
@@ -45428,6 +47796,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "половина",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351505.mp4"
+        ],
+        "recognitionText": [
+            "половина"
         ]
     },
     "8309": {
@@ -45464,6 +47835,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "правша",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/139216.mp4"
+        ],
+        "recognitionText": [
+            "правша"
         ]
     },
     "8319": {
@@ -45545,14 +47919,14 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/295195.mp4"
         ]
     },
-	"8332": {
+    "8332": {
         "id": 8332,
         "text": "Семь сорок пять / 7:45",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176641.mp4"
         ]
     },
-	"8333": {
+    "8333": {
         "id": 8333,
         "text": "Семь сорок / 7:40",
         "gifSource": [
@@ -45578,6 +47952,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "век",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176707.mp4"
+        ],
+        "recognitionText": [
+            "век"
         ]
     },
     "8345": {
@@ -45600,6 +47977,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296008.mp4",
             "https://storage.yandexcloud.net/signs-signs/227743.mp4"
+        ],
+        "recognitionText": [
+            "сочувствие"
         ]
     },
     "8349": {
@@ -45621,6 +48001,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вкусный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176725.mp4"
+        ],
+        "recognitionText": [
+            "вкусный"
         ]
     },
     "8352": {
@@ -45635,6 +48018,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "не выносить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296249.mp4"
+        ],
+        "recognitionText": [
+            "не выносить"
         ]
     },
     "8354": {
@@ -45642,6 +48028,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пренебрежение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296345.mp4"
+        ],
+        "recognitionText": [
+            "пренебрежение"
         ]
     },
     "8355": {
@@ -45656,6 +48045,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "предложить тост",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296341.mp4"
+        ],
+        "recognitionText": [
+            "предложить тост"
         ]
     },
     "8357": {
@@ -45691,6 +48083,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "чувствовать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296190.mp4"
+        ],
+        "recognitionText": [
+            "чувствовать"
         ]
     },
     "8364": {
@@ -45698,6 +48093,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "разъярённый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295179.mp4"
+        ],
+        "recognitionText": [
+            "разъярённый"
         ]
     },
     "8365": {
@@ -45748,6 +48146,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316157.mp4",
             "https://storage.yandexcloud.net/signs-signs/228353.mp4"
+        ],
+        "recognitionText": [
+            "ключ"
         ]
     },
     "8375": {
@@ -45820,6 +48221,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "никто",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227288.mp4"
+        ],
+        "recognitionText": [
+            "никто"
         ]
     },
     "8387": {
@@ -45890,6 +48294,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "овца",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227328.mp4"
+        ],
+        "recognitionText": [
+            "овца"
         ]
     },
     "8401": {
@@ -45925,6 +48332,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "зрелищный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296222.mp4"
+        ],
+        "recognitionText": [
+            "зрелищный"
         ]
     },
     "8407": {
@@ -45953,6 +48363,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "подозревать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296309.mp4"
+        ],
+        "recognitionText": [
+            "подозревать"
         ]
     },
     "8414": {
@@ -45967,6 +48380,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "запасливый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296214.mp4"
+        ],
+        "recognitionText": [
+            "запасливый"
         ]
     },
     "8419": {
@@ -46437,6 +48853,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "оценка ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/106046.mp4"
+        ],
+        "recognitionText": [
+            "оценка"
         ]
     },
     "8501": {
@@ -47280,6 +49699,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "переход",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/136959.mp4"
+        ],
+        "recognitionText": [
+            "переход"
         ]
     },
     "8633": {
@@ -47752,6 +50174,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "участие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105125.mp4"
+        ],
+        "recognitionText": [
+            "участие"
         ]
     },
     "8715": {
@@ -48355,6 +50780,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100706.mp4",
             "https://storage.yandexcloud.net/signs-signs/176090.mp4"
+        ],
+        "recognitionText": [
+            "сколько"
         ]
     },
     "8822": {
@@ -48546,6 +50974,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Что?",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112250.mp4"
+        ],
+        "recognitionText": [
+            "что"
         ]
     },
     "8857": {
@@ -48595,6 +51026,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Кто?",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/112308.mp4"
+        ],
+        "recognitionText": [
+            "кто"
         ]
     },
     "8866": {
@@ -48646,6 +51080,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/228562.mp4",
             "https://storage.yandexcloud.net/signs-signs/295215.mp4",
             "https://storage.yandexcloud.net/signs-signs/294935.mp4"
+        ],
+        "recognitionText": [
+            "материал"
         ]
     },
     "8879": {
@@ -48706,6 +51143,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вера",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295770.mp4"
+        ],
+        "recognitionText": [
+            "вера"
         ]
     },
     "8887": {
@@ -48776,6 +51216,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "судьба",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296045.mp4"
+        ],
+        "recognitionText": [
+            "судьба"
         ]
     },
     "8903": {
@@ -48783,6 +51226,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "слабость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295918.mp4"
+        ],
+        "recognitionText": [
+            "слабость"
         ]
     },
     "8904": {
@@ -48818,6 +51264,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кормить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228371.mp4"
+        ],
+        "recognitionText": [
+            "кормить"
         ]
     },
     "8910": {
@@ -48868,6 +51317,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351467.mp4",
             "https://storage.yandexcloud.net/signs-signs/351411.mp4"
+        ],
+        "recognitionText": [
+            "немного"
         ]
     },
     "8920": {
@@ -48904,6 +51356,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пятнадцать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295831.mp4"
+        ],
+        "recognitionText": [
+            "пятнадцать"
         ]
     },
     "8927": {
@@ -48925,6 +51380,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пятьдесят",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295834.mp4"
+        ],
+        "recognitionText": [
+            "пятьдесят"
         ]
     },
     "8932": {
@@ -48946,6 +51404,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "палец",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296272.mp4"
+        ],
+        "recognitionText": [
+            "палец"
         ]
     },
     "8937": {
@@ -49172,6 +51633,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228059.mp4",
             "https://storage.yandexcloud.net/signs-signs/295818.mp4"
+        ],
+        "recognitionText": [
+            "прощать"
         ]
     },
     "8988": {
@@ -49186,6 +51650,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "бывший",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295760.mp4"
+        ],
+        "recognitionText": [
+            "бывший"
         ]
     },
     "8990": {
@@ -49236,6 +51703,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "четырнадцать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296187.mp4"
+        ],
+        "recognitionText": [
+            "четырнадцать"
         ]
     },
     "8998": {
@@ -49287,6 +51757,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "испуг",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296037.mp4"
+        ],
+        "recognitionText": [
+            "испуг"
         ]
     },
     "9006": {
@@ -49338,6 +51811,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "суматоха",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295755.mp4"
+        ],
+        "recognitionText": [
+            "суматоха"
         ]
     },
     "9014": {
@@ -49348,6 +51824,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/228257.mp4",
             "https://storage.yandexcloud.net/signs-signs/228259.mp4",
             "https://storage.yandexcloud.net/signs-signs/296227.mp4"
+        ],
+        "recognitionText": [
+            "каждый"
         ]
     },
     "9015": {
@@ -49405,6 +51884,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "обучать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227324.mp4"
+        ],
+        "recognitionText": [
+            "обучать"
         ]
     },
     "9034": {
@@ -49433,6 +51915,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "восемнадцать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295244.mp4"
+        ],
+        "recognitionText": [
+            "восемнадцать"
         ]
     },
     "9039": {
@@ -49440,6 +51925,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "восемьдесят",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295246.mp4"
+        ],
+        "recognitionText": [
+            "восемьдесят"
         ]
     },
     "9040": {
@@ -49448,6 +51936,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228099.mp4",
             "https://storage.yandexcloud.net/signs-signs/317369.mp4"
+        ],
+        "recognitionText": [
+            "сложный"
         ]
     },
     "9041": {
@@ -49512,6 +52003,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "одиннадцать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227343.mp4"
+        ],
+        "recognitionText": [
+            "одиннадцать"
         ]
     },
     "9053": {
@@ -49687,6 +52181,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "подниматься",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351434.mp4"
+        ],
+        "recognitionText": [
+            "подниматься"
         ]
     },
     "9095": {
@@ -49731,6 +52228,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/107643.mp4",
             "https://storage.yandexcloud.net/signs-signs/295212.mp4",
             "https://storage.yandexcloud.net/signs-signs/227542.mp4"
+        ],
+        "recognitionText": [
+            "вечный"
         ]
     },
     "9104": {
@@ -49753,6 +52253,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "канун",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228265.mp4"
+        ],
+        "recognitionText": [
+            "канун"
         ]
     },
     "9107": {
@@ -49774,6 +52277,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "событие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295939.mp4"
+        ],
+        "recognitionText": [
+            "событие"
         ]
     },
     "9110": {
@@ -49788,6 +52294,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "зло",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227966.mp4"
+        ],
+        "recognitionText": [
+            "зло"
         ]
     },
     "9116": {
@@ -49846,6 +52355,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "возбуждать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295237.mp4"
+        ],
+        "recognitionText": [
+            "возбуждать"
         ]
     },
     "9127": {
@@ -49909,6 +52421,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "объяснять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227325.mp4"
+        ],
+        "recognitionText": [
+            "объяснять"
         ]
     },
     "9138": {
@@ -49987,6 +52502,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "папа",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223549.mp4"
+        ],
+        "recognitionText": [
+            "папа"
         ]
     },
     "9159": {
@@ -49994,6 +52512,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ежедневный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/180138.mp4"
+        ],
+        "recognitionText": [
+            "ежедневный"
         ]
     },
     "9160": {
@@ -50092,6 +52613,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "заявлять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181457.mp4"
+        ],
+        "recognitionText": [
+            "заявлять"
         ]
     },
     "9185": {
@@ -50263,6 +52787,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/180145.mp4",
             "https://storage.yandexcloud.net/signs-signs/318712.mp4"
+        ],
+        "recognitionText": [
+            "желать"
         ]
     },
     "9219": {
@@ -50277,6 +52804,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "отчаянный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223546.mp4"
+        ],
+        "recognitionText": [
+            "отчаянный"
         ]
     },
     "9221": {
@@ -50285,6 +52815,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296458.mp4",
             "https://storage.yandexcloud.net/signs-signs/225027.mp4"
+        ],
+        "recognitionText": [
+            "презирать"
         ]
     },
     "9222": {
@@ -50418,6 +52951,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "переваривать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296277.mp4"
+        ],
+        "recognitionText": [
+            "переваривать"
         ]
     },
     "9252": {
@@ -50475,6 +53011,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "обнаруживать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/223119.mp4"
+        ],
+        "recognitionText": [
+            "обнаруживать"
         ]
     },
     "9268": {
@@ -50517,6 +53056,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "неуважение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296250.mp4"
+        ],
+        "recognitionText": [
+            "неуважение"
         ]
     },
     "9282": {
@@ -50552,6 +53094,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "беспокоить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295178.mp4"
+        ],
+        "recognitionText": [
+            "беспокоить"
         ]
     },
     "9287": {
@@ -50645,6 +53190,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "собачий домик",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295932.mp4"
+        ],
+        "recognitionText": [
+            "собачий домик"
         ]
     },
     "9305": {
@@ -50652,6 +53200,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "доминировать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295369.mp4"
+        ],
+        "recognitionText": [
+            "доминировать"
         ]
     },
     "9306": {
@@ -50701,6 +53252,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "точка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296074.mp4"
+        ],
+        "recognitionText": [
+            "точка"
         ]
     },
     "9314": {
@@ -50722,6 +53276,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вниз",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295232.mp4"
+        ],
+        "recognitionText": [
+            "вниз"
         ]
     },
     "9321": {
@@ -50949,6 +53506,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/318892.mp4",
             "https://storage.yandexcloud.net/signs-signs/106977.mp4",
             "https://storage.yandexcloud.net/signs-signs/294746.mp4"
+        ],
+        "recognitionText": [
+            "внутри"
         ]
     },
     "9365": {
@@ -50957,6 +53517,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107017.mp4",
             "https://storage.yandexcloud.net/signs-signs/181442.mp4"
+        ],
+        "recognitionText": [
+            "задерживать"
         ]
     },
     "9367": {
@@ -50971,6 +53534,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "это",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/136735.mp4"
+        ],
+        "recognitionText": [
+            "это"
         ]
     },
     "9370": {
@@ -51022,6 +53588,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107527.mp4",
             "https://storage.yandexcloud.net/signs-signs/99684.mp4"
+        ],
+        "recognitionText": [
+            "основной"
         ]
     },
     "9382": {
@@ -51137,6 +53706,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296384.mp4",
             "https://storage.yandexcloud.net/signs-signs/100073.mp4"
+        ],
+        "recognitionText": [
+            "восхищение"
         ]
     },
     "9402": {
@@ -51158,6 +53730,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "масса",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100523.mp4"
+        ],
+        "recognitionText": [
+            "масса"
         ]
     },
     "9407": {
@@ -51214,6 +53789,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "прием пищи",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99863.mp4"
+        ],
+        "recognitionText": [
+            "прием пищи"
         ]
     },
     "9416": {
@@ -51355,6 +53933,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319647.mp4",
             "https://storage.yandexcloud.net/signs-signs/99703.mp4"
+        ],
+        "recognitionText": [
+            "память"
         ]
     },
     "9441": {
@@ -51552,6 +54133,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "изменять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99530.mp4"
+        ],
+        "recognitionText": [
+            "изменять"
         ]
     },
     "9486": {
@@ -51580,6 +54164,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "момент",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100739.mp4"
+        ],
+        "recognitionText": [
+            "момент"
         ]
     },
     "9492": {
@@ -51650,6 +54237,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "комар",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99564.mp4"
+        ],
+        "recognitionText": [
+            "комар"
         ]
     },
     "9504": {
@@ -51679,6 +54269,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320405.mp4",
             "https://storage.yandexcloud.net/signs-signs/99956.mp4"
+        ],
+        "recognitionText": [
+            "скорбеть"
         ]
     },
     "9508": {
@@ -51756,6 +54349,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кружка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100514.mp4"
+        ],
+        "recognitionText": [
+            "кружка"
         ]
     },
     "9520": {
@@ -51884,6 +54480,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "наивный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105342.mp4"
+        ],
+        "recognitionText": [
+            "наивный"
         ]
     },
     "9539": {
@@ -51913,6 +54512,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316481.mp4",
             "https://storage.yandexcloud.net/signs-signs/99692.mp4"
+        ],
+        "recognitionText": [
+            "отвратительный"
         ]
     },
     "9543": {
@@ -51955,6 +54557,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "аккуратный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99641.mp4"
+        ],
+        "recognitionText": [
+            "аккуратный"
         ]
     },
     "9551": {
@@ -51963,6 +54568,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227284.mp4",
             "https://storage.yandexcloud.net/signs-signs/105374.mp4"
+        ],
+        "recognitionText": [
+            "необходимый"
         ]
     },
     "9552": {
@@ -51984,6 +54592,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "отрицательный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99697.mp4"
+        ],
+        "recognitionText": [
+            "отрицательный"
         ]
     },
     "9556": {
@@ -51998,6 +54609,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "нерв",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/105376.mp4"
+        ],
+        "recognitionText": [
+            "нерв"
         ]
     },
     "9558": {
@@ -52005,6 +54619,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "гнездо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100106.mp4"
+        ],
+        "recognitionText": [
+            "гнездо"
         ]
     },
     "9559": {
@@ -52048,6 +54665,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99922.mp4",
             "https://storage.yandexcloud.net/signs-signs/320416.mp4"
+        ],
+        "recognitionText": [
+            "следующий"
         ]
     },
     "9568": {
@@ -52055,9 +54675,12 @@ export let dictionaryData: DictionaryEntry = {
         "text": "откусывание",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107581.mp4"
+        ],
+        "recognitionText": [
+            "откусывание"
         ]
     },
-	"9570": {
+    "9570": {
         "id": 9570,
         "text": "Пять центов / 5 центов",
         "gifSource": [
@@ -52133,6 +54756,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "не",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/349192.mp4"
+        ],
+        "recognitionText": [
+            "не"
         ]
     },
     "9583": {
@@ -52154,6 +54780,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ничего",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107632.mp4"
+        ],
+        "recognitionText": [
+            "ничего"
         ]
     },
     "9587": {
@@ -52989,7 +55618,7 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/112329.mp4"
         ]
     },
-	"9720": {
+    "9720": {
         "id": 9720,
         "text": "2-часовая задержка",
         "gifSource": [
@@ -56401,6 +59030,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318679.mp4",
             "https://storage.yandexcloud.net/signs-signs/351507.mp4"
+        ],
+        "recognitionText": [
+            "достаточный"
         ]
     },
     "10259": {
@@ -56641,6 +59273,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "наглость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176215.mp4"
+        ],
+        "recognitionText": [
+            "наглость"
         ]
     },
     "10304": {
@@ -56669,6 +59304,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "бутылка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176549.mp4"
+        ],
+        "recognitionText": [
+            "бутылка"
         ]
     },
     "10308": {
@@ -56690,6 +59328,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "проныра",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176267.mp4"
+        ],
+        "recognitionText": [
+            "проныра"
         ]
     },
     "10314": {
@@ -56733,6 +59374,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "печаль",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296447.mp4"
+        ],
+        "recognitionText": [
+            "печаль"
         ]
     },
     "10321": {
@@ -56897,6 +59541,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "презрение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176261.mp4"
+        ],
+        "recognitionText": [
+            "презрение"
         ]
     },
     "10348": {
@@ -56904,6 +59551,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "довольство",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227842.mp4"
+        ],
+        "recognitionText": [
+            "довольство"
         ]
     },
     "10350": {
@@ -56933,6 +59583,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "домогаться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176577.mp4"
+        ],
+        "recognitionText": [
+            "домогаться"
         ]
     },
     "10357": {
@@ -56968,6 +59621,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "темнота",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/349236.mp4"
+        ],
+        "recognitionText": [
+            "темнота"
         ]
     },
     "10364": {
@@ -57010,6 +59666,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "обманчивость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176230.mp4"
+        ],
+        "recognitionText": [
+            "обманчивость"
         ]
     },
     "10371": {
@@ -57243,6 +59902,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пир",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176247.mp4"
+        ],
+        "recognitionText": [
+            "пир"
         ]
     },
     "10416": {
@@ -57385,6 +60047,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "милосердный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296422.mp4"
+        ],
+        "recognitionText": [
+            "милосердный"
         ]
     },
     "10443": {
@@ -57392,6 +60057,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "жадный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176583.mp4"
+        ],
+        "recognitionText": [
+            "жадный"
         ]
     },
     "10444": {
@@ -57612,6 +60280,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "добропорядочность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296461.mp4"
+        ],
+        "recognitionText": [
+            "добропорядочность"
         ]
     },
     "10486": {
@@ -57682,6 +60353,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "труд",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227837.mp4"
+        ],
+        "recognitionText": [
+            "труд"
         ]
     },
     "10500": {
@@ -57717,6 +60391,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ленность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176193.mp4"
+        ],
+        "recognitionText": [
+            "ленность"
         ]
     },
     "10508": {
@@ -57852,6 +60529,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "кротость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296421.mp4"
+        ],
+        "recognitionText": [
+            "кротость"
         ]
     },
     "10538": {
@@ -57957,6 +60637,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "нравственность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176210.mp4"
+        ],
+        "recognitionText": [
+            "нравственность"
         ]
     },
     "10557": {
@@ -57965,6 +60648,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351538.mp4",
             "https://storage.yandexcloud.net/signs-signs/351449.mp4"
+        ],
+        "recognitionText": [
+            "множество"
         ]
     },
     "10558": {
@@ -58105,6 +60791,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "личный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315792.mp4"
+        ],
+        "recognitionText": [
+            "личный"
         ]
     },
     "10588": {
@@ -58133,6 +60822,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "жалость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176587.mp4"
+        ],
+        "recognitionText": [
+            "жалость"
         ]
     },
     "10595": {
@@ -58211,6 +60903,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "гордость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176565.mp4"
+        ],
+        "recognitionText": [
+            "гордость"
         ]
     },
     "10612": {
@@ -58226,6 +60921,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "принцип",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319528.mp4"
+        ],
+        "recognitionText": [
+            "принцип"
         ]
     },
     "10616": {
@@ -58345,6 +61043,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "получать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176249.mp4"
+        ],
+        "recognitionText": [
+            "получать"
         ]
     },
     "10641": {
@@ -58396,6 +61097,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "возрадоваться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296382.mp4"
+        ],
+        "recognitionText": [
+            "возрадоваться"
         ]
     },
     "10652": {
@@ -58417,6 +61121,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "покаяние",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296450.mp4"
+        ],
+        "recognitionText": [
+            "покаяние"
         ]
     },
     "10657": {
@@ -58431,6 +61138,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "воскресение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/298222.mp4"
+        ],
+        "recognitionText": [
+            "воскресение"
         ]
     },
     "10660": {
@@ -58445,6 +61155,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "благоговение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296377.mp4"
+        ],
+        "recognitionText": [
+            "благоговение"
         ]
     },
     "10664": {
@@ -58635,6 +61348,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176287.mp4",
             "https://storage.yandexcloud.net/signs-signs/320067.mp4"
+        ],
+        "recognitionText": [
+            "самоконтроль"
         ]
     },
     "10707": {
@@ -58643,6 +61359,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296621.mp4",
             "https://storage.yandexcloud.net/signs-signs/296467.mp4"
+        ],
+        "recognitionText": [
+            "самообман"
         ]
     },
     "10708": {
@@ -58650,6 +61369,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "самопроверка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296468.mp4"
+        ],
+        "recognitionText": [
+            "самопроверка"
         ]
     },
     "10709": {
@@ -58763,6 +61485,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "зрение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176596.mp4"
+        ],
+        "recognitionText": [
+            "зрение"
         ]
     },
     "10729": {
@@ -58806,6 +61531,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "раб",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176275.mp4"
+        ],
+        "recognitionText": [
+            "раб"
         ]
     },
     "10736": {
@@ -58820,6 +61548,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "нерадивый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296426.mp4"
+        ],
+        "recognitionText": [
+            "нерадивый"
         ]
     },
     "10739": {
@@ -58848,6 +61579,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "торжественный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227833.mp4"
+        ],
+        "recognitionText": [
+            "торжественный"
         ]
     },
     "10750": {
@@ -58869,6 +61603,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "душа",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176582.mp4"
+        ],
+        "recognitionText": [
+            "душа"
         ]
     },
     "10754": {
@@ -58876,6 +61613,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "речь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176280.mp4"
+        ],
+        "recognitionText": [
+            "речь"
         ]
     },
     "10755": {
@@ -58890,6 +61630,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "стойкость",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296477.mp4"
+        ],
+        "recognitionText": [
+            "стойкость"
         ]
     },
     "10758": {
@@ -58911,6 +61654,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "страдать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227752.mp4"
+        ],
+        "recognitionText": [
+            "страдать"
         ]
     },
     "10765": {
@@ -59179,6 +61925,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "наблюдательность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296424.mp4"
+        ],
+        "recognitionText": [
+            "наблюдательность"
         ]
     },
     "10823": {
@@ -59224,6 +61973,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319936.mp4",
             "https://storage.yandexcloud.net/signs-signs/349238.mp4"
+        ],
+        "recognitionText": [
+            "работа"
         ]
     },
     "10834": {
@@ -59239,6 +61991,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "гнев",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176563.mp4"
+        ],
+        "recognitionText": [
+            "гнев"
         ]
     },
     "10836": {
@@ -59267,6 +62022,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "всё",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100079.mp4"
+        ],
+        "recognitionText": [
+            "всё"
         ]
     },
     "10843": {
@@ -59281,6 +62039,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "аллигатор",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99646.mp4"
+        ],
+        "recognitionText": [
+            "аллигатор"
         ]
     },
     "10850": {
@@ -59309,6 +62070,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Пока",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/100036.mp4"
+        ],
+        "recognitionText": [
+            "пока"
         ]
     },
     "10858": {
@@ -59323,6 +62087,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/349221.mp4"
+        ],
+        "recognitionText": [
+            "пить"
         ]
     },
     "10860": {
@@ -59365,6 +62132,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "панда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99704.mp4"
+        ],
+        "recognitionText": [
+            "панда"
         ]
     },
     "10876": {
@@ -59575,6 +62345,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "родитель",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107690.mp4"
+        ],
+        "recognitionText": [
+            "родитель"
         ]
     },
     "10919": {
@@ -59778,6 +62551,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "клевать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107170.mp4"
+        ],
+        "recognitionText": [
+            "клевать"
         ]
     },
     "10955": {
@@ -59786,6 +62562,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107528.mp4",
             "https://storage.yandexcloud.net/signs-signs/319590.mp4"
+        ],
+        "recognitionText": [
+            "особенный"
         ]
     },
     "10958": {
@@ -59907,6 +62686,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/349216.mp4",
             "https://storage.yandexcloud.net/signs-signs/318676.mp4"
+        ],
+        "recognitionText": [
+            "домашнее животное"
         ]
     },
     "10985": {
@@ -59935,6 +62717,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "корм для домашних животных",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107514.mp4"
+        ],
+        "recognitionText": [
+            "корм для домашних животных"
         ]
     },
     "10989": {
@@ -60061,6 +62846,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "место для пикника",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/107598.mp4"
+        ],
+        "recognitionText": [
+            "место для пикника"
         ]
     },
     "11007": {
@@ -60544,6 +63332,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/134863.mp4",
             "https://storage.yandexcloud.net/signs-signs/296502.mp4"
+        ],
+        "recognitionText": [
+            "положительный"
         ]
     },
     "11094": {
@@ -60623,6 +63414,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316880.mp4",
             "https://storage.yandexcloud.net/signs-signs/112281.mp4"
+        ],
+        "recognitionText": [
+            "практика"
         ]
     },
     "11106": {
@@ -60687,6 +63481,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сохранять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/135170.mp4"
+        ],
+        "recognitionText": [
+            "сохранять"
         ]
     },
     "11118": {
@@ -60828,6 +63625,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/134985.mp4",
             "https://storage.yandexcloud.net/signs-signs/316951.mp4"
+        ],
+        "recognitionText": [
+            "произносить"
         ]
     },
     "11145": {
@@ -61196,6 +63996,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "достигать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109614.mp4"
+        ],
+        "recognitionText": [
+            "достигать"
         ]
     },
     "11205": {
@@ -61275,6 +64078,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "узнавать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/136677.mp4"
+        ],
+        "recognitionText": [
+            "узнавать"
         ]
     },
     "11219": {
@@ -61419,6 +64225,9 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/319619.mp4",
             "https://storage.yandexcloud.net/signs-signs/319620.mp4",
             "https://storage.yandexcloud.net/signs-signs/112140.mp4"
+        ],
+        "recognitionText": [
+            "относиться"
         ]
     },
     "11244": {
@@ -61581,6 +64390,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "беспокойный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109577.mp4"
+        ],
+        "recognitionText": [
+            "беспокойный"
         ]
     },
     "11274": {
@@ -61759,6 +64571,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "позвонить на сервис",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/134844.mp4"
+        ],
+        "recognitionText": [
+            "позвонить на сервис"
         ]
     },
     "11303": {
@@ -61879,6 +64694,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рычать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/135086.mp4"
+        ],
+        "recognitionText": [
+            "рычать"
         ]
     },
     "11326": {
@@ -62188,6 +65006,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сарказм",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/135097.mp4"
+        ],
+        "recognitionText": [
+            "сарказм"
         ]
     },
     "11380": {
@@ -62573,6 +65394,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сам",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/135091.mp4"
+        ],
+        "recognitionText": [
+            "сам"
         ]
     },
     "11454": {
@@ -62636,6 +65460,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "семнадцать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/135109.mp4"
+        ],
+        "recognitionText": [
+            "семнадцать"
         ]
     },
     "11466": {
@@ -62643,6 +65470,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "семьдесят",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/135111.mp4"
+        ],
+        "recognitionText": [
+            "семьдесят"
         ]
     },
     "11467": {
@@ -62650,6 +65480,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "несколько",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351454.mp4"
+        ],
+        "recognitionText": [
+            "несколько"
         ]
     },
     "11469": {
@@ -62875,6 +65708,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/135193.mp4",
             "https://storage.yandexcloud.net/signs-signs/296664.mp4"
+        ],
+        "recognitionText": [
+            "сторона"
         ]
     },
     "11506": {
@@ -62932,6 +65768,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296996.mp4",
             "https://storage.yandexcloud.net/signs-signs/134799.mp4"
+        ],
+        "recognitionText": [
+            "одновременный"
         ]
     },
     "11516": {
@@ -62939,6 +65778,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "с тех пор как",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/135088.mp4"
+        ],
+        "recognitionText": [
+            "с тех пор как"
         ]
     },
     "11517": {
@@ -62953,6 +65795,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "делать мелкий глоток",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/133760.mp4"
+        ],
+        "recognitionText": [
+            "делать мелкий глоток"
         ]
     },
     "11520": {
@@ -62975,13 +65820,19 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319781.mp4",
             "https://storage.yandexcloud.net/signs-signs/112108.mp4"
+        ],
+        "recognitionText": [
+            "находиться"
         ]
     },
-	"11525": {
+    "11525": {
         "id": 11525,
         "text": "6 часов",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/109378.mp4"
+        ],
+        "recognitionText": [
+            "6 часов"
         ]
     },
     "11529": {
@@ -63171,6 +66022,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "причинять резкую боль",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/139073.mp4"
+        ],
+        "recognitionText": [
+            "причинять резкую боль"
         ]
     },
     "11559": {
@@ -63325,6 +66179,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "социальный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227077.mp4"
+        ],
+        "recognitionText": [
+            "социальный"
         ]
     },
     "11585": {
@@ -63382,6 +66239,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "единственный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/139063.mp4"
+        ],
+        "recognitionText": [
+            "единственный"
         ]
     },
     "11594": {
@@ -63389,6 +66249,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "некоторый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/139053.mp4"
+        ],
+        "recognitionText": [
+            "некоторый"
         ]
     },
     "11595": {
@@ -63530,6 +66393,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "паучья сеть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/139066.mp4"
+        ],
+        "recognitionText": [
+            "паучья сеть"
         ]
     },
     "11621": {
@@ -63714,6 +66580,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317460.mp4",
             "https://storage.yandexcloud.net/signs-signs/136642.mp4"
+        ],
+        "recognitionText": [
+            "сцена"
         ]
     },
     "11649": {
@@ -63742,6 +66611,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "затягивать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181443.mp4"
+        ],
+        "recognitionText": [
+            "затягивать"
         ]
     },
     "11653": {
@@ -63791,6 +66663,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "состояние",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/135168.mp4"
+        ],
+        "recognitionText": [
+            "состояние"
         ]
     },
     "11660": {
@@ -63974,6 +66849,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Стоп",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/181461.mp4"
+        ],
+        "recognitionText": [
+            "стоп"
         ]
     },
     "11694": {
@@ -64079,6 +66957,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "строгий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227211.mp4"
+        ],
+        "recognitionText": [
+            "строгий"
         ]
     },
     "11714": {
@@ -64192,6 +67073,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сумма",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227217.mp4"
+        ],
+        "recognitionText": [
+            "сумма"
         ]
     },
     "11733": {
@@ -64234,6 +67118,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "восход солнца",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176738.mp4"
+        ],
+        "recognitionText": [
+            "восход солнца"
         ]
     },
     "11741": {
@@ -64248,6 +67135,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "руководитель",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296051.mp4"
+        ],
+        "recognitionText": [
+            "руководитель"
         ]
     },
     "11743": {
@@ -64262,6 +67152,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "поставлять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/224613.mp4"
+        ],
+        "recognitionText": [
+            "поставлять"
         ]
     },
     "11746": {
@@ -64354,6 +67247,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "глотать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176748.mp4"
+        ],
+        "recognitionText": [
+            "глотать"
         ]
     },
     "11761": {
@@ -64368,6 +67264,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пот",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/224614.mp4"
+        ],
+        "recognitionText": [
+            "пот"
         ]
     },
     "11763": {
@@ -64593,6 +67492,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "переваривание",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296276.mp4"
+        ],
+        "recognitionText": [
+            "переваривание"
         ]
     },
     "11809": {
@@ -64782,6 +67684,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "поверхностный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296296.mp4"
+        ],
+        "recognitionText": [
+            "поверхностный"
         ]
     },
     "11865": {
@@ -65146,6 +68051,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "добавлять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/99837.mp4"
+        ],
+        "recognitionText": [
+            "добавлять"
         ]
     },
     "12023": {
@@ -65501,6 +68409,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "в настоящее время",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176703.mp4"
+        ],
+        "recognitionText": [
+            "в настоящее время"
         ]
     },
     "12094": {
@@ -65589,6 +68500,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320618.mp4",
             "https://storage.yandexcloud.net/signs-signs/296075.mp4"
+        ],
+        "recognitionText": [
+            "точно"
         ]
     },
     "12115": {
@@ -65645,6 +68559,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "наконец",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228612.mp4"
+        ],
+        "recognitionText": [
+            "наконец"
         ]
     },
     "12124": {
@@ -65652,6 +68569,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ранее",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295854.mp4"
+        ],
+        "recognitionText": [
+            "ранее"
         ]
     },
     "12125": {
@@ -65680,6 +68600,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "перед",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296279.mp4"
+        ],
+        "recognitionText": [
+            "перед"
         ]
     },
     "12129": {
@@ -65715,6 +68638,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "золотой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351392.mp4"
+        ],
+        "recognitionText": [
+            "золотой"
         ]
     },
     "12139": {
@@ -65729,6 +68655,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "парень",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/297092.mp4"
+        ],
+        "recognitionText": [
+            "парень"
         ]
     },
     "12141": {
@@ -65757,6 +68686,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "обнимать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227304.mp4"
+        ],
+        "recognitionText": [
+            "обнимать"
         ]
     },
     "12145": {
@@ -65771,6 +68703,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "в спешке",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295199.mp4"
+        ],
+        "recognitionText": [
+            "в спешке"
         ]
     },
     "12147": {
@@ -65792,6 +68727,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "низкий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351536.mp4"
+        ],
+        "recognitionText": [
+            "низкий"
         ]
     },
     "12155": {
@@ -65806,6 +68744,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "между тем",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/228572.mp4"
+        ],
+        "recognitionText": [
+            "между тем"
         ]
     },
     "12160": {
@@ -67141,6 +70082,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "доминантный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/294802.mp4"
+        ],
+        "recognitionText": [
+            "доминантный"
         ]
     },
     "12525": {
@@ -67611,6 +70555,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "идея",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/294825.mp4"
+        ],
+        "recognitionText": [
+            "идея"
         ]
     },
     "12637": {
@@ -67893,6 +70840,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319617.mp4",
             "https://storage.yandexcloud.net/signs-signs/319618.mp4"
+        ],
+        "recognitionText": [
+            "отмечать"
         ]
     },
     "12721": {
@@ -67900,6 +70850,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "мужественность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296963.mp4"
+        ],
+        "recognitionText": [
+            "мужественность"
         ]
     },
     "12723": {
@@ -68091,6 +71044,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "непрозрачность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351499.mp4"
+        ],
+        "recognitionText": [
+            "непрозрачность"
         ]
     },
     "12777": {
@@ -68196,6 +71152,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "часть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295105.mp4"
+        ],
+        "recognitionText": [
+            "часть"
         ]
     },
     "12795": {
@@ -68344,6 +71303,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "прагматичный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227520.mp4"
+        ],
+        "recognitionText": [
+            "прагматичный"
         ]
     },
     "12835": {
@@ -68695,6 +71657,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "замечать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318742.mp4"
+        ],
+        "recognitionText": [
+            "замечать"
         ]
     },
     "12946": {
@@ -68941,6 +71906,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "использовать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319013.mp4"
+        ],
+        "recognitionText": [
+            "использовать"
         ]
     },
     "13024": {
@@ -69034,14 +72002,14 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/316654.mp4"
         ]
     },
-	"13180": {
+    "13180": {
         "id": 13180,
         "text": "35 миллиметров",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/175893.mp4"
         ]
     },
-	"13181": {
+    "13181": {
         "id": 13181,
         "text": "360 градусов",
         "gifSource": [
@@ -69159,6 +72127,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312428.mp4",
             "https://storage.yandexcloud.net/signs-signs/176145.mp4"
+        ],
+        "recognitionText": [
+            "изменение"
         ]
     },
     "13207": {
@@ -69341,6 +72312,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Центр",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/175873.mp4"
+        ],
+        "recognitionText": [
+            "центр"
         ]
     },
     "13264": {
@@ -69412,6 +72386,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227515.mp4",
             "https://storage.yandexcloud.net/signs-signs/227514.mp4"
+        ],
+        "recognitionText": [
+            "постоянный"
         ]
     },
     "13286": {
@@ -69533,6 +72510,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "отдельный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295023.mp4"
+        ],
+        "recognitionText": [
+            "отдельный"
         ]
     },
     "13333": {
@@ -69659,6 +72639,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "квартира",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/294853.mp4"
+        ],
+        "recognitionText": [
+            "квартира"
         ]
     },
     "13385": {
@@ -69813,6 +72796,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "инициатива",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/294834.mp4"
+        ],
+        "recognitionText": [
+            "инициатива"
         ]
     },
     "13450": {
@@ -70212,6 +73198,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "роль",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317086.mp4"
+        ],
+        "recognitionText": [
+            "роль"
         ]
     },
     "13610": {
@@ -70558,7 +73547,7 @@ export let dictionaryData: DictionaryEntry = {
             "https://storage.yandexcloud.net/signs-signs/320430.mp4"
         ]
     },
-	"13786": {
+    "13786": {
         "id": 13786,
         "text": "360 градусов",
         "gifSource": [
@@ -70627,6 +73616,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "объективный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296984.mp4"
+        ],
+        "recognitionText": [
+            "объективный"
         ]
     },
     "13800": {
@@ -70732,6 +73724,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "интеллектуальный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/294840.mp4"
+        ],
+        "recognitionText": [
+            "интеллектуальный"
         ]
     },
     "13830": {
@@ -70984,6 +73979,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "отсутствие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176154.mp4"
+        ],
+        "recognitionText": [
+            "отсутствие"
         ]
     },
     "13910": {
@@ -70992,6 +73990,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176151.mp4",
             "https://storage.yandexcloud.net/signs-signs/319170.mp4"
+        ],
+        "recognitionText": [
+            "обладать"
         ]
     },
     "13914": {
@@ -71526,6 +74527,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "комментарий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/294875.mp4"
+        ],
+        "recognitionText": [
+            "комментарий"
         ]
     },
     "14027": {
@@ -71872,6 +74876,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "две недели",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/294789.mp4"
+        ],
+        "recognitionText": [
+            "две недели"
         ]
     },
     "14133": {
@@ -72156,6 +75163,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296758.mp4",
             "https://storage.yandexcloud.net/signs-signs/318858.mp4"
+        ],
+        "recognitionText": [
+            "вероятно"
         ]
     },
     "14227": {
@@ -72275,6 +75285,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "рассказывать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227623.mp4"
+        ],
+        "recognitionText": [
+            "рассказывать"
         ]
     },
     "14267": {
@@ -72380,6 +75393,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "происходить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319551.mp4"
+        ],
+        "recognitionText": [
+            "происходить"
         ]
     },
     "14290": {
@@ -72583,6 +75599,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "предусмотрительный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296514.mp4"
+        ],
+        "recognitionText": [
+            "предусмотрительный"
         ]
     },
     "14360": {
@@ -72710,6 +75729,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "квитанция",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318761.mp4"
+        ],
+        "recognitionText": [
+            "квитанция"
         ]
     },
     "14393": {
@@ -72794,6 +75816,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "возвращаться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318901.mp4"
+        ],
+        "recognitionText": [
+            "возвращаться"
         ]
     },
     "14419": {
@@ -72928,6 +75953,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "сдавать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317126.mp4"
+        ],
+        "recognitionText": [
+            "сдавать"
         ]
     },
     "14481": {
@@ -73110,6 +76138,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Плохо!",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176084.mp4"
+        ],
+        "recognitionText": [
+            "плохо"
         ]
     },
     "14558": {
@@ -73166,6 +76197,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "повар",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/227495.mp4"
+        ],
+        "recognitionText": [
+            "повар"
         ]
     },
     "14568": {
@@ -73215,6 +76249,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Хорошо!",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176103.mp4"
+        ],
+        "recognitionText": [
+            "хорошо"
         ]
     },
     "14576": {
@@ -73236,6 +76273,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Как?",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176074.mp4"
+        ],
+        "recognitionText": [
+            "как"
         ]
     },
     "14582": {
@@ -73341,6 +76381,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "каникулы",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316120.mp4"
+        ],
+        "recognitionText": [
+            "каникулы"
         ]
     },
     "14602": {
@@ -73383,6 +76426,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Спасибо",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176094.mp4"
+        ],
+        "recognitionText": [
+            "спасибо"
         ]
     },
     "14609": {
@@ -73446,6 +76492,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Когда?",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176075.mp4"
+        ],
+        "recognitionText": [
+            "когда"
         ]
     },
     "14621": {
@@ -73453,6 +76502,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Где?",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/175995.mp4"
+        ],
+        "recognitionText": [
+            "где"
         ]
     },
     "14622": {
@@ -73460,6 +76512,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Почему?",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/176087.mp4"
+        ],
+        "recognitionText": [
+            "почему"
         ]
     },
     "14623": {
@@ -73530,6 +76585,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "не понимать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/294978.mp4"
+        ],
+        "recognitionText": [
+            "не понимать"
         ]
     },
     "14635": {
@@ -73537,6 +76595,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "не знать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/294975.mp4"
+        ],
+        "recognitionText": [
+            "не знать"
         ]
     },
     "14636": {
@@ -73551,6 +76612,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "не иметь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/294976.mp4"
+        ],
+        "recognitionText": [
+            "не иметь"
         ]
     },
     "14638": {
@@ -74035,6 +77099,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лебедь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315778.mp4"
+        ],
+        "recognitionText": [
+            "лебедь"
         ]
     },
     "14748": {
@@ -74084,6 +77151,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "павлин",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319638.mp4"
+        ],
+        "recognitionText": [
+            "павлин"
         ]
     },
     "14762": {
@@ -74140,6 +77210,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дикое животное",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318666.mp4"
+        ],
+        "recognitionText": [
+            "дикое животное"
         ]
     },
     "14776": {
@@ -74266,6 +77339,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "уж",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320708.mp4"
+        ],
+        "recognitionText": [
+            "уж"
         ]
     },
     "14804": {
@@ -75057,6 +78133,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "гавканье",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/295276.mp4"
+        ],
+        "recognitionText": [
+            "гавканье"
         ]
     },
     "15330": {
@@ -75064,8 +78143,8 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Миллиард / 1000000000",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296947.mp4",
-			"https://storage.yandexcloud.net/signs-signs/316288.mp4",
-			"https://storage.yandexcloud.net/signs-signs/296948.mp4"
+            "https://storage.yandexcloud.net/signs-signs/316288.mp4",
+            "https://storage.yandexcloud.net/signs-signs/296948.mp4"
         ]
     },
     "15368": {
@@ -76001,6 +79080,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "плавник",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319804.mp4"
+        ],
+        "recognitionText": [
+            "плавник"
         ]
     },
     "15675": {
@@ -76078,6 +79160,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "время по Гринвичу",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296770.mp4"
+        ],
+        "recognitionText": [
+            "время по гринвичу"
         ]
     },
     "15762": {
@@ -76330,6 +79415,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ничто",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351469.mp4"
+        ],
+        "recognitionText": [
+            "ничто"
         ]
     },
     "16094": {
@@ -76533,6 +79621,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Лев",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313314.mp4"
+        ],
+        "recognitionText": [
+            "лев"
         ]
     },
     "16302": {
@@ -76752,6 +79843,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "течение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320581.mp4"
+        ],
+        "recognitionText": [
+            "течение"
         ]
     },
     "16536": {
@@ -77355,6 +80449,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/297010.mp4",
             "https://storage.yandexcloud.net/signs-signs/297009.mp4"
+        ],
+        "recognitionText": [
+            "отвращение"
         ]
     },
     "17024": {
@@ -77383,6 +80480,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "продолжительность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296526.mp4"
+        ],
+        "recognitionText": [
+            "продолжительность"
         ]
     },
     "17034": {
@@ -78169,6 +81269,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "однажды",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319199.mp4"
+        ],
+        "recognitionText": [
+            "однажды"
         ]
     },
     "17530": {
@@ -78232,6 +81335,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "личные качества",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296932.mp4"
+        ],
+        "recognitionText": [
+            "личные качества"
         ]
     },
     "17602": {
@@ -78344,6 +81450,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "адаптивность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312104.mp4"
+        ],
+        "recognitionText": [
+            "адаптивность"
         ]
     },
     "17689": {
@@ -78351,6 +81460,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "адаптивное поведение",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312103.mp4"
+        ],
+        "recognitionText": [
+            "адаптивное поведение"
         ]
     },
     "17692": {
@@ -78408,6 +81520,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296981.mp4",
             "https://storage.yandexcloud.net/signs-signs/316414.mp4"
+        ],
+        "recognitionText": [
+            "облегчение"
         ]
     },
     "17713": {
@@ -78429,6 +81544,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "аниматор",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312148.mp4"
+        ],
+        "recognitionText": [
+            "аниматор"
         ]
     },
     "17717": {
@@ -79664,6 +82782,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "оранжевый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/349233.mp4"
+        ],
+        "recognitionText": [
+            "оранжевый"
         ]
     },
     "18590": {
@@ -79727,6 +82848,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "питьевая вода",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/297029.mp4"
+        ],
+        "recognitionText": [
+            "питьевая вода"
         ]
     },
     "18612": {
@@ -80771,6 +83895,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "адаптивный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312105.mp4"
+        ],
+        "recognitionText": [
+            "адаптивный"
         ]
     },
     "19414": {
@@ -81059,6 +84186,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "дистресс",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296665.mp4"
+        ],
+        "recognitionText": [
+            "дистресс"
         ]
     },
     "19586": {
@@ -81164,6 +84294,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "внешний",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315890.mp4"
+        ],
+        "recognitionText": [
+            "внешний"
         ]
     },
     "19654": {
@@ -81241,6 +84374,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "получающий удовольствие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296505.mp4"
+        ],
+        "recognitionText": [
+            "получающий удовольствие"
         ]
     },
     "19700": {
@@ -81346,6 +84482,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "Москва",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/441841.mp4"
+        ],
+        "recognitionText": [
+            "москва"
         ]
     },
     "19866": {
@@ -81430,6 +84569,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "чуть-чуть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317274.mp4"
+        ],
+        "recognitionText": [
+            "чуть-чуть"
         ]
     },
     "19945": {
@@ -81528,6 +84670,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "безразличие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296729.mp4"
+        ],
+        "recognitionText": [
+            "безразличие"
         ]
     },
     "20052": {
@@ -81598,6 +84743,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "ребяческий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296604.mp4"
+        ],
+        "recognitionText": [
+            "ребяческий"
         ]
     },
     "20099": {
@@ -81955,6 +85103,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "одновременность",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296994.mp4"
+        ],
+        "recognitionText": [
+            "одновременность"
         ]
     },
     "20213": {
@@ -82271,6 +85422,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "вывод",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315913.mp4"
+        ],
+        "recognitionText": [
+            "вывод"
         ]
     },
     "20345": {
@@ -82397,6 +85551,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "благополучие",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296736.mp4"
+        ],
+        "recognitionText": [
+            "благополучие"
         ]
     },
     "20410": {
@@ -82748,6 +85905,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "зависеть",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316014.mp4"
+        ],
+        "recognitionText": [
+            "зависеть"
         ]
     },
     "20562": {
@@ -82846,6 +86006,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "связь",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317123.mp4"
+        ],
+        "recognitionText": [
+            "связь"
         ]
     },
     "20676": {
@@ -83189,6 +86352,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "о",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316404.mp4"
+        ],
+        "recognitionText": [
+            "о"
         ]
     },
     "21288": {
@@ -83231,6 +86397,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "также",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317475.mp4"
+        ],
+        "recognitionText": [
+            "также"
         ]
     },
     "21296": {
@@ -83245,6 +86414,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "и",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312411.mp4"
+        ],
+        "recognitionText": [
+            "и"
         ]
     },
     "21299": {
@@ -83280,6 +86452,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "характер",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317211.mp4"
+        ],
+        "recognitionText": [
+            "характер"
         ]
     },
     "21306": {
@@ -83302,6 +86477,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "близкий",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319290.mp4"
+        ],
+        "recognitionText": [
+            "близкий"
         ]
     },
     "21310": {
@@ -83323,6 +86501,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "стоить",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317444.mp4"
+        ],
+        "recognitionText": [
+            "стоить"
         ]
     },
     "21313": {
@@ -83386,6 +86567,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "даже",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319107.mp4"
+        ],
+        "recognitionText": [
+            "даже"
         ]
     },
     "21327": {
@@ -83407,6 +86591,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "для",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318668.mp4"
+        ],
+        "recognitionText": [
+            "для"
         ]
     },
     "21331": {
@@ -83429,6 +86616,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318738.mp4",
             "https://storage.yandexcloud.net/signs-signs/316016.mp4"
+        ],
+        "recognitionText": [
+            "зал"
         ]
     },
     "21334": {
@@ -83436,6 +86626,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "трудный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317551.mp4"
+        ],
+        "recognitionText": [
+            "трудный"
         ]
     },
     "21336": {
@@ -83557,6 +86750,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "организация",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319231.mp4"
+        ],
+        "recognitionText": [
+            "организация"
         ]
     },
     "21421": {
@@ -83600,6 +86796,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316822.mp4",
             "https://storage.yandexcloud.net/signs-signs/319851.mp4"
+        ],
+        "recognitionText": [
+            "позволять"
         ]
     },
     "21441": {
@@ -83628,6 +86827,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "любой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316250.mp4"
+        ],
+        "recognitionText": [
+            "любой"
         ]
     },
     "21446": {
@@ -83686,6 +86888,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "существование",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317459.mp4"
+        ],
+        "recognitionText": [
+            "существование"
         ]
     },
     "21458": {
@@ -83982,6 +87187,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "народ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316347.mp4"
+        ],
+        "recognitionText": [
+            "народ"
         ]
     },
     "21519": {
@@ -84018,6 +87226,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "голова",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319074.mp4"
+        ],
+        "recognitionText": [
+            "голова"
         ]
     },
     "21526": {
@@ -84236,6 +87447,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "недавно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319787.mp4"
+        ],
+        "recognitionText": [
+            "недавно"
         ]
     },
     "21590": {
@@ -84320,6 +87534,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "секунда",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/296630.mp4"
+        ],
+        "recognitionText": [
+            "секунда"
         ]
     },
     "21614": {
@@ -84376,6 +87593,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "просто",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319561.mp4"
+        ],
+        "recognitionText": [
+            "просто"
         ]
     },
     "21630": {
@@ -84397,6 +87617,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "советский",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317383.mp4"
+        ],
+        "recognitionText": [
+            "советский"
         ]
     },
     "21636": {
@@ -84482,6 +87705,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пробовать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319535.mp4"
+        ],
+        "recognitionText": [
+            "пробовать"
         ]
     },
     "21654": {
@@ -84871,6 +88097,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "копыто",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318802.mp4"
+        ],
+        "recognitionText": [
+            "копыто"
         ]
     },
     "21738": {
@@ -84934,6 +88163,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "впечатление",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318927.mp4"
+        ],
+        "recognitionText": [
+            "впечатление"
         ]
     },
     "21747": {
@@ -85039,6 +88271,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "лежать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319382.mp4"
+        ],
+        "recognitionText": [
+            "лежать"
         ]
     },
     "21769": {
@@ -85369,6 +88604,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318852.mp4",
             "https://storage.yandexcloud.net/signs-signs/312461.mp4"
+        ],
+        "recognitionText": [
+            "везде"
         ]
     },
     "21826": {
@@ -85855,6 +89093,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "врач",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318928.mp4"
+        ],
+        "recognitionText": [
+            "врач"
         ]
     },
     "21938": {
@@ -85967,6 +89208,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "позиция",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319852.mp4"
+        ],
+        "recognitionText": [
+            "позиция"
         ]
     },
     "21973": {
@@ -86857,6 +90101,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "способный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317431.mp4"
+        ],
+        "recognitionText": [
+            "способный"
         ]
     },
     "22212": {
@@ -86985,6 +90232,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "подробный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316812.mp4"
+        ],
+        "recognitionText": [
+            "подробный"
         ]
     },
     "22245": {
@@ -87111,6 +90361,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "пятый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316978.mp4"
+        ],
+        "recognitionText": [
+            "пятый"
         ]
     },
     "22304": {
@@ -87636,6 +90889,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "способ",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320486.mp4"
+        ],
+        "recognitionText": [
+            "способ"
         ]
     },
     "22575": {
@@ -87657,6 +90913,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "естественно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318704.mp4"
+        ],
+        "recognitionText": [
+            "естественно"
         ]
     },
     "22583": {
@@ -87902,6 +91161,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "экскурсия",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/297078.mp4"
+        ],
+        "recognitionText": [
+            "экскурсия"
         ]
     },
     "22750": {
@@ -87937,6 +91199,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "похоже",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319473.mp4"
+        ],
+        "recognitionText": [
+            "похоже"
         ]
     },
     "22763": {
@@ -87986,6 +91251,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "конечно",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318793.mp4"
+        ],
+        "recognitionText": [
+            "конечно"
         ]
     },
     "22809": {
@@ -88085,6 +91353,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "против",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319909.mp4"
+        ],
+        "recognitionText": [
+            "против"
         ]
     },
     "22863": {
@@ -88463,6 +91734,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "бой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315854.mp4"
+        ],
+        "recognitionText": [
+            "бой"
         ]
     },
     "23047": {
@@ -88499,6 +91773,9 @@ export let dictionaryData: DictionaryEntry = {
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/315755.mp4",
             "https://storage.yandexcloud.net/signs-signs/318825.mp4"
+        ],
+        "recognitionText": [
+            "крест"
         ]
     },
     "23055": {
@@ -88660,6 +91937,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "частый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317259.mp4"
+        ],
+        "recognitionText": [
+            "частый"
         ]
     },
     "23090": {
@@ -89059,6 +92339,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "смех",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320429.mp4"
+        ],
+        "recognitionText": [
+            "смех"
         ]
     },
     "23167": {
@@ -89634,6 +92917,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "веселиться",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/318863.mp4"
+        ],
+        "recognitionText": [
+            "веселиться"
         ]
     },
     "23294": {
@@ -89767,6 +93053,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "розовато-лиловый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/351498.mp4"
+        ],
+        "recognitionText": [
+            "розовато-лиловый"
         ]
     },
     "23320": {
@@ -89844,6 +93133,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "убивать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320688.mp4"
+        ],
+        "recognitionText": [
+            "убивать"
         ]
     },
     "23342": {
@@ -90089,6 +93381,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "таблетка",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317470.mp4"
+        ],
+        "recognitionText": [
+            "таблетка"
         ]
     },
     "23393": {
@@ -90467,6 +93762,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "шаг",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320896.mp4"
+        ],
+        "recognitionText": [
+            "шаг"
         ]
     },
     "23673": {
@@ -90628,6 +93926,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "стоять",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/320504.mp4"
+        ],
+        "recognitionText": [
+            "стоять"
         ]
     },
     "23717": {
@@ -90866,6 +94167,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "перевод",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319663.mp4"
+        ],
+        "recognitionText": [
+            "перевод"
         ]
     },
     "23773": {
@@ -91531,6 +94835,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "шестой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317281.mp4"
+        ],
+        "recognitionText": [
+            "шестой"
         ]
     },
     "24015": {
@@ -91615,6 +94922,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "двенадцатый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/313101.mp4"
+        ],
+        "recognitionText": [
+            "двенадцатый"
         ]
     },
     "24037": {
@@ -91622,6 +94932,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "неудобный",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319153.mp4"
+        ],
+        "recognitionText": [
+            "неудобный"
         ]
     },
     "24038": {
@@ -91685,6 +94998,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "восьмой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/312506.mp4"
+        ],
+        "recognitionText": [
+            "восьмой"
         ]
     },
     "24132": {
@@ -91692,6 +95008,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "одиннадцатый",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/316437.mp4"
+        ],
+        "recognitionText": [
+            "одиннадцатый"
         ]
     },
     "24135": {
@@ -91755,6 +95074,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "седьмой",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/317132.mp4"
+        ],
+        "recognitionText": [
+            "седьмой"
         ]
     },
     "24228": {
@@ -91825,6 +95147,9 @@ export let dictionaryData: DictionaryEntry = {
         "text": "писать",
         "gifSource": [
             "https://storage.yandexcloud.net/signs-signs/319800.mp4"
+        ],
+        "recognitionText": [
+            "писать"
         ]
     },
     "24341": {
