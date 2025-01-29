@@ -88,7 +88,7 @@ module.exports = (env, options) => {
         output: {
             filename: "js/[name].bundle.js",
             path: path.resolve(__dirname, outputConfig.destPath),
-            publicPath: "https://rsl-dict.netlify.app/",
+            publicPath: "https://spreadthesign.ru/",
         },
         plugins: [
             new HtmlWebpackPlugin({
@@ -96,7 +96,7 @@ module.exports = (env, options) => {
                 inject: true,
                 minify: true,
                 templateParameters: {
-                    PUBLIC_URI: "https://rsl-dict.netlify.app",
+                    PUBLIC_URI: "https://spreadthesign.ru",
                 },
                 favicon: "./public/favicon.ico",
                 manifest: "./public/manifest.json",
