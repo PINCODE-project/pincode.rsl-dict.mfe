@@ -1,4 +1,4 @@
-import { SignRecognitionBlock } from 'ui/SignRecognitionBlock'
+import { SignRecognitionBlock } from '@pin-code/uikit.lib'
 import { dictionaryData } from '@/data/dictionary'
 import { Navigate, useParams } from "react-router-dom";
 import { useMemo } from "react";

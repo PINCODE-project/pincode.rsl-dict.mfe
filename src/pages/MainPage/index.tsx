@@ -1,8 +1,6 @@
-import { Card, CardContent, CardFooter, CardHeader } from "ui/Card";
-import { Heading } from "ui/Article/Heading";
+import { Button, Card, CardContent, CardFooter, CardHeader, Heading } from "@pin-code/uikit.lib";
 import Main from "@/assets/images/Main.webp";
 import { useIsMobile } from "@/hooks/use-mobile";
-import { Button } from "ui/Button";
 import { setIsOpenSidebar } from "@/store/sidebar";
 
 export default function MainPage() {
@@ -22,34 +20,32 @@ export default function MainPage() {
                             <li>Основан на базе видео жестов популярного сервиса</li>
                         </ul>
                     </CardContent>
-                    {
-                        !isMobile &&
+                    {!isMobile && (
                         <div className="pr-8">
-                            <img src={Main} alt="Иллюстрация" width="280px"/>
+                            <img src={Main} alt="Иллюстрация" width="280px" />
                         </div>
-                    }
+                    )}
                 </div>
                 <CardFooter>
-                    {
-                        isMobile &&
+                    {isMobile && (
                         <div className="flex flex-col gap-6 justify-center">
                             <p className="text-xl text-muted-foreground w-full text-center">
-                                Выберите слово из словаря, чтобы
-                                посмотреть видео с жестом
+                                Выберите слово из словаря, чтобы посмотреть видео с жестом
                             </p>
-                            <Button variant='default' onClick={() => setIsOpenSidebar(true)}>Выбрать жест</Button>
+                            <Button variant="default" onClick={() => setIsOpenSidebar(true)}>
+                                Выбрать жест
+                            </Button>
                         </div>
-                    }
-                    {
-                        !isMobile &&
+                    )}
+                    {!isMobile && (
                         <p className="text-xl text-muted-foreground w-full">
-                            Выберите слово из словаря, чтобы<br/>
+                            Выберите слово из словаря, чтобы
+                            <br />
                             посмотреть видео с жестом
                         </p>
-                    }
+                    )}
                 </CardFooter>
             </Card>
         </div>
-
-    )
+    );
 }

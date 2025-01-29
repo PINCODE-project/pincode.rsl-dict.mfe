@@ -14,21 +14,20 @@ const Layout = () => {
 
     return (
         <div className={styles.container}>
-            <Header onOpenSidebar={() => setIsOpenSidebar(true)}/>
+            <Header onOpenSidebar={() => setIsOpenSidebar(true)} />
             <div className={styles.content}>
-                <Outlet/>
+                <Outlet />
             </div>
-            {
-                isMobile &&
+            {isMobile && (
                 <Sidebar
                     onSelectWord={(entry) => navigate(MainRouter.DictionaryPage(`${entry.id}`))}
                     isOpen={isSidebarOpen}
                     onClose={() => setIsOpenSidebar(false)}
                 />
-            }
-            <div className={styles.newYear}/>
+            )}
+            {/*<div className={styles.newYear}/>*/}
         </div>
-    )
-}
+    );
+};
 
 export default Layout;

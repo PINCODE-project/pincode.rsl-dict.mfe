@@ -1,18 +1,13 @@
-import { memo, useEffect, useMemo, useRef, useState } from 'react';
-import { useVirtualizer } from '@tanstack/react-virtual';
-import { useDebouncedCallback } from '@/hooks/use-debounce';
-import { Input } from 'ui/Input';
-import { Button } from 'ui/Button';
-import { ScrollArea } from 'ui/ScrollArea';
-import { Sheet, SheetContent } from 'ui/Sheet';
-import { Card } from 'ui/Card';
-import { dictionaryData, Sign } from '@/data/dictionary';
+import { memo, useEffect, useMemo, useRef, useState } from "react";
+import { useVirtualizer } from "@tanstack/react-virtual";
+import { useDebouncedCallback } from "@/hooks/use-debounce";
+import { Button, Card, Input, ScrollArea, Sheet, SheetContent } from "@pin-code/uikit.lib";
+import { dictionaryData, Sign } from "@/data/dictionary";
 import { cn } from "@/lib/utils";
 import styles from "./styles.module.scss";
-import Fuse from 'fuse.js';
+import Fuse from "fuse.js";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { Link } from "react-router-dom";
-import { Snowflake } from "lucide-react";
 import { setIsOpenSidebar } from "@/store/sidebar";
 
 interface SidebarProps {
@@ -23,21 +18,18 @@ interface SidebarProps {
 
 export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
     const isMobile = useIsMobile();
-    const [searchTerm, setSearchTerm] = useState('');
-    const alphabet = 'АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ'.split('');
-    const numbers = '0123456789'.split('');
+    const [searchTerm, setSearchTerm] = useState("");
+    const alphabet = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ".split("");
+    const numbers = "0123456789".split("");
     const parentRef = useRef<HTMLDivElement>(null);
 
-    const debouncedSetSearchTerm = useDebouncedCallback(
-        (value: string) => setSearchTerm(value),
-        0
-    );
+    const debouncedSetSearchTerm = useDebouncedCallback((value: string) => setSearchTerm(value), 0);
 
     const filteredWords = useMemo(() => {
         const words: { id: string; text: string; entry: Sign }[] = [];
 
         Object.values(dictionaryData).forEach((entry) => {
-            entry.text.split(';').forEach((word, index) => {
+            entry.text.split(";").forEach((word, index) => {
                 if (word.toLowerCase().includes(searchTerm.toLowerCase())) {
                     const trimmedWord = word.trim();
                     words.push({
@@ -54,21 +46,23 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
 
     const fuse = useMemo(() => {
         return new Fuse(filteredWords, {
-            keys: ['text'],
+            keys: ["text"],
             includeScore: true,
             threshold: 0.3,
         });
     }, [filteredWords]);
 
     const filteredAndSearchWords = useMemo(() => {
-        if (searchTerm === '') {
-            return filteredWords.length ? filteredWords : Object.values(dictionaryData).map(entry => ({
-                id: entry.id,
-                text: entry.text.split(';')[0]!.trim(),
-                entry,
-            }));
+        if (searchTerm === "") {
+            return filteredWords.length
+                ? filteredWords
+                : Object.values(dictionaryData).map((entry) => ({
+                      id: entry.id,
+                      text: entry.text.split(";")[0]!.trim(),
+                      entry,
+                  }));
         }
-        return fuse.search(searchTerm).map(result => result.item);
+        return fuse.search(searchTerm).map((result) => result.item);
     }, [searchTerm, fuse, filteredWords]);
 
     const virtualizer = useVirtualizer({
@@ -89,7 +83,7 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
         virtualizer.measure();
     }, [isOpen]);
 
-    const sidebarKey = isOpen ? 'open' : 'closed';
+    const sidebarKey = isOpen ? "open" : "closed";
 
     const VirtualRow = memo(({ word, virtualRow, onSelectWord, onClose }: any) => (
         <div
@@ -98,13 +92,12 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
                     virtualizer.measureElement(el);
                 }
             }}
-
             key={word.id}
             style={{
-                position: 'absolute',
+                position: "absolute",
                 top: 0,
                 left: 0,
-                width: '100%',
+                width: "100%",
                 transform: `translateY(${virtualRow.start}px)`,
             }}
             data-index={virtualRow.index}
@@ -123,7 +116,6 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
         </div>
     ));
 
-
     const sidebarContent = (
         <div className="h-full flex flex-col p-2 gap-4">
             <Input
@@ -141,8 +133,8 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
                     <div
                         style={{
                             height: `${virtualizer.getTotalSize()}px`,
-                            width: '100%',
-                            position: 'relative',
+                            width: "100%",
+                            position: "relative",
                         }}
                     >
                         {virtualizer.getVirtualItems().map((virtualRow) => {
@@ -191,14 +183,12 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
 
     return (
         <>
-            {
-                !isMobile &&
+            {!isMobile && (
                 <Card key={sidebarKey} className="h-full bg-card border-r p-4 w-[300px]">
                     {sidebarContent}
                 </Card>
-            }
-            {
-                isMobile &&
+            )}
+            {isMobile && (
                 <Sheet open={isOpen} onOpenChange={onClose}>
                     {/*@ts-ignore*/}
                     <SheetContent key={sidebarKey} side="left" className="w-[300px] sm:w-[400px]">
@@ -206,18 +196,18 @@ export function Sidebar({ onSelectWord, isOpen, onClose }: SidebarProps) {
                             <Button variant="outline" asChild onClick={() => setIsOpenSidebar(false)}>
                                 <Link to="/about">О нас</Link>
                             </Button>
-                            <Link to="/new-year">
-                                <Button variant="destructive" effect="shineHover" className="w-full"
-                                        onClick={() => setIsOpenSidebar(false)}>
-                                    <Snowflake className="mr-2 h-5 w-5"/>
-                                    С новым годом!
-                                </Button>
-                            </Link>
+                            {/*<Link to="/new-year">*/}
+                            {/*    <Button variant="destructive" effect="shineHover" className="w-full"*/}
+                            {/*            onClick={() => setIsOpenSidebar(false)}>*/}
+                            {/*        <Snowflake className="mr-2 h-5 w-5"/>*/}
+                            {/*        С новым годом!*/}
+                            {/*    </Button>*/}
+                            {/*</Link>*/}
                         </div>
                         {sidebarContent}
                     </SheetContent>
                 </Sheet>
-            }
+            )}
         </>
     );
 }
