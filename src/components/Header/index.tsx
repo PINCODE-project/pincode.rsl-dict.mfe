@@ -1,7 +1,6 @@
-import { Link } from 'react-router-dom'
-import { Button } from 'ui/Button'
-import { ThemeToggle } from 'ui/ThemeToggle'
-import { Menu, Snowflake } from 'lucide-react'
+import { Link } from "react-router-dom";
+import { Button, ThemeToggle } from "@pin-code/uikit.lib";
+import { Menu } from "lucide-react";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { MainRouter } from "@/router/routes/main";
 import Logo from "@/assets/images/Logo.svg";
@@ -21,12 +20,11 @@ export function Header({ onOpenSidebar }: HeaderProps) {
                 <div className="flex items-center space-x-4">
                     <Link to={MainRouter.DictionaryPage("")}>
                         <div className={styles.logo}>
-                            <img src={Logo} alt="Logo"/>
+                            <img src={Logo} alt="Logo" />
                         </div>
                     </Link>
                 </div>
-                {
-                    !isMobile &&
+                {!isMobile && (
                     <nav>
                         <ul className="flex space-x-4">
                             <li>
@@ -40,27 +38,25 @@ export function Header({ onOpenSidebar }: HeaderProps) {
                                 </Button>
                             </li>
                             <li className="flex justify-center items-center">
-                                <ThemeToggle/>
+                                <ThemeToggle />
                             </li>
-                            <li>
-                                <Link to="/new-year">
-                                    <Button variant="destructive" effect="shineHover">
-                                        <Snowflake className="mr-2 h-5 w-5"/>
-                                        С новым годом!
-                                    </Button>
-                                </Link>
-                            </li>
+                            {/*<li>*/}
+                            {/*    <Link to="/new-year">*/}
+                            {/*        <Button variant="destructive" effect="shineHover">*/}
+                            {/*            <Snowflake className="mr-2 h-5 w-5"/>*/}
+                            {/*            С новым годом!*/}
+                            {/*        </Button>*/}
+                            {/*    </Link>*/}
+                            {/*</li>*/}
                         </ul>
                     </nav>
-                }
-                {
-                    isMobile &&
+                )}
+                {isMobile && (
                     <Button variant="ghost" size="icon" className="md:hidden" onClick={onOpenSidebar}>
-                        <Menu className="h-6 w-6"/>
+                        <Menu className="h-6 w-6" />
                     </Button>
-                }
+                )}
             </div>
         </header>
-    )
+    );
 }
-

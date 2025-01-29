@@ -1,5 +1,5 @@
 import { ConfigRouteProps } from "../types";
-import { mainRouteConfig } from "@/router/routes/main";
+import { mainRouteConfig } from "./main";
 
 export const routeConfig: ConfigRouteProps[] = [
     ...mainRouteConfig,
