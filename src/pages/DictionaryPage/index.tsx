@@ -1,5 +1,17 @@
 import { dictionaryData } from "@/data/dictionary";
-import { Button, Card, CardContent, CardFooter, CardHeader, Heading, SignVideo, Tabs } from "@pin-code/uikit.lib";
+import {
+    Button,
+    Card,
+    CardContent,
+    CardFooter,
+    CardHeader,
+    Heading,
+    SignVideo,
+    Tabs,
+    TabsContent,
+    TabsList,
+    TabsTrigger,
+} from "@pin-code/uikit.lib";
 import { useNavigate, useParams } from "react-router-dom";
 import { FC, useMemo } from "react";
 import { MainRouter } from "@/router/routes/main";
@@ -36,15 +48,20 @@ export default function DictionaryPage() {
             </CardHeader>
             <CardContent>
                 {sign!.gifSource.length > 1 ? (
-                    // @ts-ignore
-                    <Tabs
-                        className={"mt-0"}
-                        // @ts-ignore
-                        tabs={sign!.gifSource.map((gif, index) => ({
-                            label: `${index + 1} вариант`,
-                            children: <VideoComponent gif={gif} />,
-                        }))}
-                    />
+                    <Tabs defaultValue="0">
+                        <TabsList className="grid w-full grid-cols-2">
+                            {sign!.gifSource.map((gif, index) => (
+                                <TabsTrigger key={`${gif}${index}`} value={`${index}`}>
+                                    {index + 1} вариант
+                                </TabsTrigger>
+                            ))}
+                        </TabsList>
+                        {sign!.gifSource.map((gif, index) => (
+                            <TabsContent key={`${gif}${index}`} value={`${index}`}>
+                                <VideoComponent gif={gif} />
+                            </TabsContent>
+                        ))}
+                    </Tabs>
                 ) : (
                     <VideoComponent gif={sign!.gifSource[0]!} />
                 )}
