@@ -49,7 +49,7 @@ export default function DictionaryPage() {
             <CardContent>
                 {sign!.gifSource.length > 1 ? (
                     <Tabs defaultValue="0">
-                        <TabsList className="grid w-full grid-cols-2">
+                        <TabsList className="flex justify-start w-fit flex-wrap h-fit">
                             {sign!.gifSource.map((gif, index) => (
                                 <TabsTrigger key={`${gif}${index}`} value={`${index}`}>
                                     {index + 1} вариант
