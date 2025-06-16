@@ -1,0 +1,18 @@
+version: '3.7'
+
+services:
+  mfe_rsl:
+    container_name: mfe-rsl
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    restart: always
+    env_file: ".env"
+    ports:
+      - "5002:5002"
+    networks:
+      - mfe_rsl_network
+        
+networks:
+  mfe_rsl_network:
+    driver: bridge
