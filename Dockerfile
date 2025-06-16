@@ -1,12 +1,10 @@
-FROM node:22-alpine
+FROM node:22-slim
 
 WORKDIR /app
 
 COPY package.json yarn.lock ./
 
 COPY .npmrc ./
-
-RUN yarn config set registry https://registry.npmmirror.com
 
 RUN yarn install --frozen-lockfile
 
