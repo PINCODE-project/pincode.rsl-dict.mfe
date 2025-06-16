@@ -4,7 +4,7 @@ WORKDIR /app
 
 COPY package.json yarn.lock ./
 
-COPY .npmrc ./
+COPY .npmrc .yarnrc ./
 
 RUN yarn install --frozen-lockfile
 
