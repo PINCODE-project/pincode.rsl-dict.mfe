@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config} */
+/** @type {import("tailwindcss").Config} */
 module.exports = {
     darkMode: ["class"],
     content: ["./src/**/*.{ts,tsx}"],
@@ -87,6 +87,15 @@ module.exports = {
                     from: { transform: "translateY(0)" },
                     to: { transform: "translateY(calc(-100% - var(--gap)))" },
                 },
+            },
+            screens: {
+                xxs: "360px",
+                xs: "480px",
+                sm: "576px",
+                md: "768px",
+                lg: "992px",
+                xl: "1200px",
+                xxl: "1600px",
             },
             animation: {
                 "accordion-down": "accordion-down 0.2s ease-out",
