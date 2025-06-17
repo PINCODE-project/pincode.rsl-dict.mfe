@@ -6,7 +6,7 @@ COPY package.json yarn.lock ./
 
 COPY .npmrc .yarnrc ./
 
-RUN yarn install --frozen-lockfile
+RUN yarn install --frozen-lockfile --network-timeout 100000
 
 COPY . .
 
